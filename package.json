@@ -1,0 +1,13 @@
+{
+  "name": "financial-highlights",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily financial headlines dashboard aggregated from public RSS feeds and the NYT API",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
