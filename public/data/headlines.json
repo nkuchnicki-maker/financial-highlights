@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:44:55.202Z",
+  "generatedAt": "2026-10-19T17:14:53.983Z",
   "sources": {
     "WSJ": [
       {
@@ -148,10 +148,45 @@
     "Bloomberg": [
       {
         "source": "Bloomberg",
+        "title": "Thinking More About AI and the Shale Boom Parallel",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/thinking-more-about-ai-and-the-shale-boom-parallel",
+        "summary": "Looking past the telecom comparison.",
+        "pubDate": "2026-10-19T17:09:52.000Z"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Walmart Sells US Debt, Eyes Canadian Market as Spending Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
+        "summary": "Walmart Inc. is selling US dollar bonds for a second time this year and sounding out investors for a debut Canadian debt offering as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.",
+        "pubDate": "2026-10-19T15:36:09.000Z"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
+        "summary": "Hedge funds retreated from tech stocks at the fastest clip in at least a decade, according to Goldman Sachs Inc.’s prime desk.",
+        "pubDate": "2026-10-19T16:53:40.000Z"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Avis Budget (CAR) Stock Crashes as 600% Short Squeeze Rally Fully Unwinds",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/avis-budget-car-stock-crashes-as-600-short-squeeze-rally-fully-unwinds",
+        "summary": "Shares of Avis Budget Group Inc. have crashed back to earth, ending a chapter that put bearish investors through a punishing short squeeze.",
+        "pubDate": "2026-10-19T16:45:14.000Z"
+      },
+      {
+        "source": "Bloomberg",
         "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
         "summary": "A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.",
         "pubDate": "2026-10-18T22:07:25.000Z"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Treasuries Fall as Tech Shares Rebound, Weakening Haven Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-19/treasuries-fall-as-tech-shares-rebound-weakening-haven-demand",
+        "summary": "Treasuries fell as a rebound in US technology shares sapped haven demand for US government debt.",
+        "pubDate": "2026-10-19T16:34:56.000Z"
       },
       {
         "source": "Bloomberg",
@@ -180,50 +215,22 @@
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
         "summary": "Oil eased from a five-month high as technical measures indicated a sharp rally in the previous session was overdone.",
         "pubDate": "2026-10-18T22:02:51.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Walmart Sells US Debt, Eyes Canadian Market as Spending Grows",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
-        "summary": "Walmart Inc. is selling US dollar bonds for a second time this year and sounding out investors for a debut Canadian debt offering as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.",
-        "pubDate": "2026-10-19T15:36:09.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "BOC Surveys Show Higher Inflation Expectations, Passthrough",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/boc-surveys-show-higher-inflation-expectations-passthrough",
-        "summary": "Bank of Canada surveys showed inflation expectations moving higher, and more evidence that firms plan to pass on higher input costs to customers.",
-        "pubDate": "2026-10-19T15:30:00.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "The Copper Rally Faces a Tariff Test",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-19/the-copper-rally-faces-a-tariff-test-video",
-        "summary": "Copper has surged amid tariff fears, but the rally may be vulnerable if U.S. trade measures don't materialize. Invesco's Kathy Kriskey joins Blooomberg Open Interest to explain how stockpiling, tariff uncertainty, and growing demand from data centers and electrification could sha",
-        "pubDate": "2026-10-19T15:29:30.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Ivanhoe Electric (IE) in Talks to Sell Arizona Copper Amid Data Center Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/ivanhoe-electric-ie-in-talks-to-sell-arizona-copper-amid-data-center-demand",
-        "summary": "Ivanhoe Electric Inc. is in discussions with prospective buyers of copper from its project in Arizona, as the rapid expansion of data centers and power grids stokes demand for the metal.",
-        "pubDate": "2026-10-19T07:00:00.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Mercados dudan de la euforia electoral en Latinoamérica",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-19/mercados-dudan-de-la-euforia-electoral-en-latinoamerica-mvfesjs1",
-        "summary": "Los fuertes rallies desatados por elecciones en Latinoamérica comienzan a mostrar grietas, mientras inversionistas evalúan si seguir apostando por la región o asegurar ganancias.",
-        "pubDate": "2026-10-19T15:28:20.000Z"
       }
     ],
     "Barron's": [
       {
         "source": "Barron's",
-        "title": "Intel Stock Is Upgraded. Why Losing $78 Billion in Market Value Is a Good Thing.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNmNfd3Y3WTZoTFc1eGxrdFRaNHJFU0dXcUY2VUxkWTdzOHA5TlU2OTVMcVRTcHlheU1ibzdjbUNla1ZSVjFFaDZUZGw5eDZqYldzTF9MQVBwY19DU3h0aFhJLUM3UjVrYThDRGQwYTMtLTNyc3Y3dHBUd0syajg?oc=5",
+        "title": "CoreWeave Upgraded to Buy After Last Week’s Steep Decline. Why Goldman Likes the Stock.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX3BobWkzNkVhTVdIZm9KclBqRExxdGpTZWJ1b2FYWUYxcm42bTJjd1FqZ0lIOEVQeGFmWDNQUzRXSXJWTmxiQThlLWY0bzlON2w4UWQ3cEZlaVlJUlNGTDNFcnI5aUs1N3dFNUp4X1dMMUR2em90anVwcGI?oc=5",
         "summary": "",
-        "pubDate": "2026-10-19T13:49:00.000Z"
+        "pubDate": "2026-10-19T14:42:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+        "summary": "",
+        "pubDate": "2026-10-19T13:57:00.000Z"
       },
       {
         "source": "Barron's",
@@ -234,10 +241,17 @@
       },
       {
         "source": "Barron's",
-        "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+        "title": "Cleveland-Cliffs Expects 2027 Will Be a Very Good Year With Help From Tariffs",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXBBaFZwYTc4RnF4ZEx3SnJmanFFcE9KQlZtMG9ZRWZKdU5JblZMRWRYNkJtM2VKOExiWDRFSjYtMmJIb2FKV1dLclRNbS1FYlVhUXZmMjRUZjhmdm5BRHNkRDB2NVhNTTNPYnpBelZzYXJKNXpla2t2SG1LNGxYdUJwX01lZw?oc=5",
         "summary": "",
-        "pubDate": "2026-10-19T13:57:00.000Z"
+        "pubDate": "2026-10-19T11:07:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Elon Musk Is Giving Away $10 Billion in SpaceX Stock—To Your Kids.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdmpQNkR3Wkc1TkZpX1Zzaks4SXZTX3Awd1FoRmdZcTMyUjQ4UzRqbXVXVGFOb2NyYkpieHlPRGxFSzV1VzEtN2xqT01VVVZJejhuSmFONFk2S3EteHVQcXNPbnFzTWVnbllmM0dGVWdSMzhRanlQLVNR?oc=5",
+        "summary": "",
+        "pubDate": "2026-10-19T14:22:00.000Z"
       },
       {
         "source": "Barron's",
@@ -269,27 +283,20 @@
       },
       {
         "source": "Barron's",
-        "title": "Intel, CoreWeave, SpaceX, Tesla, Amazon, Cleveland-Cliffs, and More Stocks That Explain Today’s Market",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50c2hTekRqQl80NHFwM2NJM1dZR3JUQ0VhZHdyY0xEdEV0YUZuaTJOel9aU3FZVHpHcE5aRTNfeVdRM25wRFhyNGM2QUZPeWJwbEVIVUFSS2ZjWFNrY0s2TWpPM3g?oc=5",
+        "title": "Merck KgaA Is Paying More than Double for Silence Therapeutics. The Stock Is Up 125%.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM25STHJOVlAtRVlFVDF3anNYSGVMV3lOdVJhYTlocFQ3VjJ4S2MtZkx6dXRyVU50QzJycUpzWDhtUWVGWDhoTFU0OTliM1lUZFkxZE5EUjBIQTNYSEQtZlN5dWUzU2RzdnRqSlRKTkdMY19Yd3duRjZfcmxxVTF4U0dGUkZRaXg3SDBB?oc=5",
         "summary": "",
-        "pubDate": "2026-10-19T14:03:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Chip Stocks Stumbled This Week But Bubble Worries Are Overblown",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNlRVZWhoZmEtOElFT2ZxY2dVRUZXVWlXX2RmQWFkQ3F1X2syY0RkdnVHaC0yMldNNUFjWHhJdk1PZlNaS2laN3d1TFNoMXVlNUEwRFVFT1hReGNNTG82akJEX2Z0T0l3aExJWkdEa01TMDgwbU0tdVZ5dy0waF9HZWRn?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-16T17:04:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Nike Stock Has Been Dismal. Why It’s Time to Be Bullish.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1dxbWhfUlp1MHNXUVladGlMNDNyY0plM3o5bnIxWDhYTDUwVHVZOXdFclBscWZlcEVMMVRzTG41MkNFcU9MWW5qUkxaWVZTUzNkWTZSd0ZKUTROVzNDeTZpR091TVlfWV81ak1KeXBYSktwSUVkZDJneVZfMExyV3lRYmk?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-17T04:21:00.000Z"
+        "pubDate": "2026-10-19T14:19:00.000Z"
       }
     ],
     "MarketWatch": [
+      {
+        "source": "MarketWatch",
+        "title": "Micron and other chip stocks spring back to life after bruising selloff",
+        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+        "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+        "pubDate": "2026-10-19T16:59:00.000Z"
+      },
       {
         "source": "MarketWatch",
         "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
@@ -299,7 +306,7 @@
       },
       {
         "source": "MarketWatch",
-        "title": "SpaceX stock made billions for college endowments. But their luck is about to run out.",
+        "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
         "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
         "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
         "pubDate": "2026-10-19T16:35:00.000Z"
@@ -352,13 +359,6 @@
         "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
         "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
         "pubDate": "2026-10-19T13:33:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "Micron and other chip stocks spring back to life after bruising selloff",
-        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-        "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-        "pubDate": "2026-10-19T13:22:00.000Z"
       }
     ]
   }

@@ -39,7 +39,64 @@ body {
   color: var(--muted);
 }
 
-.board {
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+}
+
+.tab-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.tab-btn:hover {
+  color: var(--text);
+}
+
+.tab-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #0f1216;
+  font-weight: 600;
+}
+
+.digest-controls {
+  max-width: 1200px;
+  margin: 1.5rem auto 0;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.digest-controls label {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-right: 0.5rem;
+}
+
+#digest-date {
+  background: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.9rem;
+}
+
+.digest-note {
+  margin: 0.6rem 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.board,
+.digest-board {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.25rem;
@@ -104,6 +161,32 @@ body {
   margin-top: 0.3rem;
   font-size: 0.75rem;
   color: var(--muted);
+}
+
+.tag-row {
+  display: flex;
+  gap: 0.35rem;
+  margin-top: 0.4rem;
+}
+
+.tag {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.tag-macro {
+  border-color: #c99b4f;
+  color: #e0b776;
+}
+
+.tag-markets {
+  border-color: #4f8fc9;
+  color: #7cb3e8;
 }
 
 .empty-note {

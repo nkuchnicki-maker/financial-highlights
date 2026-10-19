@@ -2,10 +2,11 @@
   "name": "financial-highlights",
   "version": "1.0.0",
   "private": true,
-  "description": "Daily financial headlines dashboard aggregated from public RSS feeds and the NYT API",
+  "description": "Daily financial headlines dashboard aggregated from public RSS feeds, with a curated markets/macro digest archive",
   "type": "module",
   "scripts": {
-    "fetch": "node scripts/fetch-feeds.js"
+    "fetch": "node scripts/fetch-feeds.js",
+    "digest": "node scripts/build-digest.js"
   },
   "dependencies": {
     "fast-xml-parser": "^4.5.0"

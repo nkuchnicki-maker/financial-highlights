@@ -1,0 +1,691 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T17:14:53.983Z",
+  "curated": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Stocks Rebound After Friday’s Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
+      "summary": "Intel, CoreWeave make up some ground; European stocks, French bonds slump",
+      "pubDate": "2026-10-19T08:35:05.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 8
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+      "summary": "A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.",
+      "pubDate": "2026-10-18T22:07:25.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "WSJ",
+      "title": "Rising Rates Threaten Wall Street’s Golden Goose in Trading",
+      "link": "https://www.wsj.com/finance/banking/rising-rates-threaten-wall-streets-golden-goose-in-trading-db7fc8cb?mod=rss_markets_main",
+      "summary": "Weak bond markets undermine what had been a strength for big banks.",
+      "pubDate": "2026-10-15T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "WSJ",
+      "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
+      "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
+      "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
+      "pubDate": "2026-10-19T15:44:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Declines as Bond Yields Stay Elevated Despite Oil Drop",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+      "summary": "Gold slipped as bond yields stayed elevated despite falling energy prices, with traders assessing the outlook for the Federal Reserve’s interest-rate path.",
+      "pubDate": "2026-10-18T23:47:43.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Avis Budget (CAR) Stock Crashes as 600% Short Squeeze Rally Fully Unwinds",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/avis-budget-car-stock-crashes-as-600-short-squeeze-rally-fully-unwinds",
+      "summary": "Shares of Avis Budget Group Inc. have crashed back to earth, ending a chapter that put bearish investors through a punishing short squeeze.",
+      "pubDate": "2026-10-19T16:45:14.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Walmart Sells US Debt, Eyes Canadian Market as Spending Grows",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
+      "summary": "Walmart Inc. is selling US dollar bonds for a second time this year and sounding out investors for a debut Canadian debt offering as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.",
+      "pubDate": "2026-10-19T15:36:09.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "US stocks rebound after AI sell-off",
+      "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+      "summary": "Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout",
+      "pubDate": "2026-10-19T13:37:31.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+      "pubDate": "2026-10-19T16:59:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
+      "summary": "Hedge funds retreated from tech stocks at the fastest clip in at least a decade, according to Goldman Sachs Inc.’s prime desk.",
+      "pubDate": "2026-10-19T16:53:40.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "pubDate": "2026-10-19T15:00:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "US defence stocks tumble as investors bet on Democratic election sweep",
+      "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
+      "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+      "pubDate": "2026-10-19T13:04:40.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
+      "summary": "Traders are revealing where they see the biggest pitfalls in debt issuance related to artificial intelligence.",
+      "pubDate": "2026-10-19T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+      "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+      "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
+      "pubDate": "2026-10-19T16:35:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Fall as Tech Shares Rebound, Weakening Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/treasuries-fall-as-tech-shares-rebound-weakening-haven-demand",
+      "summary": "Treasuries fell as a rebound in US technology shares sapped haven demand for US government debt.",
+      "pubDate": "2026-10-19T16:34:56.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "CoreWeave Upgraded to Buy After Last Week’s Steep Decline. Why Goldman Likes the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX3BobWkzNkVhTVdIZm9KclBqRExxdGpTZWJ1b2FYWUYxcm42bTJjd1FqZ0lIOEVQeGFmWDNQUzRXSXJWTmxiQThlLWY0bzlON2w4UWQ3cEZlaVlJUlNGTDNFcnI5aUs1N3dFNUp4X1dMMUR2em90anVwcGI?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:42:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+      "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+      "pubDate": "2026-10-19T16:42:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
+      "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
+      "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
+      "pubDate": "2026-10-19T15:59:35.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+      "pubDate": "2026-10-19T15:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Elon Musk Is Giving Away $10 Billion in SpaceX Stock—To Your Kids.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdmpQNkR3Wkc1TkZpX1Zzaks4SXZTX3Awd1FoRmdZcTMyUjQ4UzRqbXVXVGFOb2NyYkpieHlPRGxFSzV1VzEtN2xqT01VVVZJejhuSmFONFk2S3EteHVQcXNPbnFzTWVnbllmM0dGVWdSMzhRanlQLVNR?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:22:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Merck KgaA Is Paying More than Double for Silence Therapeutics. The Stock Is Up 125%.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM25STHJOVlAtRVlFVDF3anNYSGVMV3lOdVJhYTlocFQ3VjJ4S2MtZkx6dXRyVU50QzJycUpzWDhtUWVGWDhoTFU0OTliM1lUZFkxZE5EUjBIQTNYSEQtZlN5dWUzU2RzdnRqSlRKTkdMY19Yd3duRjZfcmxxVTF4U0dGUkZRaXg3SDBB?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:19:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+      "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
+      "pubDate": "2026-10-19T14:10:33.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:57:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+      "link": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+      "summary": "Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans",
+      "pubDate": "2026-10-19T13:54:39.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:52:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "AI Stocks Bounce Back but It’s Nothing to Celebrate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaF92YzB0R3FYNGxFMzkyZE8wN282UG9ubjFKUHBfM0ZtNFNJNVRUN1FzUk1rc2RydXBoZ1hKWktHWnJ0VHUtV0VKcWhCbFNYOTcyZ3FSRFgzUXV4VWVzV3NhT2FzWEk5QVAzU1VNNXplcDVuaVBXX1ZoMGZCYzFxS1VSVWc5ajlJMmctMFVB?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:35:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+      "pubDate": "2026-10-19T13:33:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Netflix Stock Might be a Sleeper Hit",
+      "link": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1?mod=rss_markets_main",
+      "summary": "Plus, tech stocks set to rebound.",
+      "pubDate": "2026-10-19T10:33:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "CME plans tungsten futures as demand for weapons rises",
+      "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
+      "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+      "pubDate": "2026-10-19T10:30:57.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms",
+      "link": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec?mod=rss_markets_main",
+      "summary": "Plus, a little-known private trust is looming over Anthropic’s IPO, and French leaders are trading blame after rioting sweeps the nation.",
+      "pubDate": "2026-10-19T10:02:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Stocks Rebound After Friday’s Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
+      "summary": "Intel, CoreWeave make up some ground; European stocks, French bonds slump",
+      "pubDate": "2026-10-19T08:35:05.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
+      "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
+      "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
+      "pubDate": "2026-10-19T15:44:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Netflix Stock Might be a Sleeper Hit",
+      "link": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1?mod=rss_markets_main",
+      "summary": "Plus, tech stocks set to rebound.",
+      "pubDate": "2026-10-19T10:33:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms",
+      "link": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec?mod=rss_markets_main",
+      "summary": "Plus, a little-known private trust is looming over Anthropic’s IPO, and French leaders are trading blame after rioting sweeps the nation.",
+      "pubDate": "2026-10-19T10:02:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
+      "link": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
+      "summary": "JPMorgan’s “security and resiliency initiative” is helping bolster U.S. supply chains and defense contractors.",
+      "pubDate": "2026-10-19T10:01:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
+      "summary": "Traders are revealing where they see the biggest pitfalls in debt issuance related to artificial intelligence.",
+      "pubDate": "2026-10-19T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
+      "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main",
+      "summary": "John Overdeck is trying to prevent a feud with his wife over his $723 million divorce settlement offer from costing him in a battle with his Two Sigma co-founder.",
+      "pubDate": "2026-10-19T01:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "It’s Too Late for Small Fixes at Pepsi",
+      "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main",
+      "summary": "The problem may be bigger than a few weak brands. Pepsi needs to stop tinkering and consider more fundamental changes.",
+      "pubDate": "2026-10-17T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "AI Agents Bring New Headaches to Online Sellers",
+      "link": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4?mod=rss_markets_main",
+      "summary": "AI agents inserting themselves between businesses and customers pose challenges for e-commerce players caught in the middle.",
+      "pubDate": "2026-10-16T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Rising Rates Threaten Wall Street’s Golden Goose in Trading",
+      "link": "https://www.wsj.com/finance/banking/rising-rates-threaten-wall-streets-golden-goose-in-trading-db7fc8cb?mod=rss_markets_main",
+      "summary": "Weak bond markets undermine what had been a strength for big banks.",
+      "pubDate": "2026-10-15T09:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
+      "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
+      "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
+      "pubDate": "2026-10-19T15:59:35.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU drops push for global ban on Arctic drilling",
+      "link": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1",
+      "summary": "Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region",
+      "pubDate": "2026-10-19T15:36:34.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+      "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
+      "pubDate": "2026-10-19T14:10:33.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+      "link": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+      "summary": "Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans",
+      "pubDate": "2026-10-19T13:54:39.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield",
+      "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1",
+      "summary": "North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain",
+      "pubDate": "2026-10-19T13:37:50.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US stocks rebound after AI sell-off",
+      "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+      "summary": "Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout",
+      "pubDate": "2026-10-19T13:37:31.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US defence stocks tumble as investors bet on Democratic election sweep",
+      "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
+      "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+      "pubDate": "2026-10-19T13:04:40.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "CME plans tungsten futures as demand for weapons rises",
+      "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
+      "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+      "pubDate": "2026-10-19T10:30:57.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US grocery giants head to court in $9bn battle over failed merger",
+      "link": "https://www.ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1",
+      "summary": "Kroger and Albertsons point fingers over who was responsible for collapse of planned tie-up",
+      "pubDate": "2026-10-19T10:00:05.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "FTSE as hedge",
+      "link": "https://www.ft.com/content/cce1d9b5-5f36-4c42-ab7b-1b74fc788773?syn-25a6b1a6=1",
+      "summary": "Plus, midterms and AI",
+      "pubDate": "2026-10-19T05:30:05.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Thinking More About AI and the Shale Boom Parallel",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/thinking-more-about-ai-and-the-shale-boom-parallel",
+      "summary": "Looking past the telecom comparison.",
+      "pubDate": "2026-10-19T17:09:52.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Walmart Sells US Debt, Eyes Canadian Market as Spending Grows",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
+      "summary": "Walmart Inc. is selling US dollar bonds for a second time this year and sounding out investors for a debut Canadian debt offering as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.",
+      "pubDate": "2026-10-19T15:36:09.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
+      "summary": "Hedge funds retreated from tech stocks at the fastest clip in at least a decade, according to Goldman Sachs Inc.’s prime desk.",
+      "pubDate": "2026-10-19T16:53:40.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Avis Budget (CAR) Stock Crashes as 600% Short Squeeze Rally Fully Unwinds",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/avis-budget-car-stock-crashes-as-600-short-squeeze-rally-fully-unwinds",
+      "summary": "Shares of Avis Budget Group Inc. have crashed back to earth, ending a chapter that put bearish investors through a punishing short squeeze.",
+      "pubDate": "2026-10-19T16:45:14.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+      "summary": "A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.",
+      "pubDate": "2026-10-18T22:07:25.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Fall as Tech Shares Rebound, Weakening Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/treasuries-fall-as-tech-shares-rebound-weakening-haven-demand",
+      "summary": "Treasuries fell as a rebound in US technology shares sapped haven demand for US government debt.",
+      "pubDate": "2026-10-19T16:34:56.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Declines as Bond Yields Stay Elevated Despite Oil Drop",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+      "summary": "Gold slipped as bond yields stayed elevated despite falling energy prices, with traders assessing the outlook for the Federal Reserve’s interest-rate path.",
+      "pubDate": "2026-10-18T23:47:43.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Wheat Falls Even as Strikes Signal Russia-Ukraine Deal Unlikely",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/wheat-futures-rise-as-ukraine-russia-strikes-stoke-supply-fears",
+      "summary": "Wheat futures touched the lowest in more than two months even as weekend strikes between Russia and Ukraine made any deal to restart exports from the two major producers increasingly unlikely.",
+      "pubDate": "2026-10-19T04:48:16.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Inside a Packaging Industry Mega-Deal",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-19/inside-a-packaging-industry-mega-deal-video",
+      "summary": "Silgan is teaming up with American Industrial Partners to acquire Trivium Packaging in a deal valued at about $3.4 billion dollars.  Silgan President and CEO Adam J. Greenlee discusses the strategic fit, expected benefits for shareholders and what the deal says about consumer dem",
+      "pubDate": "2026-10-19T15:39:30.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Oct. 19",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
+      "summary": "Oil eased from a five-month high as technical measures indicated a sharp rally in the previous session was overdone.",
+      "pubDate": "2026-10-18T22:02:51.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "CoreWeave Upgraded to Buy After Last Week’s Steep Decline. Why Goldman Likes the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX3BobWkzNkVhTVdIZm9KclBqRExxdGpTZWJ1b2FYWUYxcm42bTJjd1FqZ0lIOEVQeGFmWDNQUzRXSXJWTmxiQThlLWY0bzlON2w4UWQ3cEZlaVlJUlNGTDNFcnI5aUs1N3dFNUp4X1dMMUR2em90anVwcGI?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:42:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:57:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Tesla’s Flying Roadster and the SpaceX Halo",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLQi1aV2hJVS0tdGtPWjJBMWpPQW9qZlZsTUJQazd4bnV6bVRzZU9TNWthZ2Njd0luclZRU1RrczhlTjVmT1g3cDRNSVd3THNYVEwzSHBFSThyNlFfWmtXN0JUMHctbXJPUGlHZzFLQ3dmYk5kdDVKVmU1djA1OTA?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-18T20:23:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Cleveland-Cliffs Expects 2027 Will Be a Very Good Year With Help From Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXBBaFZwYTc4RnF4ZEx3SnJmanFFcE9KQlZtMG9ZRWZKdU5JblZMRWRYNkJtM2VKOExiWDRFSjYtMmJIb2FKV1dLclRNbS1FYlVhUXZmMjRUZjhmdm5BRHNkRDB2NVhNTTNPYnpBelZzYXJKNXpla2t2SG1LNGxYdUJwX01lZw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T11:07:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Elon Musk Is Giving Away $10 Billion in SpaceX Stock—To Your Kids.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdmpQNkR3Wkc1TkZpX1Zzaks4SXZTX3Awd1FoRmdZcTMyUjQ4UzRqbXVXVGFOb2NyYkpieHlPRGxFSzV1VzEtN2xqT01VVVZJejhuSmFONFk2S3EteHVQcXNPbnFzTWVnbllmM0dGVWdSMzhRanlQLVNR?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:22:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "AI Stocks Bounce Back but It’s Nothing to Celebrate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaF92YzB0R3FYNGxFMzkyZE8wN282UG9ubjFKUHBfM0ZtNFNJNVRUN1FzUk1rc2RydXBoZ1hKWktHWnJ0VHUtV0VKcWhCbFNYOTcyZ3FSRFgzUXV4VWVzV3NhT2FzWEk5QVAzU1VNNXplcDVuaVBXX1ZoMGZCYzFxS1VSVWc5ajlJMmctMFVB?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:35:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T13:52:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "China Is Paying People to Shop. It’s a Boom for Tech.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FLTdQRy0zYXZLRUZIV2xUZTRjc2dVWmdqQW1ubkY4SW5ySUItNVZXQW56OHVqcGVMTC04ejljVkFabHRwemJWejBHV2ZKRkVNUkN5NENiOV96RVZ6a3F2WlBnTjFaTXoyVlN6T1Fn?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-17T11:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-16T16:01:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Merck KgaA Is Paying More than Double for Silence Therapeutics. The Stock Is Up 125%.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM25STHJOVlAtRVlFVDF3anNYSGVMV3lOdVJhYTlocFQ3VjJ4S2MtZkx6dXRyVU50QzJycUpzWDhtUWVGWDhoTFU0OTliM1lUZFkxZE5EUjBIQTNYSEQtZlN5dWUzU2RzdnRqSlRKTkdMY19Yd3duRjZfcmxxVTF4U0dGUkZRaXg3SDBB?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-19T14:19:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+      "pubDate": "2026-10-19T16:59:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+      "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+      "pubDate": "2026-10-19T16:42:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+      "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+      "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
+      "pubDate": "2026-10-19T16:35:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "pubDate": "2026-10-19T16:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+      "pubDate": "2026-10-19T15:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+      "pubDate": "2026-10-19T15:26:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "pubDate": "2026-10-19T15:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+      "pubDate": "2026-10-19T14:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "summary": "Four in 10 home builders are cutting prices to boost demand, even as they face rising construction costs.",
+      "pubDate": "2026-10-19T14:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+      "pubDate": "2026-10-19T13:33:00.000Z"
+    }
+  ]
+}

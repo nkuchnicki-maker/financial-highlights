@@ -10,10 +10,29 @@
   <header class="page-header">
     <h1>Financial Highlights</h1>
     <p class="subtitle">Daily headlines from WSJ, Financial Times, Bloomberg, Barron's &amp; MarketWatch</p>
-    <p class="updated" id="updated">Loading…</p>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab-btn active" id="tab-today" role="tab" aria-selected="true">Today</button>
+      <button class="tab-btn" id="tab-digest" role="tab" aria-selected="false">Markets &amp; Macro Digest</button>
+    </nav>
   </header>
 
-  <main id="board" class="board" aria-live="polite"></main>
+  <section id="view-today" class="view">
+    <p class="updated" id="updated">Loading…</p>
+    <main id="board" class="board" aria-live="polite"></main>
+  </section>
+
+  <section id="view-digest" class="view" hidden>
+    <div class="digest-controls">
+      <label for="digest-date">Digest for</label>
+      <select id="digest-date"></select>
+      <p class="digest-note">
+        Curated picks relevant to markets &amp; macro, for building a newsletter.
+        Everything else from that day is filtered out.
+      </p>
+    </div>
+    <main id="digest-board" class="digest-board" aria-live="polite"></main>
+  </section>
 
   <footer class="page-footer">
     <p>
