@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:32:40.192Z",
+  "generatedAt": "2026-10-19T16:44:55.202Z",
   "sources": {
     "WSJ": [
       {
@@ -148,6 +148,13 @@
     "Bloomberg": [
       {
         "source": "Bloomberg",
+        "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+        "summary": "A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.",
+        "pubDate": "2026-10-18T22:07:25.000Z"
+      },
+      {
+        "source": "Bloomberg",
         "title": "Gold Declines as Bond Yields Stay Elevated Despite Oil Drop",
         "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
         "summary": "Gold slipped as bond yields stayed elevated despite falling energy prices, with traders assessing the outlook for the Federal Reserve’s interest-rate path.",
@@ -180,13 +187,6 @@
         "link": "https://www.bloomberg.com/news/articles/2026-10-19/walmart-sells-us-debt-eyes-canadian-market-as-spending-grows",
         "summary": "Walmart Inc. is selling US dollar bonds for a second time this year and sounding out investors for a debut Canadian debt offering as the world’s largest retailer seeks to diversify its funding sources amid a spending spree.",
         "pubDate": "2026-10-19T15:36:09.000Z"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-        "summary": "A rebound in chipmakers buoyed the stock market as dip buyers emerged on bets the artificial-intelligence investment boom will continue to support solid earnings.",
-        "pubDate": "2026-10-18T22:07:25.000Z"
       },
       {
         "source": "Bloomberg",
@@ -241,17 +241,17 @@
       },
       {
         "source": "Barron's",
-        "title": "Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-19T13:52:00.000Z"
-      },
-      {
-        "source": "Barron's",
         "title": "AI Stocks Bounce Back but It’s Nothing to Celebrate",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaF92YzB0R3FYNGxFMzkyZE8wN282UG9ubjFKUHBfM0ZtNFNJNVRUN1FzUk1rc2RydXBoZ1hKWktHWnJ0VHUtV0VKcWhCbFNYOTcyZ3FSRFgzUXV4VWVzV3NhT2FzWEk5QVAzU1VNNXplcDVuaVBXX1ZoMGZCYzFxS1VSVWc5ajlJMmctMFVB?oc=5",
         "summary": "",
         "pubDate": "2026-10-19T13:35:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
+        "summary": "",
+        "pubDate": "2026-10-19T13:52:00.000Z"
       },
       {
         "source": "Barron's",
@@ -290,6 +290,20 @@
       }
     ],
     "MarketWatch": [
+      {
+        "source": "MarketWatch",
+        "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+        "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+        "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+        "pubDate": "2026-10-19T16:42:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "SpaceX stock made billions for college endowments. But their luck is about to run out.",
+        "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+        "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
+        "pubDate": "2026-10-19T16:35:00.000Z"
+      },
       {
         "source": "MarketWatch",
         "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
@@ -345,20 +359,6 @@
         "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
         "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
         "pubDate": "2026-10-19T13:22:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
-        "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
-        "summary": "France and the U.S. have similar debt dynamics.",
-        "pubDate": "2026-10-19T13:19:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-        "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-        "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-        "pubDate": "2026-10-19T11:53:00.000Z"
       }
     ]
   }

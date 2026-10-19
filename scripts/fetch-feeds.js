@@ -1,5 +1,5 @@
-// Pulls public RSS headline feeds + the NYT Top Stories API and writes
-// public/data/headlines.json for the static site to render.
+// Pulls public RSS headline feeds and writes public/data/headlines.json
+// for the static site to render.
 //
 // We only ever keep headline / summary / link / date — never full article
 // text — because WSJ, FT, Bloomberg and Barron's are paywalled. RSS feeds
@@ -8,7 +8,6 @@
 import { XMLParser } from "fast-xml-parser";
 import { writeFile, mkdir } from "node:fs/promises";
 
-const NYT_API_KEY = process.env.NYT_API_KEY;
 const FETCH_TIMEOUT_MS = 15000;
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
@@ -151,38 +150,11 @@ async function fetchSource(source) {
   return [];
 }
 
-async function fetchNytBusiness() {
-  if (!NYT_API_KEY) {
-    console.warn("[skip] NYT: no NYT_API_KEY set");
-    return [];
-  }
-  try {
-    const url = `https://api.nytimes.com/svc/topstories/v2/business.json?api-key=${NYT_API_KEY}`;
-    const res = await fetch(url, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    const items = (data.results || []).slice(0, 10).map((r) => ({
-      source: "NYT",
-      title: r.title,
-      link: r.url,
-      summary: (r.abstract || "").slice(0, 280),
-      pubDate: normalizeDate(r.published_date),
-    }));
-    console.log(`[ok] NYT: ${items.length} items`);
-    return items;
-  } catch (err) {
-    console.warn(`[fail] NYT: ${err.message}`);
-    return [];
-  }
-}
-
 async function main() {
   const results = await Promise.all(SOURCES.map(fetchSource));
-  const nyt = await fetchNytBusiness();
   const bySource = {};
   for (const source of SOURCES) bySource[source.name] = [];
   for (const items of results) if (items[0]) bySource[items[0].source] = items;
-  if (nyt.length) bySource["NYT"] = nyt;
 
   const payload = {
     generatedAt: new Date().toISOString(),

@@ -20,7 +20,7 @@ function render(data, board, updated) {
   })}`;
 
   board.innerHTML = "";
-  const sourceOrder = ["WSJ", "Financial Times", "Bloomberg", "NYT", "Barron's", "MarketWatch"];
+  const sourceOrder = ["WSJ", "Financial Times", "Bloomberg", "Barron's", "MarketWatch"];
 
   for (const name of sourceOrder) {
     const items = data.sources?.[name] || [];
