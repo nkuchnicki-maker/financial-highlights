@@ -1,0 +1,668 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T15:46:15.698Z",
+  "curated": [
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall as AI, Oil Risks Spur Flight to Bonds: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks dropped as a jump in oil prices and renewed concerns about the outlook for the artificial-intelligence trade pushed global investors toward the safety of bonds.",
+      "pubDate": "2026-10-21T22:13:33.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 8
+    },
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
+      "summary": "Nasdaq leads losses as jitters around AI resurface",
+      "pubDate": "2026-10-22T07:55:42.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Falls as Higher Oil Fuels Inflation Fears Ahead of Fed Meet",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-edges-lower-as-traders-weigh-mideast-signals-fed-rate-path",
+      "summary": "Gold declined to the lowest in more than two months as escalating Middle East hostilities sent oil surging ahead of a Federal Reserve policy meeting, while a selloff in equities added to broader market volatility.",
+      "pubDate": "2026-10-21T23:56:16.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Drop as Risk-Off Views Dominate With Oil Up, Meta Falling",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
+      "summary": "Stocks declined Thursday as escalating concern about Mideast conflict pushed oil prices higher, spurring inflation fears with US midterm elections less than two weeks away. Meta Platforms Inc. tumbled as investors parsed its results along with the rest of the latest batch of tech",
+      "pubDate": "2026-10-22T11:29:09.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Surge as AI Stock Jitters Fuel Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+      "summary": "US Treasuries rose as investors sought shelter from stock-market losses, particularly for companies with exposure to the boom in spending on artificial-intelligence assets.",
+      "pubDate": "2026-10-22T03:46:59.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "WSJ",
+      "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
+      "link": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+      "summary": "The sector is trading at a premium as investors seek safety from AI jitters.",
+      "pubDate": "2026-10-21T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "summary": "Social media group’s market value tumbles more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
+      "pubDate": "2026-10-22T14:58:27.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
+      "link": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
+      "summary": "Rob Arnott, chairman of Syzygy Asset Management, says the perceived AI winners of today may be far from reality.",
+      "pubDate": "2026-10-22T12:40:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "French Bond Stress Deepens as Spreads Widen to 15-Year High",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/french-bond-stress-deepens-as-crisis-era-caution-creeps-back",
+      "summary": "French bond stress intensified as a broad flight from risk and the threat of another round of weekend protests reinforced the country’s status as the weak link in global markets.",
+      "pubDate": "2026-10-22T09:17:26.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
+      "summary": "Traders are revealing where they see the biggest pitfalls in debt issuance related to artificial intelligence.",
+      "pubDate": "2026-10-19T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+      "pubDate": "2026-10-22T15:33:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
+      "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+      "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
+      "pubDate": "2026-10-22T15:10:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Tesla, SpaceX, Meta, IBM, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BN3EwZ1JSQWVhWmowRnhCcllsSVc2QXlpc1laQnZuSkVvUXpjTjFwaHpLT095bXdvUDhWRWlTdlAwcEJIY2dVZWNrLUxBSjk4VzhMTnlkRlJPX20xSmJNaEN0WVo?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T14:31:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Palantir Stock Holds the Line. Wall Street Sees a 24% Gain Ahead.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmtDN3hidFI0ZkxiUkxxc04yQ1F2dVZ1czhqbWs4UmVlVy1jYjlmQ0xrNS1sZ3VPLXVDWDR6aFJKdXlaRll5OUNlN25vYkhFemtSMVNMaVpITzF4YXktZGt2X1lQUXVaMS04dlFtZmYxdHJ6VlhJOHl6TzVzYnh4a293?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T14:04:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
+      "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
+      "summary": "Plus: the disappearing Rio Grande, Asia’s diesel-intensive economies and the era of overshoot.",
+      "pubDate": "2026-10-22T13:25:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 3 questions every AI investor needs to ask right now",
+      "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
+      "summary": "Your stock portfolio may have more AI overlap than you realize.",
+      "pubDate": "2026-10-22T13:21:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s bracing reality on US bond yields",
+      "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "pubDate": "2026-10-22T10:07:31.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
+      "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
+      "summary": "The foreign capital that finances France may be going into reverse, investors say, a factor in a fall selloff that worsened after riots last weekend.",
+      "pubDate": "2026-10-22T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Abbott Stock Falls After Earnings. It’s Shedding Its Troubled Nutrition Unit.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWxwN2xINmxRb3ZucDlod2VzU3JhYWk5ay0zVlVtdjJ3WWFvN3UwOThIaGl6N1R3M25tTXRHU3RMUDZLRFVhamcyVzdoNzVDNlVheVE2SmUyWlU0NkxnaDZXd1Y1Z0lKcDMwVUEyM3Y4ZFJfOFVoUHd0NGhwZ1o3dGIxbTc4bHVKS3c?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T18:58:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Vestel Offers Haircut or Extension of 2029 Bonds",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/vestel-offers-45-haircut-or-six-year-extension-on-2029-bonds",
+      "summary": "Beleaguered Turkish white-goods maker Vestel Elektronik is asking 2029 bondholders to back a restructuring as it seeks to shore up its balance sheet.",
+      "pubDate": "2026-10-20T15:58:48.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
+      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "pubDate": "2026-10-22T15:03:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Live reader Q&A — Could Anthropic’s IPO be a turning point for AI?",
+      "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "summary": "Take part in a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, now",
+      "pubDate": "2026-10-22T15:00:13.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+      "pubDate": "2026-10-22T14:30:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
+      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=rss_markets_main",
+      "summary": "Elon Musk’s mishmash of businesses will be a maze for investors to evaluate.",
+      "pubDate": "2026-10-22T13:16:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "A bond is like a party balloon",
+      "link": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+      "summary": "(Bear with us)",
+      "pubDate": "2026-10-22T12:10:40.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "This Stock Faces a Beautiful Future After Completing Its Makeover",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHE1VS1YWDZRQVpTd3VaSUMwQVNYMi1lQzFGYnNmSEF0WUEyZnF5TU9taENKLTJXdGxfMGVDSWx1aHF1OUpDc3RiQS0yV196cGljVFZMLU5SdkZ4TTNISWFxXzZVR1F3ejJqRVpFX1I2S25qOG1MSXVIMm1vOERQb0ItQ0tPQlNhSGdDTktQd05ZYnhYT1JkZ3VlSUVWaW9td1dJUy0wWQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T12:01:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Falls But Don’t Worry, It Will Triple From Here Says Analyst",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjlPcVl3YXA4aVRqeHItd2FvZUtmUGxmUmNsWk1Ta0ZyTTFPeWg5TXg3R0lKOXdjNWFQTmtFZXZGVGxQR1FkUkV6YlJrQmVuNURVZzBOUjZOWDh0Qy1wQXFESjBKUklJNm9rR2ZCeTZ1cU9QZ1p6YzJHUGVfSTVEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T10:20:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Soars 10% After Earnings—and Could Climb to $500 Next",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQUZVRXc0eTF2eU5qQnlJYlBGckhyclVoNjhZeUlDdmx1SVJyYXB2dW9aVGgxbS0zbTFZbjVXTHIwUnEzajJEcWhYdG5qRk9zN0lhMVN3Rkd6X2pPNTlMR3JJQUNqdEI4SUJYREhZLWRPUllG?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T20:31:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
+      "summary": "Nasdaq leads losses as jitters around AI resurface",
+      "pubDate": "2026-10-22T07:55:42.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Blackstone’s Core Businesses Hit by Rising Rates",
+      "link": "https://www.wsj.com/finance/blackstones-core-businesses-hit-by-rising-rates-9a6a39cb?mod=rss_markets_main",
+      "summary": "Proceeds from asset sales in the firm’s private-equity unit fell 49%.",
+      "pubDate": "2026-10-22T14:11:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
+      "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
+      "summary": "Plus: the disappearing Rio Grande, Asia’s diesel-intensive economies and the era of overshoot.",
+      "pubDate": "2026-10-22T13:25:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
+      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=rss_markets_main",
+      "summary": "Elon Musk’s mishmash of businesses will be a maze for investors to evaluate.",
+      "pubDate": "2026-10-22T13:16:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Lofty U.K. Rate-Rise Bets, Fiscal Risks Leave Sterling Vulnerable",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
+      "summary": "Sterling was weaker against the dollar. The pound was at risk of falling given excessive BOE interest-rate rise expectations and market jitters ahead of next week’s U.K. budget, Monex Europe said.",
+      "pubDate": "2026-10-22T13:04:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Sports Investing Is for Millionaires Now, not Billionaires",
+      "link": "https://www.wsj.com/finance/investing/sports-investing-is-for-millionaires-now-not-billionaires-aa16332b?mod=rss_markets_main",
+      "summary": "Plus, oil’s up and everything else is down.",
+      "pubDate": "2026-10-22T10:38:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
+      "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
+      "summary": "The foreign capital that finances France may be going into reverse, investors say, a factor in a fall selloff that worsened after riots last weekend.",
+      "pubDate": "2026-10-22T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
+      "link": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+      "summary": "The sector is trading at a premium as investors seek safety from AI jitters.",
+      "pubDate": "2026-10-21T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "How to Play the Retreat in Defense Stocks",
+      "link": "https://www.wsj.com/finance/investing/how-to-play-the-retreat-in-defense-stocks-bd7b1c8d?mod=rss_markets_main",
+      "summary": "Smaller defense companies have fared worse recently, presenting a possible buying opportunity.",
+      "pubDate": "2026-10-20T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+      "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
+      "summary": "Traders are revealing where they see the biggest pitfalls in debt issuance related to artificial intelligence.",
+      "pubDate": "2026-10-19T09:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Live reader Q&A — Could Anthropic’s IPO be a turning point for AI?",
+      "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "summary": "Take part in a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, now",
+      "pubDate": "2026-10-22T15:00:13.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Would you take out a mortgage backed by bitcoin?",
+      "link": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
+      "summary": "US officials are encouraging the use of crypto holdings as home-loan collateral",
+      "pubDate": "2026-10-22T15:00:03.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "summary": "Social media group’s market value tumbles more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
+      "pubDate": "2026-10-22T14:58:27.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain secures gas supply from Belgium before winter crunch",
+      "link": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5?syn-25a6b1a6=1",
+      "summary": "Last-minute deal comes after years of falling domestic gas production",
+      "pubDate": "2026-10-22T14:26:29.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
+      "link": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
+      "summary": "Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations",
+      "pubDate": "2026-10-22T13:36:58.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "A bond is like a party balloon",
+      "link": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+      "summary": "(Bear with us)",
+      "pubDate": "2026-10-22T12:10:40.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why climate could soon move back up the global agenda",
+      "link": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266?syn-25a6b1a6=1",
+      "summary": "IEA chief Fatih Birol told an FT summit that ‘quick’ and ‘cheap’ renewables could drive renewed focus even as energy disruption drags on",
+      "pubDate": "2026-10-22T11:00:03.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s bracing reality on US bond yields",
+      "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "pubDate": "2026-10-22T10:07:31.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s underrated digital trailblazing",
+      "link": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
+      "summary": "At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy",
+      "pubDate": "2026-10-22T10:00:03.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hyperscalers and how to rate them",
+      "link": "https://www.ft.com/content/9b1d9f37-bab2-448a-8a1a-e41c12bf9952?syn-25a6b1a6=1",
+      "summary": "In the land of known unknowns",
+      "pubDate": "2026-10-22T05:30:01.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Vestel Offers Haircut or Extension of 2029 Bonds",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/vestel-offers-45-haircut-or-six-year-extension-on-2029-bonds",
+      "summary": "Beleaguered Turkish white-goods maker Vestel Elektronik is asking 2029 bondholders to back a restructuring as it seeks to shore up its balance sheet.",
+      "pubDate": "2026-10-20T15:58:48.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "French Bond Stress Deepens as Spreads Widen to 15-Year High",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/french-bond-stress-deepens-as-crisis-era-caution-creeps-back",
+      "summary": "French bond stress intensified as a broad flight from risk and the threat of another round of weekend protests reinforced the country’s status as the weak link in global markets.",
+      "pubDate": "2026-10-22T09:17:26.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Houthis Step Up Attacks on Saudi, Sending Oil Higher",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/houthis-step-up-attacks-on-saudi-sending-oil-higher-video",
+      "summary": "Iran-backed Houthi rebels in Yemen step up their attacks on Saudi Arabia. Saudi Aramco had to evacuate its headquarters and the kingdom is on alert for more strikes. The US State Department has ordered non-emergency personnel to leave the country. Oil prices are spiking. Bloomber",
+      "pubDate": "2026-10-22T15:22:28.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Drop as Risk-Off Views Dominate With Oil Up, Meta Falling",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
+      "summary": "Stocks declined Thursday as escalating concern about Mideast conflict pushed oil prices higher, spurring inflation fears with US midterm elections less than two weeks away. Meta Platforms Inc. tumbled as investors parsed its results along with the rest of the latest batch of tech",
+      "pubDate": "2026-10-22T11:29:09.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Oct. 22",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22",
+      "summary": "Oil advanced after deadly attacks in Saudi Arabia heightened concerns that escalating Middle East hostilities could hit supply, even as exports through the Strait of Hormuz accelerate.",
+      "pubDate": "2026-10-21T22:05:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Surge as AI Stock Jitters Fuel Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+      "summary": "US Treasuries rose as investors sought shelter from stock-market losses, particularly for companies with exposure to the boom in spending on artificial-intelligence assets.",
+      "pubDate": "2026-10-22T03:46:59.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Falls as Higher Oil Fuels Inflation Fears Ahead of Fed Meet",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-edges-lower-as-traders-weigh-mideast-signals-fed-rate-path",
+      "summary": "Gold declined to the lowest in more than two months as escalating Middle East hostilities sent oil surging ahead of a Federal Reserve policy meeting, while a selloff in equities added to broader market volatility.",
+      "pubDate": "2026-10-21T23:56:16.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Retirement Longevity Risk a Top Factor for Investors",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/retirement-longevity-risk-a-top-factor-for-investors-video",
+      "summary": "Many older Americans do not feel comfortable spending money on pleasure due to fear of outliving their savings.\nCosts are rising in almost every aspect of life, particularly healthcare, which eats up more of a retiree’s budget as they age.\nMarta Norton, Chief Investment Strategis",
+      "pubDate": "2026-10-22T15:03:29.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Private Credit's Daily Marks Under Fire",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/private-credit-s-daily-marks-under-fire-video",
+      "summary": "Monroe Capital CEO Ted Koenig says daily marks on illiquid private-credit assets create an illusion of precision, not accuracy. He discusses the deal slowdown, pressure on private-equity exits and why he's cautious about data centers and GPU lending. (Source: Bloomberg)",
+      "pubDate": "2026-10-22T15:00:42.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall as AI, Oil Risks Spur Flight to Bonds: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks dropped as a jump in oil prices and renewed concerns about the outlook for the artificial-intelligence trade pushed global investors toward the safety of bonds.",
+      "pubDate": "2026-10-21T22:13:33.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Falls But Don’t Worry, It Will Triple From Here Says Analyst",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjlPcVl3YXA4aVRqeHItd2FvZUtmUGxmUmNsWk1Ta0ZyTTFPeWg5TXg3R0lKOXdjNWFQTmtFZXZGVGxQR1FkUkV6YlJrQmVuNURVZzBOUjZOWDh0Qy1wQXFESjBKUklJNm9rR2ZCeTZ1cU9QZ1p6YzJHUGVfSTVEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T10:20:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Abbott Stock Falls After Earnings. It’s Shedding Its Troubled Nutrition Unit.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWxwN2xINmxRb3ZucDlod2VzU3JhYWk5ay0zVlVtdjJ3WWFvN3UwOThIaGl6N1R3M25tTXRHU3RMUDZLRFVhamcyVzdoNzVDNlVheVE2SmUyWlU0NkxnaDZXd1Y1Z0lKcDMwVUEyM3Y4ZFJfOFVoUHd0NGhwZ1o3dGIxbTc4bHVKS3c?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T18:58:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "This Stock Faces a Beautiful Future After Completing Its Makeover",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHE1VS1YWDZRQVpTd3VaSUMwQVNYMi1lQzFGYnNmSEF0WUEyZnF5TU9taENKLTJXdGxfMGVDSWx1aHF1OUpDc3RiQS0yV196cGljVFZMLU5SdkZ4TTNISWFxXzZVR1F3ejJqRVpFX1I2S25qOG1MSXVIMm1vOERQb0ItQ0tPQlNhSGdDTktQd05ZYnhYT1JkZ3VlSUVWaW9td1dJUy0wWQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T12:01:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Palantir Stock Holds the Line. Wall Street Sees a 24% Gain Ahead.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmtDN3hidFI0ZkxiUkxxc04yQ1F2dVZ1czhqbWs4UmVlVy1jYjlmQ0xrNS1sZ3VPLXVDWDR6aFJKdXlaRll5OUNlN25vYkhFemtSMVNMaVpITzF4YXktZGt2X1lQUXVaMS04dlFtZmYxdHJ6VlhJOHl6TzVzYnh4a293?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T14:04:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Stranded Retirement Accounts Are Piling Up to the Tune of $43 Billion",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3RBUHd0ZEwzWUZPWndOSUVMeVRJTTZGdFdCczBNekN0US1pek44bEZ6VDZHVkstcWlDeExGeWl0UVRQX0RING0tR3VPZUFEdkw4clcyWnZZeDY1N2kzTXRHckowVUxfUkNhZDZ5MFk1X0pWc3IwSXcyVmlFTDJHcHA4VQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Midterm Elections: What a Blue Wave Would Mean for AI, Healthcare, and Other Industries",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzl0ZHZKeUdobUdXZktuMnNHdWttVVR5WWxqUVBULWJ2Z0tMdVhXQXZqR1RBMXp3bGN1TzZmLXg3d2F3SlNHT3JQblZXSHJsaG5Md0lpWWxfWjVEN2xUSVNCZzlpNmt1cHA1Y2tnMnM5bnNPNWQ1aERNcDBNM3hFd09jdlFiRkJBaGRtTHVKbXB6dG92QXRDNnhUaw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Soars 10% After Earnings—and Could Climb to $500 Next",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQUZVRXc0eTF2eU5qQnlJYlBGckhyclVoNjhZeUlDdmx1SVJyYXB2dW9aVGgxbS0zbTFZbjVXTHIwUnEzajJEcWhYdG5qRk9zN0lhMVN3Rkd6X2pPNTlMR3JJQUNqdEI4SUJYREhZLWRPUllG?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T20:31:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Tesla, SpaceX, Meta, IBM, Lam Research, Spotify, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BN3EwZ1JSQWVhWmowRnhCcllsSVc2QXlpc1laQnZuSkVvUXpjTjFwaHpLT095bXdvUDhWRWlTdlAwcEJIY2dVZWNrLUxBSjk4VzhMTnlkRlJPX20xSmJNaEN0WVo?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T14:31:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYkNEUzhKOXF6UWRTVU5BOF96TW9rNzFKSXRuc0VVU1VRdDdJWjNwNnYtRjhIc2tXM001Z0xLZlVXTFVmcUQzRlhBWmpHZ18xd2NlZzcwVTBvTXVxaWdNMV9MbFp2VFRnLUFmMGFHb01hV2UySVBMNWNmSmxjdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-22T14:03:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nokia Stock Jumps Because Vintage Telecom Is Now an AI Trade",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LaEkwbDEyX1JMMXA2NTNFbW1ReTJ5bTkzXzA4Q3Z1QUZicTZ4QnFZZ0dVamx0S3VzRm5ObzUwaVJpZktoeURkTlZST256SGRpZUNjUV82OXhPVFpEYkJEdFFURHQydWRKaGg2VXlfOGMxSTVBUEpEQQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-21T15:40:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+      "pubDate": "2026-10-22T15:33:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
+      "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+      "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
+      "pubDate": "2026-10-22T15:10:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
+      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "pubDate": "2026-10-22T15:03:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "pubDate": "2026-10-22T15:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+      "pubDate": "2026-10-22T14:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "pubDate": "2026-10-22T14:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "pubDate": "2026-10-22T14:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 3 questions every AI investor needs to ask right now",
+      "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
+      "summary": "Your stock portfolio may have more AI overlap than you realize.",
+      "pubDate": "2026-10-22T13:21:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
+      "link": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
+      "summary": "Rob Arnott, chairman of Syzygy Asset Management, says the perceived AI winners of today may be far from reality.",
+      "pubDate": "2026-10-22T12:40:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
+      "pubDate": "2026-10-22T12:35:00.000Z"
+    }
+  ]
+}
