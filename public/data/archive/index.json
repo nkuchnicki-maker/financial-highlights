@@ -1,6 +1,11 @@
 {
   "dates": [
     {
+      "date": "2026-10-25",
+      "generatedAt": "2026-10-25T14:44:25.919Z",
+      "curatedCount": 29
+    },
+    {
       "date": "2026-10-24",
       "generatedAt": "2026-10-24T14:12:43.691Z",
       "curatedCount": 25
