@@ -1,54 +1,61 @@
 {
-  "generatedAt": "2026-10-28T16:56:48.539Z",
+  "generatedAt": "2026-10-29T17:17:48.710Z",
   "sources": {
     "WSJ": [
       {
         "source": "WSJ",
-        "title": "Fed Meeting Today: Investors Await Interest-Rate Decision, Warsh Comments",
-        "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
-        "summary": "The Federal Reserve, led by Kevin Warsh, is expected to hold rates steady",
-        "pubDate": "2026-10-28T08:17:33.000Z"
+        "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
+        "summary": "Google on course to lose $500 billion in market value after latest numbers disappoint",
+        "pubDate": "2026-10-29T09:22:32.000Z"
       },
       {
         "source": "WSJ",
-        "title": "Weil Gotshal Leaders Discussing Plan to Wind Down Law Firm",
-        "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
-        "summary": "The once-storied firm suffered a series of high-profile defections and failed merger talks that left it with few options.",
-        "pubDate": "2026-10-28T16:31:00.000Z"
+        "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
+        "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
+        "summary": "Prop. 40, on the ballot Tuesday, represents the closest the group of “nerdy academics” has come with a wealth tax.",
+        "pubDate": "2026-10-29T16:38:00.000Z"
       },
       {
         "source": "WSJ",
-        "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-        "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main",
-        "summary": "The chain’s shares have been down roughly 70% over the past five years.",
-        "pubDate": "2026-10-28T13:11:00.000Z"
+        "title": "What Big Oil Tells Us About AI Memory Stocks",
+        "link": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
+        "summary": "Plus, the market googled “disappointment”",
+        "pubDate": "2026-10-29T10:21:00.000Z"
       },
       {
         "source": "WSJ",
-        "title": "Boring Stocks Are Beautiful Again. Can It Last?",
-        "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
-        "summary": "Plus, all eyes on these hyperscalers",
-        "pubDate": "2026-10-28T10:35:00.000Z"
+        "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+        "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_markets_main",
+        "summary": "Stubbornly high prices at the pump offered little hope for drivers looking for some relief.",
+        "pubDate": "2026-10-29T10:05:00.000Z"
       },
       {
         "source": "WSJ",
-        "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
-        "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
-        "summary": "Plus, Netanyahu faces a high-stakes showdown over whether he will stay in office, and the brutal Harvard class everyone wants to take.",
-        "pubDate": "2026-10-28T10:07:00.000Z"
+        "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+        "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+        "summary": "The tech giant is no longer loved by investors, despite its many advantages.",
+        "pubDate": "2026-10-29T09:30:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
+        "link": "https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f?mod=rss_markets_main",
+        "summary": "The restructuring advisory firm will help dissolve the New York law firm after a wave of partner departures forced it to announce Wednesday it was shutting down.",
+        "pubDate": "2026-10-29T02:25:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
+        "link": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
+        "summary": "A $30 billion spending spree is slated to give the government stakes in chip firms, miners and more.",
+        "pubDate": "2026-10-29T01:00:00.000Z"
       },
       {
         "source": "WSJ",
         "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
         "link": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
         "summary": "Big and regional banks alike are riding a wave of AI lending.",
-        "pubDate": "2026-10-28T09:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Home Buyers Who Enjoyed Cheap Adjustable Mortgages Are Now Getting a Nasty Shock",
-        "link": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe?mod=rss_markets_main",
-        "summary": "Payments could rise sharply for tens of thousands of homeowners who financed with ARMs when rates were historically low.",
         "pubDate": "2026-10-28T09:30:00.000Z"
       },
       {
@@ -64,301 +71,223 @@
         "link": "https://www.wsj.com/finance/this-german-energy-giant-is-an-overlooked-ai-bargain-c190ee76?mod=rss_markets_main",
         "summary": "Siemens Energy is outselling GE Vernova on gas turbines.",
         "pubDate": "2026-10-26T09:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Moderna Investors Should Brace for More Whiplash",
-        "link": "https://www.wsj.com/health/pharma/moderna-investors-should-brace-for-more-whiplash-5c32f32d?mod=rss_markets_main",
-        "summary": "Even after its latest sharp fall, the drugmaker’s stock price assumes wild successes.",
-        "pubDate": "2026-10-24T09:30:00.000Z"
       }
     ],
     "Financial Times": [
       {
         "source": "Financial Times",
-        "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
-        "link": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
-        "summary": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
-        "pubDate": "2026-10-28T16:28:50.000Z"
+        "title": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
+        "link": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
+        "summary": "Private capital group backed by OpenAI expects ADT to ‘form the foundation’ of its home security business",
+        "pubDate": "2026-10-29T16:06:14.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Mubadala Capital dealmaker to launch his own venture fund",
-        "link": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1",
-        "summary": "Ibrahim Ajami, a senior executive at the private capital arm Abu Dhabi’s sovereign wealth fund, is set to leave next year",
-        "pubDate": "2026-10-28T15:44:48.000Z"
+        "title": "US tech stocks fall after earnings fuel AI spending concerns",
+        "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+        "summary": "Nasdaq 100 loses 1.2% after Google parent Alphabet and Microsoft report lower than expected capex",
+        "pubDate": "2026-10-29T15:58:07.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "JetBlue tries to sweet-talk an unforgiving bond market",
-        "link": "https://www.ft.com/content/0713e1f0-770d-438e-b330-b5279f2f98af?syn-25a6b1a6=1",
-        "summary": "Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying",
-        "pubDate": "2026-10-28T15:22:17.000Z"
+        "title": "Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+        "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+        "summary": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
+        "pubDate": "2026-10-29T14:54:48.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "European gas prices jump above €100 on fears of Iran war escalation",
-        "link": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
-        "summary": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
-        "pubDate": "2026-10-28T14:53:27.000Z"
+        "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+        "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+        "summary": "Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity",
+        "pubDate": "2026-10-29T14:41:41.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "We read Liz Truss’s book so you don’t have to",
-        "link": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
-        "summary": "Alternative histories aren’t always written by the victors",
-        "pubDate": "2026-10-28T12:50:28.000Z"
+        "title": "Palantir shareholders want to know when they’ll get their money back",
+        "link": "https://www.ft.com/content/fbca8eb0-76ef-4e0e-bcc9-c45c8f7d1311",
+        "summary": "Vibesourcing the Pili",
+        "pubDate": "2026-10-29T14:19:10.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Iran threatens South Korean shipping group over Hormuz transits",
-        "link": "https://www.ft.com/content/171ffdaa-e3e7-41b9-a4c6-09c9ace3f719?syn-25a6b1a6=1",
-        "summary": "Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action",
-        "pubDate": "2026-10-28T11:51:33.000Z"
+        "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog",
+        "link": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?syn-25a6b1a6=1",
+        "summary": "Venture linked to billionaire Trump backer Justin Sun sued by FCA for ‘unlawfully promoting crypto asset services’",
+        "pubDate": "2026-10-29T12:12:38.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Iranians face energy squeeze from war as natural gas runs short",
-        "link": "https://www.ft.com/content/77e4e4a5-a041-4d59-9d8c-0a7af9ef6d25",
-        "summary": "Tehran tells citizens to curb consumption and urges civil servants to work from home to avert crisis",
-        "pubDate": "2026-10-28T11:00:06.000Z"
+        "title": "Can Democrats flip Texas with ‘all of the above’ energy pivot?",
+        "link": "https://www.ft.com/content/1407fb94-ceee-4c7f-bd1d-268f4aa61b20?syn-25a6b1a6=1",
+        "summary": "The party is betting an embrace of energy from a variety of sources can help end three-decade-long opposition in Lone Star State",
+        "pubDate": "2026-10-29T12:00:10.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Ambani’s $130bn Jio soars in India’s biggest listing",
-        "link": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
-        "summary": "Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran",
-        "pubDate": "2026-10-28T10:07:33.000Z"
+        "title": "European oil majors lift buybacks as Iran war drives bumper profits",
+        "link": "https://www.ft.com/content/5ded8d57-46f5-406c-a4ce-e58415b8d4ad?syn-25a6b1a6=1",
+        "summary": "Shell boss says he does not want surplus cash to ‘burn a hole in our pockets’",
+        "pubDate": "2026-10-29T11:40:47.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "The AI bubble already popped — in China",
-        "link": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
-        "summary": "Plus, two cheers for CGBs",
-        "pubDate": "2026-10-28T06:30:03.000Z"
+        "title": "Rosebank is needed for UK energy security",
+        "link": "https://www.ft.com/content/c09fe386-ea9d-4ee6-8f57-b5b9b7744934?syn-25a6b1a6=1",
+        "summary": "The energy secretary Miatta Fahnbulleh should not fall for an illusion and block the oilfield",
+        "pubDate": "2026-10-29T11:00:02.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "This is a very interesting time for trashy credit (and all those who love it)",
-        "link": "https://www.ft.com/content/856aa6be-5543-493c-8d2e-a78c6b772f61",
-        "summary": "C-C-Crunch time for credit hedge funds that went hard into junk bonds",
-        "pubDate": "2026-10-28T06:00:03.000Z"
+        "title": "Polymarket’s Swiss Tony returns",
+        "link": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1",
+        "summary": "The top-rated trader is back",
+        "pubDate": "2026-10-29T10:30:01.000Z"
       }
     ],
     "Bloomberg": [
       {
         "source": "Bloomberg",
-        "title": "Boston Office Tower Sells for $546 Million Discount at Auction",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
-        "summary": "A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third the price it paid in 2019, a stark illustration of how far building values have fallen in the wake of the pandemic.",
-        "pubDate": "2026-10-28T16:45:48.000Z"
+        "title": "Stock Rotation Hits AI Winners on Alphabet’s Miss: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+        "summary": "Wall Street saw a rotation out of several tech giants and into a broader category of stocks while fueling a push toward the safety of bonds.",
+        "pubDate": "2026-10-28T22:11:47.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Machado Thrust Back Into Job as Unifier of Venezuela Opposition",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/machado-thrust-back-into-job-as-unifier-of-venezuela-opposition",
-        "summary": "After a year-long absence, María Corina Machado summoned thousands of followers to the streets as she returned to Caracas on Sunday. Now Venezuela’s most popular politician must reassert herself as the leader of opposition forces that have kept going without her.",
-        "pubDate": "2026-10-28T16:44:37.000Z"
+        "title": "Lula’s Top Court Problem: Moraes Passport Order Angers Brazil’s President",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/lula-s-top-court-problem-moraes-passport-order-angers-brazil-s-president",
+        "summary": "Luiz Inácio Lula da Silva has a big Supreme Court problem. Its name is Alexandre de Moraes.",
+        "pubDate": "2026-10-29T16:59:18.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "GE Vernova to Pay $9 Billion for Grid Supplier Trench Group",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
-        "summary": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal aimed at bolstering its portfolio of high-voltage power grid equipment to meet the surging demand for electricity.",
-        "pubDate": "2026-10-28T10:16:16.000Z"
+        "title": "Polymarket Investigates Suspicious Trades on Israel Election",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
+        "summary": "Polymarket is investigating a string of well-timed and profitable trades on the Israeli election this week in the latest case to raise concerns about potential insider trading on prediction markets.",
+        "pubDate": "2026-10-29T14:57:49.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "S&P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-        "summary": "Wall Street investors refrained from making big moves before key tech results and a Federal Reserve decision that will shape the outlook for markets through the remainder of 2026.",
-        "pubDate": "2026-10-27T22:09:07.000Z"
+        "title": "Paschi Investors Deal Crushing Blow to CEO in Win for Intesa",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/monte-paschi-investors-reject-banco-bpm-bid-in-win-for-intesa",
+        "summary": "Banca Monte dei Paschi di Siena SpA’s investors overwhelmingly rejected the main element of CEO Luigi Lovaglio’s defense against a takeover by Intesa Sanpaolo SpA, setting up the world’s oldest bank for the potential loss of its independence.",
+        "pubDate": "2026-10-29T14:43:36.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Baltic Pushed Brokers to Submit Rates During War, Court Told",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/baltic-pushed-brokers-to-submit-rates-during-war-court-told",
-        "summary": "A freight assessor at the Baltic Exchange told a broker that “a certain amount of cajoling and bullying” was necessary to get companies to provide tanker rates after the Iran war broke out.",
-        "pubDate": "2026-10-28T16:01:01.000Z"
+        "title": "The Fearsome Rise of the Haunted Attraction",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
+        "summary": "Once low-tech staples of Halloween carnivals, haunted houses have become elaborate immersive environments that can draw crowds to forgotten parts of US cities. David Dudley reports. (Source: Bloomberg)",
+        "pubDate": "2026-10-29T16:42:20.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Wall Street empieza a atragantarse con la gigantesca ola de deuda de la IA",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-empieza-a-atragantarse-con-la-gigantesca-ola-de-deuda-de-la-ia",
-        "summary": "Financiar la carrera por la inteligencia artificial se está volviendo más difícil. Suben los rendimientos, los bancos rozan sus límites de exposición y los inversionistas exigen más para asumir el riesgo.",
-        "pubDate": "2026-10-28T15:57:48.000Z"
+        "title": "Citadel Can Subpoena Top Marshall Wace Executives, Judge Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/citadel-can-subpoena-top-marshall-wace-executives-judge-rules",
+        "summary": "Citadel won access to the communications of two of Marshall Wace’s most senior executives as part of a legal fight over the British hedge fund’s recruitment of former Citadel portfolio manager Daniel Shatz as global credit head.",
+        "pubDate": "2026-10-29T16:30:54.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Wall Street Awaits Fed Interest Rate Decision, Results From Alphabet and Microsoft",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-10-28-2026-video",
-        "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-        "pubDate": "2026-10-28T15:45:27.000Z"
+        "title": "Chipotle Sales Beat as New Chicken, Chips Bring Diners Back",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/chipotle-sales-beat-as-new-chicken-bring-diners-back-video",
+        "summary": "Chipotle Mexican Grill Inc. sales rose faster than expected in the third quarter, as more frequent menu launches and revamped loyalty offers help sustain a recovery that had been threatened by a food-illness scare. Bloomberg's Michael Halen joins to discuss. (Source: Bloomberg)",
+        "pubDate": "2026-10-29T16:28:48.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "UK Homebuilders Fall as First Time Buyer Support Disappoints",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-28/uk-homebuilders-fall-as-first-time-buyer-support-disappoints",
-        "summary": "Shares in the UK’s largest homebuilders slumped Wednesday after the government unveiled fresh details of a new policy designed to help people buy their first home that showed it expected to lend far less than a previous program.",
-        "pubDate": "2026-10-28T15:37:34.000Z"
+        "title": "Venezuelan Leader Commits to Elections Ahead of Machado Speech",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
+        "summary": "Venezuela will hold elections organized by an overhauled electoral regulator and witnessed by the international community, acting President Delcy Rodríguez said in a rare televised address Thursday, as pressure builds on her interim government after the return of opposition leade",
+        "pubDate": "2026-10-29T16:27:08.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Latest Oil Market News and Analysis for Oct. 28",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-        "summary": "Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
-        "pubDate": "2026-10-27T22:04:57.000Z"
+        "title": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+        "summary": "Tech stocks were dragged lower by a record drop in Alphabet Inc. after disappointing results renewed investor concerns about the threat that artificial intelligence poses to its core business.",
+        "pubDate": "2026-10-29T11:09:59.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Bank of Canada Raises Interest Rates to 2.5%, First Hike Since 2023",
-        "link": "https://www.bloomberg.com/news/videos/2026-10-28/bank-of-canada-raises-interest-rates-to-2-5-video",
-        "summary": "The Bank of Canada raised its benchmark overnight interest rate by 25 basis points to 2.5% on Wednesday. It's the first  increase since July of 2023.  Governor Tiff Macklem says this move could reduce inflation risks posed by higher energy prices.  (Source: Bloomberg)",
-        "pubDate": "2026-10-28T15:04:33.000Z"
+        "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video",
+        "summary": "DoorDash Inc. agreed to buy rival Instacart in a deal that values the company at about $17 billion. The transaction is expected to close near the end of next year, the deal is still pending. DoorDash says it will keep Instacart's brand, tech products and app. Bloomberg's Natalie ",
+        "pubDate": "2026-10-29T16:15:05.000Z"
       }
     ],
-    "Barron's": [
-      {
-        "source": "Barron's",
-        "title": "SpaceX Stock: Elon Musk Just Gave Verizon, AT&T, Other Telecoms Some Great News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTRIdXk2Mjh1QUYyM2NKNENnbHlBVmVqbklGVHlmamJoMmtrMGJqZzlvMHNmRkFVY0Z1cFpqZlRzR1BpZzNxVXUwWW1PZnh6RzdiMDJpMnJSWkt1ZVlPOVdNLXlfX1hCeGlRZXdhcDJyMHF6aGlNNjBhRTRFWnd1SnAxU3lUaHNkWXB2STRtVXg?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-27T20:10:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "PayPal Beats Earnings Estimates. Does It Now Have a Shorter Path to Recovery?",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZdXR4REozU1A1ME45X1NpZlBMSkhJWUdoNTEtNlRBd1pvc0VmV0lkLTYybXdYVDlKNGxfVmVmZXpOaE9FVndOYXgtZWZOOHVmOVJGNXBuUENranhfckRxeVpvMGVaS3JXSEdsX3R0djFpQWJ3dF9nMw?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-27T17:54:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Alphabet Swaps Buybacks for Data Centers. Wall Street Is Getting Nervous.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1cyWEw2N29xSWxneld4YlNXRFozMUVXMVVuR1ZBbXBDWno5Nzd4QklMQmFVZi1yTld5M2pfTk9TOXpYdGRBVm51WTNKQ2J4MVJPME1naEtCM3N2SXBNbVVlZzVBdS1nbnVnNy10WFFQanh4Y1VjUW12Y2dsYTVzTw?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-28T08:30:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Range Resources Stock Jumps on $50 Billion Merger. Natural Gas Is Fuel for AI.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CVDhDZE5ZSnNSaGx0RlBHYm1MeTcxMnZidVhmQWNHMmgwVVJxLUNZdXR6UDBLXzNRZjJZX3h4SW1naUo1a0d4Sm96UVVySXlwTmNFOWN4UDlxZXNNT3hFM255Qk4xSGdfTEpjT3dlMFJLcF9IVGdfT2NuQmxJQzg?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-26T12:22:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Trump Slams 'Rigged' Brazil Election After Ally Loses",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUgzWFFNaTktcWVYZ0VqZHFlckZkUjdHYnFkT3NKVkE1b0IwZ1ZwQTRrcHJRMWZRTE9Lb21YZUtjbklzRE5QeE9sR0RxdDB2bzFKSE11VXBDVzJYSU1MZkczLWdLaUFzbGlmVGZNOTBlN3c5VER6UzdZQVBadGFKZXhQQmxieGZiYkNYRHBLN1ZpZTg?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-26T19:36:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Neoclouds Face ‘Guppy-Level Death,’ Elon Musk Warns. Why CoreWeave and Nebius Will Survive.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2pueHR4d1o3RERzWVhCVE5iMExtWkdtN2tYMkJkZHVTX2xTWGN1RmVBdGJ2SGlqTjlIN0lUZEo5bTI1QmpuM1dlMF94aUx3NGhTOTcyR292R2R3SDhHTHhrWDdGbm9fclg1blMyVjZDc2E4TmRkVEhHdkEzNE8tTFN0QndKN09uTENjTjh3?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-26T17:06:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "GE Vernova Orders Soar. Earnings Reveal That AI Power Demand Remains Red Hot.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hOFVEclUtdjE4X0ZWNzY0MjduSlYzbU91a3hSLWxZRlhZWEhQXzhhTWZDOWtVN1RzZFpUTHZBN25pUFhGRGw5RWlEbmdfWElUNHB0MlBnZkdyNUFkLUNsb0NQbGhKVTA5XzhuU0cwTXk4NXdEMGtHWDkzUnhpQQ?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-28T13:56:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Boeing Stock Plunges After Earnings. 737 Progress Isn’t Fast Enough.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTDlic1FKMVhoYkNvVEtMRXp2RXdPT2sxdWRHdzZBMUlEMzlwSDFweGFBVVVWaGtOa0JuTml0b2VsamV0Yi1xVXhuM205SHRQWWVVXzBNenRRUngtZWk1bk9CZmJBM2phOGdoYmE4TWpkeDlobnZwUg?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-27T20:09:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Starlink Is Years Away From Competing With AT&T and Verizon, Citi Says—but It Might Move Faster",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzVTZUs0WWhtNVhOUmoxejR4bm5Kb0pRdzFzaHJjR01ZUk40SGFTNVlSQ0o3VVVRVl8welJyZkN2a3U1UEJ3OUVIbFhzS2VDb3NyV1R2VVJPRlhFMjcxeHZyMG1FdW11RWVIRGt3WEJqYTJrVmtFZTR4XzVicWZnX0pFOU8?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-23T16:10:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "SpaceX Gets $120.5 Billion From Anthropic as It Borrows Another $40 Billion",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LW1KN0VjU0RLUEEyN3ZQVHdSZW1JMW5WNlBEampKUUJobVI2ZXRlLVV5R1loTzFpRGx1ZG9tWjM4anpqRGRtcV9NVndUcDA2RFpyRUFnRlRBWlRSQ2J6YzZMUWlpbkhlQ1lJUnhJNEdELTJMVVE?oc=5",
-        "summary": "",
-        "pubDate": "2026-10-26T16:22:00.000Z"
-      }
-    ],
+    "Barron's": [],
     "MarketWatch": [
       {
         "source": "MarketWatch",
-        "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-        "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-        "summary": "The typically boring healthcare space has delivered a flash of excitement for investors in October, building on its gains from earlier in the year.",
-        "pubDate": "2026-10-28T16:49:00.000Z"
+        "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+        "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+        "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+        "pubDate": "2026-10-29T17:10:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Trump administration clears the way for production of peptides like BPC-157 and TB-500",
-        "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-        "summary": "The government won’t take action against compounding pharmacies that make six of the popular wellness products.",
-        "pubDate": "2026-10-28T16:39:00.000Z"
+        "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+        "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+        "summary": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
+        "pubDate": "2026-10-29T17:08:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-        "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-        "summary": "ETFs and other funds currently available to ordinary investors offer exposure to Anthropic.",
-        "pubDate": "2026-10-28T16:13:00.000Z"
+        "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+        "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+        "summary": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+        "pubDate": "2026-10-29T16:49:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-        "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-        "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
-        "pubDate": "2026-10-28T16:03:00.000Z"
+        "title": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
+        "link": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
+        "summary": "More airlines are looking to add the SpaceX-owned satellite internet to their fleets as passengers clamor for fast and reliable wifi/",
+        "pubDate": "2026-10-29T16:49:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-        "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-        "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-        "pubDate": "2026-10-28T15:36:00.000Z"
+        "title": "You can’t rely on the S&P 500 as much as you may think",
+        "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+        "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+        "pubDate": "2026-10-29T16:26:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "3 reasons home prices keep going up, even though fewer people are buying",
-        "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-        "summary": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
-        "pubDate": "2026-10-28T15:33:00.000Z"
+        "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+        "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+        "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+        "pubDate": "2026-10-29T16:00:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-        "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-        "pubDate": "2026-10-28T15:15:00.000Z"
+        "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+        "link": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
+        "summary": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+        "pubDate": "2026-10-29T15:54:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-        "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-        "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
-        "pubDate": "2026-10-28T15:15:00.000Z"
+        "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+        "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+        "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+        "pubDate": "2026-10-29T15:45:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "These software stocks could be winners as earnings season kicks into high gear",
-        "link": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
-        "summary": "The bar is higher for software companies now that their stocks have been outperforming, but analysts identify some top picks whose results could shine through.",
-        "pubDate": "2026-10-28T15:06:00.000Z"
+        "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+        "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+        "summary": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+        "pubDate": "2026-10-29T15:39:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
-        "link": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
-        "summary": "Heating-oil prices are at record highs. Washington’s answer is a loan you will never see and a pipeline that does not exist.",
-        "pubDate": "2026-10-28T15:03:00.000Z"
+        "title": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
+        "link": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
+        "summary": "Caterpillar’s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
+        "pubDate": "2026-10-29T15:12:00.000Z"
       }
     ]
   }
