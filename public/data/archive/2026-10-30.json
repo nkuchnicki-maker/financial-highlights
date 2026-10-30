@@ -1,0 +1,601 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T16:55:48.044Z",
+  "curated": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
+      "summary": "Nasdaq drops over 2% as another set of disappointing results stokes fears around AI trade",
+      "pubDate": "2026-10-30T08:44:05.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Falls 3% as Earnings Stoke AI Reckoning: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+      "summary": "A burst of heavy selling pummeled technology stocks and cryptocurrencies, curbing the appetite for riskier corners on Wall Street.",
+      "pubDate": "2026-10-29T22:07:56.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks tumble as earnings stoke AI spending fears",
+      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+      "summary": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
+      "pubDate": "2026-10-30T16:08:03.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall After Amazon and Intel Deal Another Blow to AI Trade",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
+      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "pubDate": "2026-10-30T15:55:07.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "summary": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "pubDate": "2026-10-30T15:26:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.",
+      "link": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
+      "summary": "Yields ranging from 6% to 8% on tech bonds provide more competition against stocks than before.",
+      "pubDate": "2026-10-30T14:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+      "summary": "Aspen Neuroscience Inc., a clinical-stage developer of cell therapies, fell 2% after raising about $140.6 million in a US initial public offering.",
+      "pubDate": "2026-10-30T15:53:45.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Exxon Raises Its Dividend Yet Again as Oil-Price Rally Boosts Earnings",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYkM0R0FIMEZVc2d0RTJuVURpRE80N3BGY0RjNkV6S1BQSHNZeVhCWmh6ZllUMEtQdHlIeENuSGJoNXBteWV0WmFoVF9iSHFjd3ZiOGd5Wnk2VU11REc3ZFNnMUxaOC1wQi15VjhHQk5wNEtRb1RVbVZjNWtJZw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T13:04:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
+      "summary": "Plus: Trump administration promised tariff relief in talks to secure U.S. Audi factory and Cleveland-Cliffs to retain Stelco amid jobs dispute with Canadian government.",
+      "pubDate": "2026-10-30T11:23:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "If you think Triple-C bonds are having a rough time . . .",
+      "link": "https://www.ft.com/content/caf2d108-bb04-47ff-bcfa-53cca632c63d",
+      "summary": "Is someone going to need a bigger boat?",
+      "pubDate": "2026-10-30T10:44:18.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+      "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
+      "summary": "The media conglomerate’s goodwill alone exceeds its stock-market value.",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon Earnings: Why the Stock Is Tanking",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R2RxbG5rWHFDbXBTWWIxck52WUluUHBJeWZvUEhvRHJyVzNWTkhwckYwRmxIT2doaGt3ZFpwLXRHSzdKT0pNd3Nub1pYendOYllfbXA5R3FzdmtNeEJYdW1OWHpOQV94d2JYQW1PY0dBbjZlUDJEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T09:11:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Marvell Stock Slides. Why the Market Hates the Idea of a Lumentum Buyout.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWdqUVJpYzN1d3Z3T3YyVHpQZzNLbWw5RW9mc0RiYnlibktHM3hGd0x1TlREeUVyaWFjOGtTYVFBTG1ILVpYM0RLQW9vcl9VOVRkcmkwdjVrSDdMUkxwTWtjOVZOQXhSQ0lNQUVZdTItdjhlR25CYlg4Wk1XS3ByaQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-29T17:57:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Accenture CEO Buys $3 Million of Stock After Shares Double Off June Lows",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjJqeENUUGZHbDlPYVRFQk5iNEJpQURoSlFWT2FORDJzN09hOUtWdjZGd2huMzJlX2kwVEV6MXIxYm9rVGhRMkVRRkxveFBlSFcyb0xISC1HdVlEMmdQMm5JTG1Kb1FlSVBxSVVuNS1odVpuR0VoMVZpVWVIZEF1Y29R?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T13:20:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "summary": "“A cheaper stock does not necessarily offer better value,” one expert says.",
+      "pubDate": "2026-10-30T16:45:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Activist Investor Bergeron Says Ethan Allen CEO Needs to Go",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
+      "summary": "DGB Investments founder Douglas Bergeron is pushing to make major changes at Ethan Allen Interiors Inc. The activist investor says CEO and Chairman Farooq Kathwari needs to be removed and be replaced by Stefanie Tsen Ward. Bergeron speaks on \"Bloomberg Open Interest.\" (Source: Bl",
+      "pubDate": "2026-10-30T15:51:12.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Reddit shares on track for biggest-ever one-day drop. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "summary": "Shares in the online discussion platform tumbled 25% on Friday morning after the company issued a lower-than-expected revenue outlook.",
+      "pubDate": "2026-10-30T14:43:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T14:22:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlJuS21nLVkwOXpfVnl2ZkJ3NjRpUVB0U25ZRXBnUWstQzVlN1hfa3ZLd0tNOUtwUTJYbkRWUUxIajZsY052NlI2Q21tY2tVSVFTS2ZiT25tcnRrMUsxOV9RQXNXU1h6UTdaMjlhTjYyZDhZclpKazJUcjdHekVWTTJkR2h1cmlKVWxTTUVrYw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T14:11:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "U.S. Natural Gas Futures Fall in Early Trading",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell amid downward pressure from a mild weather outlook for the first half of November.",
+      "pubDate": "2026-10-30T13:48:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "The Extra-Strength Funds That Are Too Much of a Good Thing",
+      "link": "https://www.wsj.com/finance/investing/the-extra-strength-funds-that-are-too-much-of-a-good-thing-c71362eb?mod=rss_markets_main",
+      "summary": "A new kind of sector ETF concentrates even more of your money in the top stocks.",
+      "pubDate": "2026-10-30T13:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+      "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+      "summary": "The tech giant is no longer loved by investors, despite its many advantages.",
+      "pubDate": "2026-10-29T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
+      "summary": "Nasdaq drops over 2% as another set of disappointing results stokes fears around AI trade",
+      "pubDate": "2026-10-30T08:44:05.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "How Binance Is Racing to Cover Losses in the Biggest Heist in Crypto History",
+      "link": "https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90?mod=rss_markets_main",
+      "summary": "The breach blew past everything the exchange had set aside to cover such an incident.",
+      "pubDate": "2026-10-30T13:55:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "U.S. Natural Gas Futures Fall in Early Trading",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell amid downward pressure from a mild weather outlook for the first half of November.",
+      "pubDate": "2026-10-30T13:48:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Extra-Strength Funds That Are Too Much of a Good Thing",
+      "link": "https://www.wsj.com/finance/investing/the-extra-strength-funds-that-are-too-much-of-a-good-thing-c71362eb?mod=rss_markets_main",
+      "summary": "A new kind of sector ETF concentrates even more of your money in the top stocks.",
+      "pubDate": "2026-10-30T13:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+      "link": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main",
+      "summary": "The rogue country is behind the $6.3 billion theft, experts say, potentially cementing its status as the world’s top crypto thief.",
+      "pubDate": "2026-10-30T12:01:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
+      "summary": "Plus: Trump administration promised tariff relief in talks to secure U.S. Audi factory and Cleveland-Cliffs to retain Stelco amid jobs dispute with Canadian government.",
+      "pubDate": "2026-10-30T11:23:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "If History Repeats, Small Caps Will Win in a Landslide",
+      "link": "https://www.wsj.com/finance/stocks/if-history-repeats-small-caps-will-win-in-a-landslide-e301e37e?mod=rss_markets_main",
+      "summary": "Plus, Halloween came early for tech giants.",
+      "pubDate": "2026-10-30T10:21:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+      "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
+      "summary": "The media conglomerate’s goodwill alone exceeds its stock-market value.",
+      "pubDate": "2026-10-30T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+      "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+      "summary": "The tech giant is no longer loved by investors, despite its many advantages.",
+      "pubDate": "2026-10-29T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+      "link": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
+      "summary": "Big and regional banks alike are riding a wave of AI lending.",
+      "pubDate": "2026-10-28T09:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks tumble as earnings stoke AI spending fears",
+      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+      "summary": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
+      "pubDate": "2026-10-30T16:08:03.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Binance halts withdrawals after record $6.3bn heist",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
+      "pubDate": "2026-10-30T15:06:14.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "What we know about the $6.3bn Binance hack",
+      "link": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
+      "summary": "Analysis suggests hackers bypassed standard methods used in crypto thefts",
+      "pubDate": "2026-10-30T13:23:45.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Partners plans to halve withdrawal limits on strained private equity fund",
+      "link": "https://www.ft.com/content/e42fabdb-2fa1-47ef-a014-9873639c40ae?syn-25a6b1a6=1",
+      "summary": "Swiss firm is under pressure as clients pull their money from its largest US and European funds",
+      "pubDate": "2026-10-30T12:38:38.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Did Anthropic value itself at $1.2tn in August?",
+      "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
+      "summary": "Not quite Navier-Stokes",
+      "pubDate": "2026-10-30T12:36:54.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s EV transition accelerates",
+      "link": "https://www.ft.com/content/a6629e05-5afc-403a-b305-67966854c7e3?syn-25a6b1a6=1",
+      "summary": "Carmakers are producing more attractive and affordable models to compete with Chinese rivals",
+      "pubDate": "2026-10-30T12:01:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "How North Korea became a hacking superpower",
+      "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+      "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+      "pubDate": "2026-10-30T11:20:19.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Binance’s $6.3bn heist is the biggest . . . but not the first",
+      "link": "https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1",
+      "summary": "Security breach at world’s largest cryptocurrency exchange is latest in wave of digital thefts",
+      "pubDate": "2026-10-30T10:50:37.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "If you think Triple-C bonds are having a rough time . . .",
+      "link": "https://www.ft.com/content/caf2d108-bb04-47ff-bcfa-53cca632c63d",
+      "summary": "Is someone going to need a bigger boat?",
+      "pubDate": "2026-10-30T10:44:18.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "ExxonMobil and Chevron post bumper profits and warn on diesel supplies",
+      "link": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
+      "summary": "US oil groups are profiting from soaring refining margins because of Donald Trump’s war in Iran",
+      "pubDate": "2026-10-30T10:37:17.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/big-oil-scores-56b-windfall-on-spiking-fuel-prices-video",
+      "summary": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia drove refining results to record highs. ExxonMobil Holdings Corp., Chevron Corp., BP Plc, Shell Plc and TotalEnergies SE all surpassed third-quarter expectations with combined adj",
+      "pubDate": "2026-10-30T16:31:51.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Falls 3% as Earnings Stoke AI Reckoning: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+      "summary": "A burst of heavy selling pummeled technology stocks and cryptocurrencies, curbing the appetite for riskier corners on Wall Street.",
+      "pubDate": "2026-10-29T22:07:56.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Miami Firms Buy InterContinental Hotel for About $300 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/miami-firms-buy-intercontinental-hotel-for-about-300-million",
+      "summary": "Gencom and White Bridge Capital bought the InterContinental hotel in downtown Miami, marking the companies’ third joint hospitality deal in the past year.",
+      "pubDate": "2026-10-30T16:22:09.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Housing, Food Costs Make Up Half of Americans’ Spending, Most in 15 Years",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years",
+      "summary": "Housing and food made up nearly half of US households’ spending in 2025, the most in 15 years amid rising rents, homeowner costs and beef prices.",
+      "pubDate": "2026-10-30T16:14:40.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Come See Lina Khan at Odd Lots LIVE on 12/9 in NYC",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/come-see-lina-khan-at-odd-lots-live-on-12-9-in-nyc",
+      "summary": "Come see our final live show of the year.",
+      "pubDate": "2026-10-30T16:13:16.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Brasília em Off: O que Lula entendeu das urnas",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/brasilia-em-off-o-que-lula-entendeu-das-urnas-video",
+      "summary": "A repórter Martha Beck detalha a sua coluna Brasília em Off. Com produção de Beatriz Amat e edição de Gisele Fernandes. (Source: Bloomberg)",
+      "pubDate": "2026-10-30T16:03:47.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall After Amazon and Intel Deal Another Blow to AI Trade",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-surveillance-10-30-2026-video",
+      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "pubDate": "2026-10-30T15:55:07.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+      "summary": "Aspen Neuroscience Inc., a clinical-stage developer of cell therapies, fell 2% after raising about $140.6 million in a US initial public offering.",
+      "pubDate": "2026-10-30T15:53:45.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Activist Investor Bergeron Says Ethan Allen CEO Needs to Go",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/bergeron-says-ethan-allen-ceo-needs-to-go-video",
+      "summary": "DGB Investments founder Douglas Bergeron is pushing to make major changes at Ethan Allen Interiors Inc. The activist investor says CEO and Chairman Farooq Kathwari needs to be removed and be replaced by Stefanie Tsen Ward. Bergeron speaks on \"Bloomberg Open Interest.\" (Source: Bl",
+      "pubDate": "2026-10-30T15:51:12.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
+      "summary": "Read the story in English",
+      "pubDate": "2026-10-30T15:50:18.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlJuS21nLVkwOXpfVnl2ZkJ3NjRpUVB0U25ZRXBnUWstQzVlN1hfa3ZLd0tNOUtwUTJYbkRWUUxIajZsY052NlI2Q21tY2tVSVFTS2ZiT25tcnRrMUsxOV9RQXNXU1h6UTdaMjlhTjYyZDhZclpKazJUcjdHekVWTTJkR2h1cmlKVWxTTUVrYw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T14:11:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T14:22:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Exxon Raises Its Dividend Yet Again as Oil-Price Rally Boosts Earnings",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYkM0R0FIMEZVc2d0RTJuVURpRE80N3BGY0RjNkV6S1BQSHNZeVhCWmh6ZllUMEtQdHlIeENuSGJoNXBteWV0WmFoVF9iSHFjd3ZiOGd5Wnk2VU11REc3ZFNnMUxaOC1wQi15VjhHQk5wNEtRb1RVbVZjNWtJZw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T13:04:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why the Ultrawealthy Don’t Like Paying Cash for Their Mansions",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ2xMdXBqNEM0WGVXRThUSXk2eENVV2RSSWs3M0xvOUJyZkxjMDBtcDB1QlJsaEx5dEUwRHcwQWtNQmVXVVhLYjhMbFFWX1h3a1dDVlB4SkU5SG5CWFR3VHV2bUdjdkdxYnpjcm5ZdXBERWRlbWhTT1VZbw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-29T08:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "3 Home Improvement Stocks That Are Going to Heat Up",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUFrS0t2VFJmdjVuOGdzMVYxM2tZdkt6M3dwcjNxbHpLRlp0SzR4Ry1JNUhFRElsdFgzTFE4dGw1ZnMwaGdIVkJrRWctUzRoRjFjOFZtdTYxTE0tTUR3eURIck5WNXJWTlJCV3ZJalZfdThFSDU0Vmk1WXhKNk90dGlfMHJ5TElz?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T20:01:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon Earnings: Why the Stock Is Tanking",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R2RxbG5rWHFDbXBTWWIxck52WUluUHBJeWZvUEhvRHJyVzNWTkhwckYwRmxIT2doaGt3ZFpwLXRHSzdKT0pNd3Nub1pYendOYllfbXA5R3FzdmtNeEJYdW1OWHpOQV94d2JYQW1PY0dBbjZlUDJEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T09:11:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Accenture CEO Buys $3 Million of Stock After Shares Double Off June Lows",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjJqeENUUGZHbDlPYVRFQk5iNEJpQURoSlFWT2FORDJzN09hOUtWdjZGd2huMzJlX2kwVEV6MXIxYm9rVGhRMkVRRkxveFBlSFcyb0xISC1HdVlEMmdQMm5JTG1Kb1FlSVBxSVVuNS1odVpuR0VoMVZpVWVIZEF1Y29R?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T13:20:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "‘This Is a Knife Fight:’ Inside China’s Ruthless EV Blitz Upending the World",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RLS1aQmVoWGlZUGNVVmU0UlNVcjBMMkdoZVdGVmFtVGNlQ2ZtRXRjVHM4Q3JGU20tT3hlbjlzMzhfX0R2YUxOY1BoMjRTankwVEF0dmpqSV9qN1Y2djFWRjBqWkFCY1VtOGl4eDczMFM3MkRhandwdzZn?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T06:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Marvell Stock Slides. Why the Market Hates the Idea of a Lumentum Buyout.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWdqUVJpYzN1d3Z3T3YyVHpQZzNLbWw5RW9mc0RiYnlibktHM3hGd0x1TlREeUVyaWFjOGtTYVFBTG1ILVpYM0RLQW9vcl9VOVRkcmkwdjVrSDdMUkxwTWtjOVZOQXhSQ0lNQUVZdTItdjhlR25CYlg4Wk1XS3ByaQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-29T17:57:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock: Elon Musk Just Gave Verizon, AT&T, Other Telecoms Some Great News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTRIdXk2Mjh1QUYyM2NKNENnbHlBVmVqbklGVHlmamJoMmtrMGJqZzlvMHNmRkFVY0Z1cFpqZlRzR1BpZzNxVXUwWW1PZnh6RzdiMDJpMnJSWkt1ZVlPOVdNLXlfX1hCeGlRZXdhcDJyMHF6aGlNNjBhRTRFWnd1SnAxU3lUaHNkWXB2STRtVXg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-27T20:10:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "summary": "“A cheaper stock does not necessarily offer better value,” one expert says.",
+      "pubDate": "2026-10-30T16:45:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+      "summary": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
+      "pubDate": "2026-10-30T16:20:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "pubDate": "2026-10-30T16:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
+      "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+      "summary": "About 52% of people with a workplace retirement plan say they would invest in private assets if they were available in their company’s plan.",
+      "pubDate": "2026-10-30T15:53:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "pubDate": "2026-10-30T15:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "summary": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "pubDate": "2026-10-30T15:26:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+      "pubDate": "2026-10-30T15:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+      "link": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
+      "summary": "West Virginia wants more data centers, even as other states slam the brakes on them.",
+      "pubDate": "2026-10-30T15:14:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Reddit shares on track for biggest-ever one-day drop. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "summary": "Shares in the online discussion platform tumbled 25% on Friday morning after the company issued a lower-than-expected revenue outlook.",
+      "pubDate": "2026-10-30T14:43:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.",
+      "link": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
+      "summary": "Yields ranging from 6% to 8% on tech bonds provide more competition against stocks than before.",
+      "pubDate": "2026-10-30T14:30:00.000Z"
+    }
+  ]
+}
