@@ -1,0 +1,634 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T15:56:19.660Z",
+  "curated": [
+    {
+      "source": "Financial Times",
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+      "pubDate": "2026-10-31T14:00:02.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+      "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
+      "pubDate": "2026-10-31T14:03:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+      "summary": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings.",
+      "pubDate": "2026-10-31T13:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: Bond investors may cheer gridlock",
+      "link": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
+      "summary": "Midterms will have higher stakes for the bond market",
+      "pubDate": "2026-10-31T10:30:01.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 isn’t the big winner you may think it is",
+      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "pubDate": "2026-10-31T14:54:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
+      "summary": "U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.",
+      "pubDate": "2026-10-31T13:01:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of England explores easing key limit on riskier mortgage lending",
+      "link": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+      "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
+      "pubDate": "2026-10-31T05:00:31.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+      "summary": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase.",
+      "pubDate": "2026-10-31T03:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Stocks Slide, Intel Plunges, Binance Hacked",
+      "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+      "summary": "Plus, Fed officials signal rate-hike support and Treasurys gain on tech selloff",
+      "pubDate": "2026-10-30T20:37:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+      "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
+      "summary": "The media conglomerate’s goodwill alone exceeds its stock-market value.",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon Earnings: Why the Stock Is Tanking",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R2RxbG5rWHFDbXBTWWIxck52WUluUHBJeWZvUEhvRHJyVzNWTkhwckYwRmxIT2doaGt3ZFpwLXRHSzdKT0pNd3Nub1pYendOYllfbXA5R3FzdmtNeEJYdW1OWHpOQV94d2JYQW1PY0dBbjZlUDJEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T09:11:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+      "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+      "summary": "The AI developer’s losses were the flip side of the big gains for Amazon and Alphabet.",
+      "pubDate": "2026-10-27T09:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
+      "summary": "With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans.",
+      "pubDate": "2026-10-31T15:00:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+      "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
+      "summary": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
+      "pubDate": "2026-10-31T13:15:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Russia Extends Ban on Most Diesel Exports Through January",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january",
+      "summary": "Russia’s government has extended a general ban on diesel exports by producers until the end of January while still allowing some volumes to flow to the global market.",
+      "pubDate": "2026-10-31T12:13:37.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "What 150 Years of Market Bubbles Teach Us About the AI Boom",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1BMZFFqNExNbDlWamY5bjBESkVBUVJWNEZIMjdUYzI5NlVKOHZnbjJ4bGtmMkZhNm5rVHlOX05wanhpWG5lZFJTQ0d1a1VTLUtwYjdHa296LWRrVUJtNkt5YWFGcXB6YjZib0IzZDJUYlYzUTRpNVNsMUZ0ejlZZWNtTjlTcXlH?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-31T10:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+      "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+      "summary": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
+      "pubDate": "2026-10-31T09:36:34.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "US midterms loom over jittery investors",
+      "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+      "summary": "Caution certainly seems warranted for the coming weeks",
+      "pubDate": "2026-10-31T05:00:39.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula’s surprise election victory sends agri-commodities tumbling",
+      "link": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1",
+      "summary": "Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries",
+      "pubDate": "2026-10-31T05:00:31.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
+      "link": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
+      "summary": "Hamza Lemssouguer’s fund known for its bold bets suffered margin calls after several investments tumbled.",
+      "pubDate": "2026-10-30T22:43:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff",
+      "link": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
+      "summary": "Plus, Binance executives are racing to cover billions in losses from the biggest crypto heist in history, and Ukraine struck a Russian oil refinery.",
+      "pubDate": "2026-10-30T21:36:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Wall Street’s AI Faith Just Ran Into Cold, Hard Numbers",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWNLX3JvS2EyMWVybHFscGY0MnZkOFphSS1VNzIwWVo4bENOclJfZ29ldWF4WkYtd1BaUlM0dllRcmtyMXVOY2JPek4td1c1TXVDUWVMdWE1d3VJRnlGRFJQVEdqX0pLeC1IdlQyR2dZQVlQQ3pkbVlTV1NVcXdpVzZpWGs?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T17:13:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech’s Underwhelming Earnings.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlJuS21nLVkwOXpfVnl2ZkJ3NjRpUVB0U25ZRXBnUWstQzVlN1hfa3ZLd0tNOUtwUTJYbkRWUUxIajZsY052NlI2Q21tY2tVSVFTS2ZiT25tcnRrMUsxOV9RQXNXU1h6UTdaMjlhTjYyZDhZclpKazJUcjdHekVWTTJkR2h1cmlKVWxTTUVrYw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T16:48:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Penalty Box? Buy Boeing Stock Now, Says Citi.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92WjE5dzBlbEZSS0prbEFxU1lYQXlJSEFUZm10UmlhcnE2Ml9OMS1SRkpmQWZEVzhIclpuT0tPbm1IRkhSZ3pUREFNSDBaelQwTHV1SURPd2oyeDczX3FnVU1fNWFPbWNFeXZTNk91UzhYZUZBZ1pCeA?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T12:25:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "3 Home Improvement Stocks That Are Going to Heat Up",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUFrS0t2VFJmdjVuOGdzMVYxM2tZdkt6M3dwcjNxbHpLRlp0SzR4Ry1JNUhFRElsdFgzTFE4dGw1ZnMwaGdIVkJrRWctUzRoRjFjOFZtdTYxTE0tTUR3eURIck5WNXJWTlJCV3ZJalZfdThFSDU0Vmk1WXhKNk90dGlfMHJ5TElz?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T20:01:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+      "summary": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase.",
+      "pubDate": "2026-10-31T03:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+      "link": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
+      "summary": "Binance’s founder Changpeng Zhao had warned a week earlier that “No crypto wallet is 100% safe.” In 20 minutes, hackers had made off with at least $6.3 billion.",
+      "pubDate": "2026-10-30T23:29:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
+      "link": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
+      "summary": "Hamza Lemssouguer’s fund known for its bold bets suffered margin calls after several investments tumbled.",
+      "pubDate": "2026-10-30T22:43:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff",
+      "link": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
+      "summary": "Plus, Binance executives are racing to cover billions in losses from the biggest crypto heist in history, and Ukraine struck a Russian oil refinery.",
+      "pubDate": "2026-10-30T21:36:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Week the Cracks in the AI Trade Grew Deeper",
+      "link": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main",
+      "summary": "Intel suffered its worst-ever daily decline as investors’ anxieties hit new highs.",
+      "pubDate": "2026-10-30T20:52:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Stocks Slide, Intel Plunges, Binance Hacked",
+      "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+      "summary": "Plus, Fed officials signal rate-hike support and Treasurys gain on tech selloff",
+      "pubDate": "2026-10-30T20:37:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+      "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
+      "summary": "The media conglomerate’s goodwill alone exceeds its stock-market value.",
+      "pubDate": "2026-10-30T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+      "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+      "summary": "The tech giant is no longer loved by investors, despite its many advantages.",
+      "pubDate": "2026-10-29T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+      "link": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
+      "summary": "Big and regional banks alike are riding a wave of AI lending.",
+      "pubDate": "2026-10-28T09:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+      "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+      "summary": "The AI developer’s losses were the flip side of the big gains for Amazon and Alphabet.",
+      "pubDate": "2026-10-27T09:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+      "pubDate": "2026-10-31T14:00:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+      "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+      "summary": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
+      "pubDate": "2026-10-31T10:38:18.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: Bond investors may cheer gridlock",
+      "link": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
+      "summary": "Midterms will have higher stakes for the bond market",
+      "pubDate": "2026-10-31T10:30:01.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+      "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+      "summary": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
+      "pubDate": "2026-10-31T09:36:34.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US midterms loom over jittery investors",
+      "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+      "summary": "Caution certainly seems warranted for the coming weeks",
+      "pubDate": "2026-10-31T05:00:39.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of England explores easing key limit on riskier mortgage lending",
+      "link": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+      "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
+      "pubDate": "2026-10-31T05:00:31.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula’s surprise election victory sends agri-commodities tumbling",
+      "link": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1",
+      "summary": "Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries",
+      "pubDate": "2026-10-31T05:00:31.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+      "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+      "pubDate": "2026-10-31T00:05:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+      "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+      "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+      "pubDate": "2026-10-30T22:17:15.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Binance rushes to recover customer money after $6.3bn heist",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
+      "pubDate": "2026-10-30T22:12:58.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-31/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (S",
+      "pubDate": "2026-10-31T15:22:56.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
+      "summary": "With control of Congress hanging on a number of razor-thin races, both Democrats and Republicans are seizing on voters’ frustrations with rising credit card debt to win over inflation-weary Americans.",
+      "pubDate": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
+      "summary": "Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas.",
+      "pubDate": "2026-10-31T14:11:01.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stadiums Rethink the Women’s Restroom",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
+      "summary": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer",
+      "pubDate": "2026-10-31T13:48:28.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Haunted Attractions Help Revive Neighborhoods",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video",
+      "summary": "Journalist Elizabeth Yuko tells Bloomberg This Weekend how haunted attractions are drawing visitors and investment to struggling neighborhoods, including Baltimore’s Old Town and former industrial districts in Kansas City and Salt Lake City. Speaking with hosts David Gura and Lis",
+      "pubDate": "2026-10-31T13:34:43.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
+      "summary": "EU foreign policy chief Kaja Kallas tells Bloomberg This Weekend that Russia is escalating its war in Ukraine and is not serious about peace, criticizing Russian Foreign Minister Sergei Lavrov’s statements at the G20 foreign ministers’ meeting in Atlanta and warning against norma",
+      "pubDate": "2026-10-31T13:15:03.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+      "summary": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings.",
+      "pubDate": "2026-10-31T13:00:00.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "By The Way: Headlines You May Have Missed",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
+      "summary": "Spirit Halloween's best year, America's love for the giant skeleton decoration, the Cheesecake Factory says the look is the point, and Cheerios introducing a ziploc-sealed bag: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines you may have missed, but gotta ",
+      "pubDate": "2026-10-31T12:50:53.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Senegal Lawmakers Reject Budget Again, Putting IMF Deal at Risk",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
+      "summary": "Senegalese lawmakers have again rejected the government’s revised 2026 finance law, prolonging a standoff that threatens to delay approval of a crucial International Monetary Fund program.",
+      "pubDate": "2026-10-31T12:27:56.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Russia Extends Ban on Most Diesel Exports Through January",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january",
+      "summary": "Russia’s government has extended a general ban on diesel exports by producers until the end of January while still allowing some volumes to flow to the global market.",
+      "pubDate": "2026-10-31T12:13:37.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon and Intel Tank the AI Trade. The 1 Factor Linking Big Tech’s Underwhelming Earnings.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlJuS21nLVkwOXpfVnl2ZkJ3NjRpUVB0U25ZRXBnUWstQzVlN1hfa3ZLd0tNOUtwUTJYbkRWUUxIajZsY052NlI2Q21tY2tVSVFTS2ZiT25tcnRrMUsxOV9RQXNXU1h6UTdaMjlhTjYyZDhZclpKazJUcjdHekVWTTJkR2h1cmlKVWxTTUVrYw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T16:48:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "What 150 Years of Market Bubbles Teach Us About the AI Boom",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1BMZFFqNExNbDlWamY5bjBESkVBUVJWNEZIMjdUYzI5NlVKOHZnbjJ4bGtmMkZhNm5rVHlOX05wanhpWG5lZFJTQ0d1a1VTLUtwYjdHa296LWRrVUJtNkt5YWFGcXB6YjZib0IzZDJUYlYzUTRpNVNsMUZ0ejlZZWNtTjlTcXlH?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-31T10:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Penalty Box? Buy Boeing Stock Now, Says Citi.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92WjE5dzBlbEZSS0prbEFxU1lYQXlJSEFUZm10UmlhcnE2Ml9OMS1SRkpmQWZEVzhIclpuT0tPbm1IRkhSZ3pUREFNSDBaelQwTHV1SURPd2oyeDczX3FnVU1fNWFPbWNFeXZTNk91UzhYZUZBZ1pCeA?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T12:25:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Amazon Earnings: Why the Stock Is Tanking",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R2RxbG5rWHFDbXBTWWIxck52WUluUHBJeWZvUEhvRHJyVzNWTkhwckYwRmxIT2doaGt3ZFpwLXRHSzdKT0pNd3Nub1pYendOYllfbXA5R3FzdmtNeEJYdW1OWHpOQV94d2JYQW1PY0dBbjZlUDJEeg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T09:11:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why the Ultrawealthy Don’t Like Paying Cash for Their Mansions",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQ2xMdXBqNEM0WGVXRThUSXk2eENVV2RSSWs3M0xvOUJyZkxjMDBtcDB1QlJsaEx5dEUwRHcwQWtNQmVXVVhLYjhMbFFWX1h3a1dDVlB4SkU5SG5CWFR3VHV2bUdjdkdxYnpjcm5ZdXBERWRlbWhTT1VZbw?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-29T08:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "3 Home Improvement Stocks That Are Going to Heat Up",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUFrS0t2VFJmdjVuOGdzMVYxM2tZdkt6M3dwcjNxbHpLRlp0SzR4Ry1JNUhFRElsdFgzTFE4dGw1ZnMwaGdIVkJrRWctUzRoRjFjOFZtdTYxTE0tTUR3eURIck5WNXJWTlJCV3ZJalZfdThFSDU0Vmk1WXhKNk90dGlfMHJ5TElz?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T20:01:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock: Elon Musk Just Gave Verizon, AT&T, Other Telecoms Some Great News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTRIdXk2Mjh1QUYyM2NKNENnbHlBVmVqbklGVHlmamJoMmtrMGJqZzlvMHNmRkFVY0Z1cFpqZlRzR1BpZzNxVXUwWW1PZnh6RzdiMDJpMnJSWkt1ZVlPOVdNLXlfX1hCeGlRZXdhcDJyMHF6aGlNNjBhRTRFWnd1SnAxU3lUaHNkWXB2STRtVXg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-27T20:10:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Wall Street’s AI Faith Just Ran Into Cold, Hard Numbers",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWNLX3JvS2EyMWVybHFscGY0MnZkOFphSS1VNzIwWVo4bENOclJfZ29ldWF4WkYtd1BaUlM0dllRcmtyMXVOY2JPek4td1c1TXVDUWVMdWE1d3VJRnlGRFJQVEdqX0pLeC1IdlQyR2dZQVlQQ3pkbVlTV1NVcXdpVzZpWGs?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-30T17:13:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "'Now Or Never': Ethiopia Influencers Push For Eritrea Invasion",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFNGNE1td1Vod1llQzZwcmtZdXFSVkRqYW51d1oxb1V0YzVoM0k3Q2FYa1Q5RjQ0eFV6STJkUFpzYlZOclVQNmZHN1dsY016XzFGU1VjUXJLbnNtdkFnbnNfcFhlWk9SY1ZDVnN6Wmk1NHQwb1ZhLVF5UGV0Q3ZteXVXaEJCVVV2cTdmemlZODNqWVM5NUVWRngtaTBEQQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T06:06:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Boeing CEO Kelly Ortberg Gets Strike One. What the Stock Needs Now.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQenNaVGdyZHQtZ0NkZm9EXzVNd1FvTlJZM1pXcnY0V05Kdlo5VDNCd2dhZ0F4STVpWEJLQ1piUkFESXZQcl9hbVFoc2VBNU5nS012Vlh4MkVTS0I1Q2NtXzRaMlZ5UHJhWXdjZ0xBbklCUm44QWcwX1M1cVhwS2xHc0hWSUZJTXZFdzZMNg?oc=5",
+      "summary": "",
+      "pubDate": "2026-10-28T12:40:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "pubDate": "2026-10-31T15:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "pubDate": "2026-10-31T15:25:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "pubDate": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 isn’t the big winner you may think it is",
+      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "pubDate": "2026-10-31T14:54:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
+      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+      "pubDate": "2026-10-31T14:35:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "pubDate": "2026-10-31T14:26:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+      "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
+      "pubDate": "2026-10-31T14:03:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+      "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
+      "summary": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
+      "pubDate": "2026-10-31T13:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
+      "summary": "U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.",
+      "pubDate": "2026-10-31T13:01:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "summary": "How to manage “giving while living” without endangering your own retirement.",
+      "pubDate": "2026-10-31T13:00:00.000Z"
+    }
+  ]
+}
