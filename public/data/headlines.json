@@ -1,34 +1,55 @@
 {
-  "generatedAt": "2026-11-02T20:36:55.684Z",
+  "generatedAt": "2026-11-03T18:12:51.095Z",
   "sources": {
     "WSJ": [
       {
         "source": "WSJ",
-        "title": "Stock Market Today: Nasdaq Turns Lower; Dow Rises After Friday's Selloff",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
-        "summary": "Oil slides amid signs U.S., Iran could consider diplomacy",
-        "pubDate": "2026-11-02T09:46:46.000Z"
+        "title": "Stock Market Today: Tech Stocks Rise Despite Apple Slump",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
+        "summary": "Nasdaq selloff pauses as chip stocks gain, investors eye midterm elections",
+        "pubDate": "2026-11-03T08:43:11.000Z"
       },
       {
         "source": "WSJ",
-        "title": "U.S. Natural Gas Futures See Modest Pick-Up",
-        "link": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
-        "summary": "U.S. natural gas futures rose after three straight weeks of declines.",
-        "pubDate": "2026-11-02T14:42:00.000Z"
+        "title": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market",
+        "link": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
+        "summary": "China’s market regulator told banks that ongoing IPO processes would continue but that it wouldn’t be taking up new listings for now.",
+        "pubDate": "2026-11-03T13:02:00.000Z"
       },
       {
         "source": "WSJ",
-        "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
-        "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
-        "summary": "The firm that will become Kaz Resources has secured letters of interest for up to $1.6 billion in U.S. funding, drawing scrutiny from Sen. Elizabeth Warren.",
-        "pubDate": "2026-11-02T12:00:00.000Z"
+        "title": "McDonald’s Is Beefing Up, but It Won’t Be Cheap",
+        "link": "https://www.wsj.com/finance/stocks/mcdonalds-is-beefing-up-but-it-wont-be-cheap-9ce73fff?mod=rss_markets_main",
+        "summary": "Plus, AI investors are on election watch.",
+        "pubDate": "2026-11-03T11:25:00.000Z"
       },
       {
         "source": "WSJ",
-        "title": "This Bond Measure Says Stocks Are Cheap. Don’t Believe It.",
-        "link": "https://www.wsj.com/finance/investing/this-bond-measure-says-stocks-are-cheap-dont-believe-it-1db3069a?mod=rss_markets_main",
-        "summary": "Plus, Apple’s back on top.",
-        "pubDate": "2026-11-02T11:47:00.000Z"
+        "title": "Health Insurance Is the Sleeper Inflation Issue",
+        "link": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main",
+        "summary": "Plus: AI in economics, William Nordhaus’s climate insights, and how the U.S. is beating China in the ‘Global Office.’",
+        "pubDate": "2026-11-03T11:00:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+        "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main",
+        "summary": "Apple is the rare big tech play that hasn’t become a giant bet on the AI boom.",
+        "pubDate": "2026-11-03T10:30:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
+        "link": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
+        "summary": "The $80 billion hedge-fund firm posted flat returns in third quarter and under 2% gains this year through September.",
+        "pubDate": "2026-11-02T23:54:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
+        "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
+        "summary": "Investors are following races in key states for pushback against the AI infrastructure build-out.",
+        "pubDate": "2026-11-02T22:24:00.000Z"
       },
       {
         "source": "WSJ",
@@ -36,20 +57,6 @@
         "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=rss_markets_main",
         "summary": "The streamer’s ad ambitions depend on viewing hours, which have stalled.",
         "pubDate": "2026-11-02T10:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide",
-        "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
-        "summary": "European stock indexes were mostly lower at the open, as investors recalibrated after last week’s strength.",
-        "pubDate": "2026-11-02T08:25:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-        "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
-        "summary": "The exchange says it has replaced roughly 95% of the stolen assets thus far.",
-        "pubDate": "2026-11-01T18:54:00.000Z"
       },
       {
         "source": "WSJ",
@@ -64,160 +71,188 @@
         "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
         "summary": "The media conglomerate’s goodwill alone exceeds its stock-market value.",
         "pubDate": "2026-10-30T09:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
-        "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
-        "summary": "The tech giant is no longer loved by investors, despite its many advantages.",
-        "pubDate": "2026-10-29T09:30:00.000Z"
       }
     ],
     "Financial Times": [
       {
         "source": "Financial Times",
-        "title": "Petrol prices set to hit record high under Trump on eve of US elections",
-        "link": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
-        "summary": "Average fuel costs during president’s second term pass Biden-era levels as affordability issues top Tuesday’s midterm polls",
-        "pubDate": "2026-11-02T17:46:33.000Z"
+        "title": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
+        "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+        "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
+        "pubDate": "2026-11-03T15:21:33.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Oil tumbles on hopes for US-Iran talks",
-        "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
-        "summary": "Prices extend decline after Iran’s president said the country’s supreme leader had given officials certain authority over talks",
-        "pubDate": "2026-11-02T17:20:40.000Z"
+        "title": "‘The new frontier of finance is built in the United States of America’",
+        "link": "https://www.ft.com/content/f8629d69-9890-4da1-a378-a6041b398b21",
+        "summary": "Perp talk",
+        "pubDate": "2026-11-03T14:53:32.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "The inconvenient truths of Nixon’s legacy",
-        "link": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
-        "summary": "Maga supporters would do well to ponder his economic shadow, which continues to do damage today",
-        "pubDate": "2026-11-02T17:06:19.000Z"
+        "title": "Wall Street braces as voters head to high-stakes polls",
+        "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+        "summary": "Vote will set the trajectory for everything from AI to public spending",
+        "pubDate": "2026-11-03T14:33:22.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Alstom shares tumble 26% after train maker cuts profit forecast",
-        "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-        "summary": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
-        "pubDate": "2026-11-02T16:55:48.000Z"
+        "title": "Oil price extends decline to $103",
+        "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
+        "summary": "Crude prices weaken on Tuesday following unconfirmed report of diplomatic progress in the Middle East",
+        "pubDate": "2026-11-03T14:25:09.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "What caused the $6.3bn Binance hack?",
-        "link": "https://www.ft.com/content/aee842a2-2949-4746-8742-03c0397f0391",
-        "summary": "Blockchains are not the problem; it is the ecosystem around them that has introduced technological vulnerabilities",
-        "pubDate": "2026-11-02T15:02:52.000Z"
+        "title": "In the shadow of war, Silicon Valley sprinkles stardust",
+        "link": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c?syn-25a6b1a6=1",
+        "summary": "While the US energy sector had a diminished presence from the Adipec conference in Abu Dhabi, the tech sector worked its magic",
+        "pubDate": "2026-11-03T12:00:06.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Binance users pull $5bn as crypto exchange restarts services after heist",
-        "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-        "summary": "Group pledges to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-        "pubDate": "2026-11-02T10:01:58.000Z"
+        "title": "Apollo lends record $114bn as it piles into AI financing boom",
+        "link": "https://www.ft.com/content/72cb3140-49ba-4ce1-be8c-ee5295612b55?syn-25a6b1a6=1",
+        "summary": "US private capital group provides funding for Anthropic and chipmaker Nvidia in third quarter",
+        "pubDate": "2026-11-03T11:34:25.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Unpicking Microsoft’s free cash flow",
-        "link": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1",
-        "summary": "Plus: stock-bond correlations (again)",
-        "pubDate": "2026-11-02T06:30:07.000Z"
+        "title": "Americans vote in election that doubles as referendum on Trump’s presidency",
+        "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+        "summary": "Republicans battle to retain majorities in Senate and House of Representatives",
+        "pubDate": "2026-11-03T10:52:57.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "What the increasingly awkward data centre construction delays mean for investors",
-        "link": "https://www.ft.com/content/824fcec4-bded-44f3-9e42-565ba0d2cfa8",
-        "summary": "Boom?",
-        "pubDate": "2026-11-02T06:00:08.000Z"
+        "title": "Menopause specialist sold in €2.6bn private equity deal",
+        "link": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1?syn-25a6b1a6=1",
+        "summary": "Carlyle and PAI Partners agree to sell women’s health business for almost double what they paid four years ago",
+        "pubDate": "2026-11-03T09:45:05.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "The biggest-ever hedge fund spinout",
-        "link": "https://www.ft.com/content/08f99037-1bd5-4eb5-9213-4097ebf3475c?syn-25a6b1a6=1",
-        "summary": "Plus, insurers stay bullish on private markets, Binance suffers $6.3bn heist, and ‘The Magic Flute’ at New York’s Metropolitan Opera",
-        "pubDate": "2026-11-02T06:00:08.000Z"
+        "title": "Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn",
+        "link": "https://www.ft.com/content/28649f64-1c4e-4163-ba2b-8d28c6e37616?syn-25a6b1a6=1",
+        "summary": "Move part of Anglo-Dutch oil major’s strategy to shed mature assets",
+        "pubDate": "2026-11-03T08:22:06.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "A lasting injustice from the Libor affair",
-        "link": "https://www.ft.com/content/dc022816-63ec-4d15-82c8-9a2b485c52db?syn-25a6b1a6=1",
-        "summary": "Whistleblower is the only one of 19 jailed bankers not to have had his conviction overturned yet",
-        "pubDate": "2026-11-02T05:00:17.000Z"
+        "title": "Australia raises rates to highest level since 2008 financial crisis",
+        "link": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
+        "summary": "Central bank’s fifth increase this year comes as inflation remains above target",
+        "pubDate": "2026-11-03T06:40:16.000Z"
       }
     ],
     "Bloomberg": [
       {
         "source": "Bloomberg",
-        "title": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-        "summary": "Gold rebounded as oil plunged on renewed hopes for diplomatic efforts to end the war in Iran.",
-        "pubDate": "2026-11-02T00:03:36.000Z"
+        "title": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+        "summary": "A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.",
+        "pubDate": "2026-11-02T22:25:14.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "NYC Marathon Winner Andreas Almgren on Debut Victory",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/nyc-marathon-winner-andreas-almgren-on-debut-victory-video",
-        "summary": "Following his debut victory in the New York City Marathon, Men's Winner Andreas Almgren sat down with Bloomberg's Randall Williams to discuss his victory, the mindset behind winning the marathon, and his path forward. (Source: Bloomberg)",
-        "pubDate": "2026-11-02T20:26:25.000Z"
+        "title": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
+        "summary": "NextEra Energy Inc. and Dominion Energy Inc. offered Virginia additional concessions in their latest bid to convince the state to approve its $67 billion merger, although the utilities didn’t bow to the biggest demand from Governor Abigail Spanberger.",
+        "pubDate": "2026-11-03T12:24:22.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-        "summary": "For almost three months, Big Tech companies didn’t borrow in the US bond market. Now they’re flooding in again.",
-        "pubDate": "2026-11-02T12:45:05.000Z"
+        "title": "Latest Oil Market News and Analysis for Nov. 3",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+        "summary": "Oil prices swung in a choppy session as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
+        "pubDate": "2026-11-02T23:01:19.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-        "summary": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
-        "pubDate": "2026-11-02T18:48:33.000Z"
+        "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
+        "summary": "The dollar rose on Election Day in the US, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
+        "pubDate": "2026-11-03T17:49:16.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "US Tech Stocks Hover Near Correction on Middle East Tensions",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-        "summary": "Technology stocks are leading US equities lower as renewed tensions in the Middle East and worries around the artificial intelligence trade pushed traders toward the exits.",
-        "pubDate": "2026-11-02T13:08:30.000Z"
+        "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
+        "summary": "JPMorgan Asset Management’s Bob Michele has some advice for Treasury Secretary Scott Bessent: get rid of the 20-year bond.",
+        "pubDate": "2026-11-03T17:26:02.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Latest Oil Market News and Analysis for Nov. 2",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-        "summary": "Oil slumped the most in three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
-        "pubDate": "2026-11-01T23:11:50.000Z"
+        "title": "Hydro-Quebec Forced to Import More Power After Deals With US Utilities",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/hydro-quebec-forced-to-import-more-power-after-deals-with-us-utilities",
+        "summary": "Hydro-Quebec, a Canadian renewable-energy powerhouse with major US export contracts, is stretching an investment plan worth C$200 billion ($143 billion) by six years to 2041. Until then, it anticipates potentially being a net importer of electricity.",
+        "pubDate": "2026-11-03T17:18:12.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Buyers Circle Mark Walter’s F1 Team as He Offloads Sports Assets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets",
-        "summary": "Buyers have begun circling Mark Walter’s Cadillac F1 team, according to people familiar with the matter.",
-        "pubDate": "2026-11-02T20:02:35.000Z"
+        "title": "Majority of London’s Thames Bridges Are in Poor Condition",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/majority-of-london-s-thames-bridges-are-in-poor-condition",
+        "summary": "Over half of London’s bridges across the River Thames are in ‘poor’ or ‘very poor’ condition, the worst possible ratings, with the crossing in Chelsea deteriorating after heavy vehicles were recently diverted from a nearby crossing.",
+        "pubDate": "2026-11-03T17:15:19.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
-        "summary": "US natural gas futures ended lower, reversing earlier gains, as renewed hope for talks between the US and Iran caused oil and European gas prices to plunge. Those falling prices likely triggered a selloff of baskets of commodities that include US gas, even though US gas is insula",
-        "pubDate": "2026-11-02T15:08:00.000Z"
+        "title": "Stocks Bounce Back as Wall Street Awaits Midterm Election Results",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/bloomberg-surveillance-11-3-2026-video",
+        "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+        "pubDate": "2026-11-03T16:57:48.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "S&P 500 Wavers as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-        "summary": "A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.",
-        "pubDate": "2026-11-01T21:28:04.000Z"
+        "title": "Technology Stocks Lead S&P 500 Higher With Midterm Vote Underway",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
+        "summary": "US stocks advanced as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors assessing potential risks to the artificial intelligence trade.",
+        "pubDate": "2026-11-03T13:15:16.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "'Bipartisan' ETF 'Makes Sense': Weiskopf",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
-        "summary": "Dan Weiskopf, portfolio manager at Subversive ETF, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
-        "pubDate": "2026-11-02T19:33:31.000Z"
+        "title": "Chile Pension Funds Breath Sigh of Relief as Swap Losses Narrow",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/chile-pension-funds-breath-sigh-of-relief-as-swap-losses-narrow",
+        "summary": "Chilean pension funds saw returns rebound in October as a drop in US yields narrowed losses on massive interest-rate swap positions that have sparked anger from politicians and undermined faith in the system among savers.",
+        "pubDate": "2026-11-03T16:48:24.000Z"
       }
     ],
     "Barron's": [
+      {
+        "source": "Barron's",
+        "title": "How to Invest in the Rise of China’s Biotech: Buy U.S. Drug Stocks",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xTk9GQTlmaXFDY09oWFB4QlMyalNDNGxBa0FPUVZxQk95Zmg1RFJUTFZmci1vdkg1ZUd2cHBLWnFRME9XRlU2QzliVFpUWEE5U05ndW96MXFoY25EUV9MRW5DeWZlSEhzWnp5U1h4T1dRY0lmMkNhWFN3?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-03T15:26:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Micron Stock: Massive Buybacks Expected in December",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaEJIZWFJMXNaTnNieTMyTzFvT1NtOVVPT1FURXRpTEtQdWtIVDl6VTZsWjZrLWQyTDhHc19qUUN4OVNkLUpqUjN2Q3FLemM1SzNnb1VwcldfSmIwVzJ5VUpLWmQ4NFhPdWoxZ3BOczRuYmdzUEFxdEdIVTFCSnM?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-02T21:10:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Tesla-SpaceX Merger: What the Marvell-Lumentum Backlash Tells Investors",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRk9TR3JGblp4anFBYzRWYTd6VXQ1UUdtWmltMHBlV1ZCeFQzdjYzeDh6aC1lUmJnS2RmTVFfaENZRmJ1Q1E3RXExX2I5d0dqUE0tSjg0VEZCdVRpMHRBbHMwekRPZGtkdGpxYVJBVzdRbDhJWGYxdFpfS3JkcjJEQXhVclBFTW1ySkdhaXQtNA?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-03T15:09:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Micron Pops but Markets and Wall Street Are Poles Apart on the Stock",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tS2ludkhybWsxdFBnc01wZ0dBN0RzS2lCREJVU29aOVJtcko1b1MydEpKRkJOSzdVMjdNMS04dy11U2xoNkRTQld0NGRKMkhkUWdfQ0diUFhWN0hONm5XMzM5Q1A0UFhQb3VPOTI1ek1oXzZGNTd0MncwQmstQQ?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-03T13:33:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5NmczajA2cTJsaWxsczhaQmdrY1gyUjV1blo1Xy16WXBSX0RiNF9oM0UxSWM0RkhkeF9MZ0ZyXzhvdUMta0NuQXVXX0tHbHNRU081VldBZHFiQk40d3NUTjBuanBpRmhzOXRBTTd0QXozUnIwOTAtdw?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-03T14:53:00.000Z"
+      },
       {
         "source": "Barron's",
         "title": "SpaceX Looks to Disrupt Telecom the Old-Fashioned Way. EchoStar Stock Jumps.",
@@ -227,24 +262,24 @@
       },
       {
         "source": "Barron's",
-        "title": "Berkshire Hathaway’s Alphabet Loss Exposes Weak Stock-Picking Record",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzg5Z0JmTGJKTXNlaWROTlRkLW5FYkxFN1pNT0dBcE85d1Y5akRqOFBfeWc5MU4xcFAxOU9oWnFIYm40ejNnRkNxUkJsbnVxR2RYb0ZUdzFGZmFNTDB6TDYwOURHbmxZaTJGeU41VXBtWG0yTExhYU1JTlJvQzVORU5KU0lNdzYwQmdsaDVBMGNWMkdNY0dMNTktMA?oc=5",
+        "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today’s Market",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43RWNvbkRVVzdUX0dYdVBwSWRQbHZfTmp1WHpuYkRyTjNLNlZFQWlxLUpQOWtiQnRoMVJQaks5QXdWNVo1WTVKLXdVQUlGVVduT0JPOGVqZE5GQmp5QTF4TF9XS04?oc=5",
         "summary": "",
-        "pubDate": "2026-11-02T16:38:00.000Z"
+        "pubDate": "2026-11-03T17:39:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXA5MUoxXzhNcG1mNjh6b3RWQVcyc0FpV1Mxa2NGTkhZQjBuYjNWWEd4Ul8wZEZORGRFS09UcEc4RDVrU190Si1iYkVSLVdpZlBwR0s3MmdMWlUwWkRDNEtjNXNGeUZReklPaTJLRkVleXhieWZVM0xHNndyRXZkWHR2VDh0MzRGSzNHOVpJRll6ZVRLOHhJ?oc=5",
+        "title": "Billionaires Are Wealthier Than Ever. Why Many Don’t Have the Cash to Pay New Taxes.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tczNLTktKOUhkUkhscWVmSXFvZFczNGFyRkVYaTBWZUtQZWRpVmJ1TlVkV3JfNFRnRFZoa0RQckxXRE5DU3BPaFE0cHM4ZEpVQzBwSFNlX3dPS1ZaYWN1bXZERVZ3S2hKNTFRajdIN1dWRzRFcktMMA?oc=5",
         "summary": "",
-        "pubDate": "2026-11-02T18:09:00.000Z"
+        "pubDate": "2026-11-03T14:11:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "Marvell, Lumentum, Oracle, SpaceX, Rivian, Apple, Palantir, and More Stocks That Explain Today’s Market",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96eHRnWkE3aFRPUGhWc2VaOEMzdzJveDBpeXBkbHNlaW5xQ0ZJdk9jUk16elRMM0UyNWRmMXYyX3kycGYyWERZNHNrTEVFYVk5R2VBVF83X2lRSzBFR1BZdFZ2Mk4?oc=5",
+        "title": "AI Data Centers Are on the Ballot. What Stocks Are Vulnerable.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE1hS2tLSU0tbHg4R1Rjb0dZNXVBcTMzeGNicXhvQzY2cko2d2ROMDlucENhSkV2SGtkZzBUeDFaenl1ZDl3UVpOTHg0azFzSTZFOHBpTThGRll2SFN4NFFFWWEzQ0luZDl5RmJ4bzJxMjltSTc1T3ZESk1hSV9TWTVzR0h0dEg3?oc=5",
         "summary": "",
-        "pubDate": "2026-11-02T17:30:00.000Z"
+        "pubDate": "2026-11-03T12:34:00.000Z"
       },
       {
         "source": "Barron's",
@@ -252,113 +287,78 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ?oc=5",
         "summary": "",
         "pubDate": "2026-11-02T18:01:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Stocks Are Limping Into November. A Santa Rally Would Be a True Gift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnZnamZNTlNqWDduTmNaVjhYR2szbHVPMHFiWjRJZS1KNzNlOXNydG9FbkNVYndiU2h3Rmh2czVvYjJZemdwYUR0eXNFTEJJTm1tWllMc3p3c1dqSW5FMXBzdnYzU212Y1FJZmRvNmhRcXI1TFo3b3Q4NjlQeVdtZk5HYw?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-02T10:15:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Anthropic’s Revenue Surged Last Quarter. Here’s Why Its Profit Turned to a Loss.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVVF4NGpXQkRUb1dSUGFib2RjQ3JlbmM2WW1WSDg0dVBmS3JlazN5Y2xHMnQzSml4Z2xJR0VaTTJPaFFWZmczTWpPd3lrcmhLeFdTUlBIQWFhQktnU1N5cTRWb0s2WlB1THFSWmRMajh4OTRaVC1PZERENmJfbWs?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-02T16:57:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "The Housing Market Is a Mess. So Why Aren’t Home Prices Falling?",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Zkc0TFhseTJvVmtZZThLV2hPRDFtenlkNFFTS2U5ajhvUnhuazJrc2VtcnludHJvM2h2M0t1cmdlM1BpNHVPNHZad2oyWXhBYWNCRjZXRzN0ZkZqd2p6MTR0ak5KeWlWbS03QmtleVlTV2tXa1Nz?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-01T11:00:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Why Tech Just Got an Upgrade 3 Weeks After These Analysts Slashed Their Rating",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GV2xBTXllU2hobk1hVi1uY21EOUpKUm9mdWgzWW1uV0tCYjFnaWRyQzg0TTFGUmFhS2lhSnE2WjdtQ1YtUFZSemVfa3BBcEpxVG9HZjJKSnZBSjlRVmU3bHhoQTJlZ3FCVFh1ZTFnYjhLeUlUaU1NRXRR?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-02T13:35:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Micron Stock Needs Markets to Clear These 3 Hurdles",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWhELWk4QTd2akFpU0NnMlVqS2NIM0NIQVpkYXRBX3B4QV95Mjh4ZUg2WHdObFozc3hMLU9iVTZSeEFQX2ZJZVZ6RnhzR2RHZkNlSWpXUVlpMXgtY1YtQ05qYTZsVlFlUkVDc2l4cUg4LS1raWVRODBHQ2EzODBjZGlR?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-02T17:55:00.000Z"
       }
     ],
     "MarketWatch": [
       {
         "source": "MarketWatch",
-        "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
-        "link": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
-        "summary": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.",
-        "pubDate": "2026-11-02T20:30:00.000Z"
+        "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+        "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+        "pubDate": "2026-11-03T17:30:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "How soon gas prices could go down now that oil is tumbling",
-        "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-        "summary": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
-        "pubDate": "2026-11-02T19:27:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
-        "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
-        "summary": "It’s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
-        "pubDate": "2026-11-02T18:16:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-        "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
-        "summary": "The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department’s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.",
-        "pubDate": "2026-11-02T18:13:00.000Z"
+        "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+        "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "summary": "How to manage “giving while living” without endangering your own retirement.",
+        "pubDate": "2026-11-03T17:15:00.000Z"
       },
       {
         "source": "MarketWatch",
         "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
         "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
         "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-        "pubDate": "2026-11-02T18:00:00.000Z"
+        "pubDate": "2026-11-03T17:01:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
-        "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-        "summary": "Newly announced $115 billion deal for Lumentum will be financed entirely through stock: “There’s a real echo of 2000 here.”",
-        "pubDate": "2026-11-02T17:32:00.000Z"
+        "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+        "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+        "summary": "Job openings in the U.S. rose in September to a four-month high and hiring also increased, signaling mild but perhaps not sustainable improvement in a sluggish U.S. labor market.",
+        "pubDate": "2026-11-03T16:56:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-        "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-        "summary": "Oracle debt has been trading like a  “junk bond” as the company borrows money and issues stock to help finance its AI cloud growth.",
-        "pubDate": "2026-11-02T17:31:00.000Z"
+        "title": "U.S. clears path for first regulated equity perpetual futures",
+        "link": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
+        "summary": "A trendy crypto-native trading product that has exploded in popularity on offshore venues is expanding its foothold in the U.S.",
+        "pubDate": "2026-11-03T16:46:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-        "pubDate": "2026-11-02T17:00:00.000Z"
+        "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+        "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+        "summary": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
+        "pubDate": "2026-11-03T16:31:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-        "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-        "summary": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
-        "pubDate": "2026-11-02T16:56:00.000Z"
+        "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+        "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+        "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+        "pubDate": "2026-11-03T16:30:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-        "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-        "summary": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
-        "pubDate": "2026-11-02T16:50:00.000Z"
+        "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+        "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+        "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
+        "pubDate": "2026-11-03T16:21:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
+        "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
+        "summary": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
+        "pubDate": "2026-11-03T15:44:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
+        "link": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
+        "summary": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
+        "pubDate": "2026-11-03T15:04:00.000Z"
       }
     ]
   }
