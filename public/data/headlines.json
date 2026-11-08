@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-11-07T16:43:10.903Z",
+  "generatedAt": "2026-11-08T16:54:01.718Z",
   "sources": {
     "WSJ": [
+      {
+        "source": "WSJ",
+        "title": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
+        "link": "https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773?mod=rss_markets_main",
+        "summary": "Fund investors in October felt the downdraft in artificial-intelligence shares. Plus: A Financial Flashback to 40 years ago, the Boesky insider-trading bombshell.",
+        "pubDate": "2026-11-08T15:00:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms",
+        "link": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
+        "summary": "There are usually good reasons for politically driven trades. Yet they often prove catastrophic once the postelection hype settles down.",
+        "pubDate": "2026-11-08T10:30:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+        "link": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70?mod=rss_markets_main",
+        "summary": "Following Instacart acquisition plans and an Amazon deal with rival Uber Eats, DoorDash stock is on sale.",
+        "pubDate": "2026-11-08T10:30:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+        "link": "https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?mod=rss_markets_main",
+        "summary": "Some crypto developers say they can’t stop North Korean hackers from laundering stolen funds through their platforms, frustrating law enforcement.",
+        "pubDate": "2026-11-07T17:00:00.000Z"
+      },
       {
         "source": "WSJ",
         "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
@@ -15,27 +43,6 @@
         "link": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main",
         "summary": "Democrats’ victories supercharged anxieties that had been building for weeks. Systematic trades amplified losses.",
         "pubDate": "2026-11-06T23:29:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Tech Stocks Recover Some Losses",
-        "link": "https://www.wsj.com/finance/stocks/tech-stocks-recover-some-losses-f494cd13?mod=rss_markets_main",
-        "summary": "Plus, Anthropic may scale back its IPO, and the Cybertruck meets its end",
-        "pubDate": "2026-11-06T21:24:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Profits Are About as Good as They’ll Get",
-        "link": "https://www.wsj.com/finance/stocks/profits-are-about-as-good-as-theyll-get-72154bc8?mod=rss_markets_main",
-        "summary": "Plus, tech investors are in shock.",
-        "pubDate": "2026-11-06T11:44:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "What the Midterm Shake-Up Means for Markets and Investors",
-        "link": "https://www.wsj.com/finance/investing/what-the-midterm-shake-up-means-for-markets-and-investors-b1135215?mod=rss_markets_main",
-        "summary": "Plus, Israel’s most important alliance confronts its biggest test in decades, and what’s next for Texas after the Democratic sweep.",
-        "pubDate": "2026-11-06T10:42:00.000Z"
       },
       {
         "source": "WSJ",
@@ -64,22 +71,36 @@
         "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main",
         "summary": "Apple is the rare big tech play that hasn’t become a giant bet on the AI boom.",
         "pubDate": "2026-11-03T10:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Netflix Needs You to Watch, Not Just Pay",
-        "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=rss_markets_main",
-        "summary": "The streamer’s ad ambitions depend on viewing hours, which have stalled.",
-        "pubDate": "2026-11-02T10:30:00.000Z"
       }
     ],
     "Financial Times": [
       {
         "source": "Financial Times",
-        "title": "Berkshire Hathaway ploughs $9.6bn into share buybacks",
+        "title": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
+        "link": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768?syn-25a6b1a6=1",
+        "summary": "BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets",
+        "pubDate": "2026-11-08T14:32:40.000Z"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
+        "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
+        "summary": "Tower hosting Saudi Arabia’s state-owned oil major hit by shrapnel in King Abdullah Financial District on Sunday",
+        "pubDate": "2026-11-08T12:16:02.000Z"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Crypto industry braces for reckoning over Trump ties",
+        "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+        "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
+        "pubDate": "2026-11-08T05:00:19.000Z"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
         "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
         "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-        "pubDate": "2026-11-07T15:18:43.000Z"
+        "pubDate": "2026-11-07T16:43:06.000Z"
       },
       {
         "source": "Financial Times",
@@ -122,99 +143,78 @@
         "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
         "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
         "pubDate": "2026-11-06T22:16:13.000Z"
-      },
-      {
-        "source": "Financial Times",
-        "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-        "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-        "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
-        "pubDate": "2026-11-06T22:00:56.000Z"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-        "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-        "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
-        "pubDate": "2026-11-06T21:00:09.000Z"
-      },
-      {
-        "source": "Financial Times",
-        "title": "A new phase in the tech market correction",
-        "link": "https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1",
-        "summary": "Investors are no longer pricing in accelerating AI growth",
-        "pubDate": "2026-11-06T18:24:44.000Z"
       }
     ],
     "Bloomberg": [
       {
         "source": "Bloomberg",
-        "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-        "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (S",
-        "pubDate": "2026-11-07T15:59:54.000Z"
+        "title": "Bookmarked: News Stories On Our Reading List",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
+        "summary": "The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over",
+        "pubDate": "2026-11-08T16:30:18.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
-        "summary": "Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company’s executives viewed the stock as undervalued. But declining insurance underwriting weighed on its operating earnings in a mixed quarter for the company.",
-        "pubDate": "2026-11-07T13:01:21.000Z"
+        "title": "By The Way: Headlines You May Have Missed",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
+        "summary": "Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but",
+        "pubDate": "2026-11-08T16:23:12.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Ken Chenault on Leadership in an Age of AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
-        "summary": "On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressu",
-        "pubDate": "2026-11-07T15:32:55.000Z"
+        "title": "Markets Brace for Washington Policy Battles",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
+        "summary": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and",
+        "pubDate": "2026-11-08T16:17:03.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "A Historic First for Women at the Metropolitan Opera",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
-        "summary": "On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts David Gura and Christina Ruffini how punk helped shape her mus",
-        "pubDate": "2026-11-07T15:23:13.000Z"
+        "title": "Israel’s Election Fight Shifts to Coalition Building",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
+        "summary": "On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Will",
+        "pubDate": "2026-11-08T15:49:43.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
-        "summary": "Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high oil production to offset those higher costs. Some of the rev",
-        "pubDate": "2026-11-07T15:04:03.000Z"
+        "title": "Can Europe Afford Its Welfare State?",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+        "summary": "Europe’s postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As governments try to fund defense, infrastructure and education at the same time, the fight over who ",
+        "pubDate": "2026-11-08T15:02:58.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
-        "summary": "Animal health companies are tapping into the protein craze, investing billions of dollars to build up businesses focused on making cattle, pigs and poultry healthier for human consumption.",
-        "pubDate": "2026-11-07T15:00:00.000Z"
+        "title": "New House Democrats Set Their Priorities",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
+        "summary": "On Bloomberg This Weekend, Democratic Reps.-elect Paul Barringer of North Carolina and Shannon Taylor of Virginia say voters sent them to Washington with a mandate to address affordability, health care and government accountability. Speaking with hosts David Gura and Christina Ru",
+        "pubDate": "2026-11-08T14:58:22.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Young Travelers Are Warming Up to Cruises",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
-        "summary": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs make all-inclusive vacations increasingly appealing. Chang tells hosts David Gura and Christina Ruf",
-        "pubDate": "2026-11-07T14:27:25.000Z"
+        "title": "Luxury Gyms Turn Fitness Into a Family Affair",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
+        "summary": "On Bloomberg This Weekend, Bloomberg Pursuits writer Hannah Howard explains how high end fitness clubs are courting families with everything from child care and swimming lessons to homework help and activities for older kids. Speaking with hosts David Gura and Christina Ruffini, ",
+        "pubDate": "2026-11-08T14:40:27.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Economy and Democracy Drove the Blue Wave",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-        "summary": "On Bloomberg This Weekend, Rutgers University's Ashley Koning says affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and independent voters. Koning tells hosts David Gura and Christi",
-        "pubDate": "2026-11-07T14:19:05.000Z"
+        "title": "Seattle and Las Vegas Make Their NBA Pitch",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+        "summary": "On Bloomberg This Weekend, Bloomberg senior sports reporter Randall Williams explains why the NBA’s potential expansion to Seattle and Las Vegas could generate billions of dollars while raising questions about the financial returns for existing owners. Speaking with hosts David G",
+        "pubDate": "2026-11-08T14:28:18.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Berkshire Makes Record $9.6 Billion Buyback",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-        "summary": "On Bloomberg This Weekend, Bloomberg Intelligence Senior Insurance Analyst Matthew Palazola breaks down Berkshire Hathaway's third-quarter results, including a record $9.6 billion in share buybacks and weaker insurance earnings. Palazola tells hosts David Gura and Christina Ruffi",
-        "pubDate": "2026-11-07T14:00:16.000Z"
+        "title": "Ukraine Peace Push Returns to Abu Dhabi",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
+        "summary": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10th and 11th, with Steve Witkoff and Jared Kushner expected to represent the US. Joining Bloomberg This Weekend former Deputy Secretary of State Stephen Biegun discusses how a Democratic-control",
+        "pubDate": "2026-11-08T14:05:13.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-        "summary": "Turkish authorities arrested the former deputy chairman of the country’s markets regulator, state-run Anadolu Agency reported on Saturday, the latest executive to be caught up in a widening fund scandal.",
-        "pubDate": "2026-11-07T13:56:55.000Z"
+        "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+        "summary": "President Donald Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock.",
+        "pubDate": "2026-11-08T14:00:00.000Z"
       }
     ],
     "Barron's": [
@@ -227,10 +227,10 @@
       },
       {
         "source": "Barron's",
-        "title": "Stock Momentum Has Reversed. One Chart Spells It Out.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54NVZlWlNLcW4yNkQ5M1k3c1dlLTJQV1h0LVlCaUtsQXRKY21Uajdnelp5SUZCUVF4Wnc3Sjc1MWstQUFPY29waWg1ZE9zQm5pREh1eU5TWUlyOVdfQS1uOFhzWWlxRmR2d3RnNFpB?oc=5",
+        "title": "Retirees, Stop Hoarding and Start Spending. It Could Save You Money.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG05VjViaTc3NXg0Qmdna0ROWk9HRUZ3ZENPamFXMjVsSkRHaDd5UzRzZEZTV3B1QlRGblZhZ1VMaDg4SE1zNWVfbGs3bkd2a3BrVzl2bUpSMFhfWHBWU2pmNzluLW5wTkdQcDROV3hDejVkdWE4UEIzazAwWEJnLTlBUmhJXzBnRXp3NXhn?oc=5",
         "summary": "",
-        "pubDate": "2026-11-06T17:54:00.000Z"
+        "pubDate": "2026-11-05T10:00:00.000Z"
       },
       {
         "source": "Barron's",
@@ -241,10 +241,10 @@
       },
       {
         "source": "Barron's",
-        "title": "Retirees, Stop Hoarding and Start Spending. It Could Save You Money.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG05VjViaTc3NXg0Qmdna0ROWk9HRUZ3ZENPamFXMjVsSkRHaDd5UzRzZEZTV3B1QlRGblZhZ1VMaDg4SE1zNWVfbGs3bkd2a3BrVzl2bUpSMFhfWHBWU2pmNzluLW5wTkdQcDROV3hDejVkdWE4UEIzazAwWEJnLTlBUmhJXzBnRXp3NXhn?oc=5",
+        "title": "Stock Momentum Has Reversed. One Chart Spells It Out.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54NVZlWlNLcW4yNkQ5M1k3c1dlLTJQV1h0LVlCaUtsQXRKY21Uajdnelp5SUZCUVF4Wnc3Sjc1MWstQUFPY29waWg1ZE9zQm5pREh1eU5TWUlyOVdfQS1uOFhzWWlxRmR2d3RnNFpB?oc=5",
         "summary": "",
-        "pubDate": "2026-11-05T10:00:00.000Z"
+        "pubDate": "2026-11-06T17:54:00.000Z"
       },
       {
         "source": "Barron's",
@@ -255,10 +255,31 @@
       },
       {
         "source": "Barron's",
-        "title": "Micron Stock Faces a Memory Price Conundrum in the Wake of Democrat Success",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG04amV1VGQyVVBhNFhUZ0lmNXRxUTdJX1FNbmlXSGpkVC1rNnBTQ3VHb2xGbDhpZWpQYzZIek5ySURSWnVxZjdGLTZNY2ZGOVVVcnJDS0JIdmE4c0ttZ0tCUENZTFhOczlQeXZOTTJYNVpaanhzREdCTURHR2g2Y0hETkFZNmJNTS0wVkln?oc=5",
+        "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5",
         "summary": "",
-        "pubDate": "2026-11-04T18:26:00.000Z"
+        "pubDate": "2026-11-05T21:26:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-06T15:12:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "SpaceX and Tesla Shares Drop After Historic Nasdaq Rout: What Investors Should Know",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnpvZ0ljUHRNSjB4MVZmWGJ5TnY0Z3V4V29BXzBHODd3U0VXZkJzU21oZy00ZHM2cWotWEg2QWFRX2tpT0Rta2lrOS11TDRFUGVvVW03ckR4OHFMdFViX3dDRnB5bndVYThSZkV5Wm1qUld5TV9CdGlBbGZQZjFKMTZvWDVOTUlFekx2LVhabG9wMW8?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-06T15:08:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today’s Market",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xV29Bc3Y1dGlJTExPbEEtcVNrQVYySWI3SWxReWl2NTEya3FJeGV0dVR0cTdDVVMwUGZ6TW51MFh4aTJFMDVfZnNKdEtSU3NkMGpFal9vSTB5QjAxbUxUTEFtMDI?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-04T21:51:00.000Z"
       },
       {
         "source": "Barron's",
@@ -266,99 +287,78 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5",
         "summary": "",
         "pubDate": "2026-11-04T18:29:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Pfizer CEO Says Covid Is ‘Irrelevant.’ He’s Betting on Cancer and Weight-Loss Drugs.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5NmczajA2cTJsaWxsczhaQmdrY1gyUjV1blo1Xy16WXBSX0RiNF9oM0UxSWM0RkhkeF9MZ0ZyXzhvdUMta0NuQXVXX0tHbHNRU081VldBZHFiQk40d3NUTjBuanBpRmhzOXRBTTd0QXozUnIwOTAtdw?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-03T12:20:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Organigram Agrees to Buy Aurora Cannabis, Topping Curaleaf Bid",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmR4b0tnSjJ5SmlhaklyTDU4WmF2Zzgwbnc2UlFqY1JTVHE0RTVLTWxuYkt0V3dJLVd5RmtnQ0JCVTQ0dHI5NWpNc0FxTTZHd2JPQ2FmRlg0TDl5OFhZNVdVampnbm9nZVk2bTRrWE82dFZaaGhobEwxUlloOS0zNGxlcm4yRTB6b0lid2JlTEI?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-03T23:55:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-05T21:26:00.000Z"
       }
     ],
     "MarketWatch": [
       {
         "source": "MarketWatch",
-        "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-        "summary": "The large-cap index is nowhere near as diversified as you think.",
-        "pubDate": "2026-11-07T16:40:00.000Z"
+        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+        "pubDate": "2026-11-08T16:00:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-        "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-        "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-        "pubDate": "2026-11-07T16:30:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
-        "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-        "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-        "pubDate": "2026-11-07T16:30:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-        "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-        "summary": "“My brother had no job and needed a place to live.”",
-        "pubDate": "2026-11-07T16:00:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "You follow the rules for smart stock trading. But are they the right rules?",
-        "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-        "summary": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-        "pubDate": "2026-11-07T16:00:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
-        "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-        "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
-        "pubDate": "2026-11-07T15:44:00.000Z"
+        "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+        "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+        "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+        "pubDate": "2026-11-08T16:00:00.000Z"
       },
       {
         "source": "MarketWatch",
         "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
         "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
         "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-        "pubDate": "2026-11-07T15:41:00.000Z"
+        "pubDate": "2026-11-08T15:30:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-        "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-        "summary": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
-        "pubDate": "2026-11-07T15:35:00.000Z"
+        "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+        "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+        "summary": "“My brother had no job and needed a place to live.”",
+        "pubDate": "2026-11-08T15:16:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Trump’s Iran war has changed the future of Social Security",
-        "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-        "summary": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-        "pubDate": "2026-11-07T15:18:00.000Z"
+        "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+        "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+        "summary": "S&P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years.",
+        "pubDate": "2026-11-08T15:00:00.000Z"
       },
       {
         "source": "MarketWatch",
         "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
         "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
         "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-        "pubDate": "2026-11-07T14:50:00.000Z"
+        "pubDate": "2026-11-08T14:13:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+        "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+        "summary": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
+        "pubDate": "2026-11-08T14:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This market signal called the tech selloff. Now it’s sending another warning.",
+        "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+        "summary": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
+        "pubDate": "2026-11-08T12:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+        "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+        "pubDate": "2026-11-07T20:48:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+        "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+        "pubDate": "2026-11-07T20:36:00.000Z"
       }
     ]
   }
