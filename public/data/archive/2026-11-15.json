@@ -1,0 +1,624 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T17:31:26.475Z",
+  "curated": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
+      "summary": "AI trade faces major tests next week with chip giant's earnings and Anthropic's IPO",
+      "pubDate": "2026-11-13T09:55:33.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "MarketWatch",
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "pubDate": "2026-11-15T15:22:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Inside India’s $130 Billion Wedding Economy",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
+      "summary": "India’s weddings are a major economic force, generating an estimated $130 billion in annual spending.. For many families, the financial commitment begins years before the ceremony through savings and gold accumulation, while some households borrow against existing jewelry to fina",
+      "pubDate": "2026-11-15T15:03:37.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+      "summary": "Plus, Nvidia closes lower and Anthropic CEO hopes IPO will “overdeliver.”",
+      "pubDate": "2026-11-13T21:19:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+      "summary": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging.",
+      "pubDate": "2026-11-15T15:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+      "pubDate": "2026-11-15T15:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+      "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+      "pubDate": "2026-11-15T14:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+      "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+      "summary": "Charts show the potential for more pain ahead",
+      "pubDate": "2026-11-15T12:30:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+      "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+      "summary": "Artificial intelligent’s future makes it hard for some to sit out the trillion-dollar offering, but it’s complicated. “Feels almost like the last chopper out of Saigon,” says one.",
+      "pubDate": "2026-11-15T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T21:40:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "What Micron Stock Needs to Mount a Serious Rally",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnJJSHFKRWJ0S3l2eGZvX1FCU00tM21KUzVnOEtNb0hwSkR5ck1hRkp6UkZ6eUxFblFRdGpQX0ZwUHZ0VXJHOUxMVXVtdThXYTdvR3hoOEZHcXZBQzFicW9pTE5JT29xdFZLdl9qUm1qZnZQc0V5Zl8yYUVEbFR0clhnRVkxUQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T17:49:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Cisco Stock Falls After Earnings Beat Fails to Ease Long-Term Concerns",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUhmWGFldFYxS1lXZUZhbjJQa2lkWk5OejFaODlTNjZBMG9UUHEtOUNzcnJlUGR6MFRSenR6YTBPWGktVm5ZMnJ5LUJ5SDhDdFZ1RDl3RUVXVU1YNk92ZGVvVHRMWnVadHQ0bHRrcGhKbUozeXVpQWtDdEFydUJ2SzJZcWtUbkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T15:19:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
+      "summary": "Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.",
+      "pubDate": "2026-11-15T15:54:54.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gold rush turns deadly in Guinea",
+      "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
+      "summary": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
+      "pubDate": "2026-11-15T15:13:38.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "The 1973 Oil Crisis Still Matters Today",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/the-1973-oil-crisis-still-matters-today-video",
+      "summary": "Author Philip Delves Broughton is on Bloomberg This Weekend to discuss his new book, Embargo, and how the 1973 oil crisis transformed Saudi Arabia’s economic and political power while exposing the world’s vulnerability to turmoil in the Middle East. Speaking with hosts David Gura",
+      "pubDate": "2026-11-15T14:27:05.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+      "summary": "Even the most powerful frontier labs must bend to the power of public equity",
+      "pubDate": "2026-11-15T11:40:44.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pension funds raise alarm on systemic risk from climate events",
+      "link": "https://www.ft.com/content/fcce6df7-7040-4c83-84ea-30f8fbac1239?syn-25a6b1a6=1",
+      "summary": "Asset managers, insurers and central bankers gather at COP31 to discuss financial stability concerns as temperatures rise",
+      "pubDate": "2026-11-15T10:00:04.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Catches Starship’s Upper Stage in Historic First. What It Means for the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNURMTzhNbWItNmljeUpGSXlXN3hMRjROTVJmSmo5eElRZG92WXFUU1RFdVNaTjc4bXE5dm91Vm55NlZ5UUNXNmdQcDN5LU1ZbjdCMDExanJIejBvd1FkSDBIalFVZ1Zjal8wajZGazNaN0dHMXdVTkJhNlEtYVgzMw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-14T21:39:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-14T15:05:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+      "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+      "summary": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
+      "pubDate": "2026-11-14T13:00:09.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: The great market rotation",
+      "link": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+      "summary": "Defensive sectors are the new winners",
+      "pubDate": "2026-11-14T10:30:08.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX’s Starship Launched Today. No Booster Catch Might Hurt the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2FMRnlaa3hwbWR5a1pDVUJKN09OS1ZMNXdnMkRnN19uTzlNVXgxdVhrVWQzSUxoNHBOdTZVTTlmNE0wcTlDd3YyRGxOUHpSai14X18zY0dQRnlWQjJCN1d0Vl90UThCdXZUQXFqTy1XSmMzRmtkTDE1X2VNMXJ5MGtR?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T23:39:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+      "link": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
+      "summary": "The artificial-intelligence giant, which is expected to begin trading Thursday, is targeting a valuation of roughly $1.33 trillion or more.",
+      "pubDate": "2026-11-13T18:46:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street.",
+      "link": "https://www.wsj.com/health/healthcare/cvs-breakup-wont-satisfy-washington-it-could-still-work-for-wall-street-1b5004e3?mod=rss_markets_main",
+      "summary": "Spinning off its drugstores won’t quiet CVS’s critics, but it could leave shareholders with a more valuable company.",
+      "pubDate": "2026-11-13T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
+      "summary": "AI trade faces major tests next week with chip giant's earnings and Anthropic's IPO",
+      "pubDate": "2026-11-13T09:55:33.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+      "summary": "With luxury demand weak, executives are debating one of the sector’s big taboos.",
+      "pubDate": "2026-11-15T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+      "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+      "summary": "Artificial intelligent’s future makes it hard for some to sit out the trillion-dollar offering, but it’s complicated. “Feels almost like the last chopper out of Saigon,” says one.",
+      "pubDate": "2026-11-15T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+      "link": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
+      "summary": "The urge to give is being fueled by mission-driven corporate cultures, as well as guilt about AI’s potential harms.",
+      "pubDate": "2026-11-15T01:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+      "summary": "Plus, Nvidia closes lower and Anthropic CEO hopes IPO will “overdeliver.”",
+      "pubDate": "2026-11-13T21:19:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+      "link": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
+      "summary": "The artificial-intelligence giant, which is expected to begin trading Thursday, is targeting a valuation of roughly $1.33 trillion or more.",
+      "pubDate": "2026-11-13T18:46:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+      "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+      "summary": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
+      "pubDate": "2026-11-13T15:18:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street.",
+      "link": "https://www.wsj.com/health/healthcare/cvs-breakup-wont-satisfy-washington-it-could-still-work-for-wall-street-1b5004e3?mod=rss_markets_main",
+      "summary": "Spinning off its drugstores won’t quiet CVS’s critics, but it could leave shareholders with a more valuable company.",
+      "pubDate": "2026-11-13T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
+      "summary": "Steadier hands could be better suited to enriching shareholders as the AI chip company enters a new phase.",
+      "pubDate": "2026-11-12T17:43:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+      "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+      "summary": "Last year, just as scrutiny of Megaspeed was rising, Nvidia stopped reporting Singapore revenue.",
+      "pubDate": "2026-11-12T01:00:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hong Kong developer New World unveils $3.2bn rights issue",
+      "link": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+      "summary": "Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts",
+      "pubDate": "2026-11-15T15:24:52.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gold rush turns deadly in Guinea",
+      "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
+      "summary": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
+      "pubDate": "2026-11-15T15:13:38.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+      "summary": "Even the most powerful frontier labs must bend to the power of public equity",
+      "pubDate": "2026-11-15T11:40:44.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pension funds raise alarm on systemic risk from climate events",
+      "link": "https://www.ft.com/content/fcce6df7-7040-4c83-84ea-30f8fbac1239?syn-25a6b1a6=1",
+      "summary": "Asset managers, insurers and central bankers gather at COP31 to discuss financial stability concerns as temperatures rise",
+      "pubDate": "2026-11-15T10:00:04.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU banking watchdog veers away from single deposit insurance scheme",
+      "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+      "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
+      "pubDate": "2026-11-15T05:00:13.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The 20-day odyssey to get cheese to Dubai",
+      "link": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1",
+      "summary": "The US-Iran war has forced Emirati retailers to take extraordinary measures to bring in food",
+      "pubDate": "2026-11-15T05:00:04.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
+      "link": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1",
+      "summary": "Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought",
+      "pubDate": "2026-11-15T05:00:04.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
+      "link": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
+      "summary": "Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply",
+      "pubDate": "2026-11-15T02:00:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+      "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+      "summary": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
+      "pubDate": "2026-11-14T13:00:09.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: The great market rotation",
+      "link": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+      "summary": "Defensive sectors are the new winners",
+      "pubDate": "2026-11-14T10:30:08.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
+      "summary": "Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.",
+      "pubDate": "2026-11-15T15:54:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Bookmarked: News Stories On Our Reading List",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
+      "summary": "Foraging at luxury retreats, $20 million in cash found in Hungary, and the plight of big sisters: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bl",
+      "pubDate": "2026-11-15T15:51:05.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "By The Way: Headlines You May Have Missed",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
+      "summary": "AI bots using credit cards, Meta and TikTok’s confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source",
+      "pubDate": "2026-11-15T15:46:06.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "White House Braces for Democratic Investigations",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/white-house-braces-for-democratic-investigations-video",
+      "summary": "Bully Pulpit International’s Adam Hodge and Monument Advocacy’s Mark Bednar are on Bloomberg This Weekend to examine the looming fight between congressional Democrats and the Trump administration over subpoenas, executive privilege and oversight of the White House’s relationships",
+      "pubDate": "2026-11-15T15:14:45.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Inside India’s $130 Billion Wedding Economy",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/inside-india-s-130-billion-wedding-economy-video",
+      "summary": "India’s weddings are a major economic force, generating an estimated $130 billion in annual spending.. For many families, the financial commitment begins years before the ceremony through savings and gold accumulation, while some households borrow against existing jewelry to fina",
+      "pubDate": "2026-11-15T15:03:37.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+      "summary": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging.",
+      "pubDate": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Congress Presses Nvidia Over China Chip Access",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
+      "summary": "Democratic Rep. Raja Krishnamoorthi is on Bloomberg This Weekend to discuss the national security questions surrounding former Nvidia CEO Jensen Huang, including what Huang knew about alleged Chinese intelligence activity and whether restricted Nvidia chips reached entities in Ch",
+      "pubDate": "2026-11-15T14:50:56.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "The 1973 Oil Crisis Still Matters Today",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/the-1973-oil-crisis-still-matters-today-video",
+      "summary": "Author Philip Delves Broughton is on Bloomberg This Weekend to discuss his new book, Embargo, and how the 1973 oil crisis transformed Saudi Arabia’s economic and political power while exposing the world’s vulnerability to turmoil in the Middle East. Speaking with hosts David Gura",
+      "pubDate": "2026-11-15T14:27:05.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
+      "summary": "Veda Partners’ Henrietta Treyz and Washington Post national security reporter Tara Copp are on Bloomberg This Weekend to discuss how the Nvidia crisis is fueling bipartisan scrutiny of chip export controls and raising national security concerns about the Pentagon’s reliance on ad",
+      "pubDate": "2026-11-15T14:10:32.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Router Failure Exposes Risks in FAA Network",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
+      "summary": "Former TSA Administrator and FBI Deputy Director John Pistole is on Bloomberg This Weekend to discuss the nationwide FAA ground stop and the vulnerabilities exposed by a router failure during work on the agency’s aging telecommunications network. Speaking with hosts David Gura an",
+      "pubDate": "2026-11-15T13:28:26.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Catches Starship’s Upper Stage in Historic First. What It Means for the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNURMTzhNbWItNmljeUpGSXlXN3hMRjROTVJmSmo5eElRZG92WXFUU1RFdVNaTjc4bXE5dm91Vm55NlZ5UUNXNmdQcDN5LU1ZbjdCMDExanJIejBvd1FkSDBIalFVZ1Zjal8wajZGazNaN0dHMXdVTkJhNlEtYVgzMw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-14T21:39:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1FWYnBTdVBnaWQ2c1RoZFBPN19UUUFlajNkS0RqS19FUWpTYXNFMUZDZ3JHZ2FXcFFwM2ljMEszRjJWREhQRWhfWjJ1ZFJWdEpWSFFudzEwbFNzREJ0VFpZNUE3Wk9JN2ZlUW1JT0JDVEtHWFl3THk0Qmx2ZXczQ2sxcTRDb2E3cWc0QmxZTU1BTjZS?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T20:18:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Chart of the Day: Sandisk Stock Looks Ready to Bounce Back",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FQnZ5NVNRSjRJbjRyNDNQdl9yRGhzMWJjbzNUby1zYklKM0lPN2tKT1hzb0E5X01tQ3Y1T25vQ3M2ZDQzMG1nWWNKZjljZUFwanVXU0JzZUQxODI0Z0w0UmVQNmtUQnVYN2FfR2hsVm9tR1BZbVQ2Z2FvTQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T19:33:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "What Micron Stock Needs to Mount a Serious Rally",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnJJSHFKRWJ0S3l2eGZvX1FCU00tM21KUzVnOEtNb0hwSkR5ck1hRkp6UkZ6eUxFblFRdGpQX0ZwUHZ0VXJHOUxMVXVtdThXYTdvR3hoOEZHcXZBQzFicW9pTE5JT29xdFZLdl9qUm1qZnZQc0V5Zl8yYUVEbFR0clhnRVkxUQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T17:49:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-14T15:05:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Has Real Problems—but Don’t Fall for Fear Mongering",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81dm8xcV82T2FELW9QNGdvUlJBZkhtczB1SDVDUGpGQ0Z5cEZtNm5JX0VkdUNPaFh4ZWxuNkxvcXJyNkhTZjVQclRVMEJfZkFmazZSbFpxT1lfQmFWcDFYMVRDbFlDWkppcWRCeFRReHZmVnZNRFE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T22:40:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX’s Starship Launched Today. No Booster Catch Might Hurt the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2FMRnlaa3hwbWR5a1pDVUJKN09OS1ZMNXdnMkRnN19uTzlNVXgxdVhrVWQzSUxoNHBOdTZVTTlmNE0wcTlDd3YyRGxOUHpSai14X18zY0dQRnlWQjJCN1d0Vl90UThCdXZUQXFqTy1XSmMzRmtkTDE1X2VNMXJ5MGtR?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T23:39:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T13:29:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Cisco Stock Falls After Earnings Beat Fails to Ease Long-Term Concerns",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUhmWGFldFYxS1lXZUZhbjJQa2lkWk5OejFaODlTNjZBMG9UUHEtOUNzcnJlUGR6MFRSenR6YTBPWGktVm5ZMnJ5LUJ5SDhDdFZ1RDl3RUVXVU1YNk92ZGVvVHRMWnVadHQ0bHRrcGhKbUozeXVpQWtDdEFydUJ2SzJZcWtUbkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T15:19:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-13T21:40:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "pubDate": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "pubDate": "2026-11-15T15:22:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "pubDate": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+      "pubDate": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "pubDate": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+      "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+      "pubDate": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "pubDate": "2026-11-15T13:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+      "link": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
+      "summary": "A handy chart shows how the U.S. used to be among the economies with the least state control — until that changed last year.",
+      "pubDate": "2026-11-15T13:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "pubDate": "2026-11-15T13:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+      "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+      "summary": "Charts show the potential for more pain ahead",
+      "pubDate": "2026-11-15T12:30:00.000Z"
+    }
+  ]
+}
