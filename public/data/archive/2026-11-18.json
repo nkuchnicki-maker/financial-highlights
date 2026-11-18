@@ -1,0 +1,657 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T19:13:20.225Z",
+  "curated": [
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Churn as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+      "summary": "Volatility gripped Wall Street again, with stocks fluctuating as a drop in oil prices offset worries about a renewed selloff in Nvidia Corp.",
+      "pubDate": "2026-11-17T22:07:08.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Tech Stocks Advance as Investors Look to Anthropic IPO Test",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+      "summary": "US technology stocks rose in the wake of Nvidia Corp.’s earnings, as traders looked to the mammoth market debut of Anthropic PBC for the next key test for the artificial intelligence trade.",
+      "pubDate": "2026-11-18T12:34:46.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+      "summary": "Record revenue and upgraded forecasts don't restore confidence after Jensen Huang drama",
+      "pubDate": "2026-11-18T09:52:59.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed’s Barr Says Higher Rates Are Likely ‘Appropriate’",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-s-barr-says-higher-rates-are-likely-appropriate-video",
+      "summary": "Federal Reserve Governor Michael Barr says higher interest rates would likely be appropriate to help tame inflation that continues to squeeze American households. He speaks at the New York Fed's Making Missing Markets event. (Source: Bloomberg)",
+      "pubDate": "2026-11-18T19:00:54.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes",
+      "summary": "Nearly all Federal Reserve officials agreed in October they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target in a timely manner.",
+      "pubDate": "2026-11-18T19:00:01.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "BOE to Test How Private Credit Could Amplify Shocks",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/boe-to-test-how-private-credit-could-amplify-shocks-video",
+      "summary": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and s",
+      "pubDate": "2026-11-18T18:39:19.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Weakest Credit Faces More Pain, Hedge Funds Warn",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
+      "summary": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and s",
+      "pubDate": "2026-11-18T18:26:54.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+      "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
+      "summary": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
+      "pubDate": "2026-11-18T16:30:02.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+      "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+      "summary": "Group of lesser-known investors on track for bumper returns as AI group prepares to price its shares on Wednesday",
+      "pubDate": "2026-11-18T05:00:26.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Plans to Raise IPO Price After Strong Demand",
+      "link": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
+      "summary": "The company has pitched investors through market tumult and the shock resignation of Nvidia’s Jensen Huang.",
+      "pubDate": "2026-11-17T17:02:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Take-Two, Palo Alto, Applied Optoelectronics, TJX, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMDU0bmtZS3dtbExlY0NFbGkxeUh6azduNml6d3VYTUV5ZmNuVXA2Q1g1NkZsc1NKM3UyT2JCZm95Q1Z5ZDZVdDZSZ1RhQ0NBQk11dHQ5UzNYay05ZWN5aDJ2N0k?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T17:57:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks oscillate after Nvidia results",
+      "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off",
+      "pubDate": "2026-11-18T17:45:12.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
+      "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
+      "summary": "Plus, Nvidia’s earnings tailwind, and Anthropic’s multibillionaires.",
+      "pubDate": "2026-11-18T11:13:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street expects corporate earnings growth to halve next year",
+      "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+      "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+      "pubDate": "2026-11-18T05:00:16.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "How Everyday Investors Are Playing the Nvidia Drama",
+      "link": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=rss_markets_main",
+      "summary": "Millions of people have a financial stake in the company, so we asked three of them to play stock analyst and share their thoughts.",
+      "pubDate": "2026-11-18T01:12:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Slower Retail Sales Drag on Market",
+      "link": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+      "summary": "Plus, the SEC probes Nvidia and Disney is cutting costs",
+      "pubDate": "2026-11-17T21:49:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWTZpcVdSWi0xNVZ5OXg5X1p2dFlEb3hHWmhMek9DNEprNlU1S3pUVDZuQ1lrNEl6SHc4TXVKTktCTWRCWkphbHgybEJYNUpSa3BsYTV1cTg5TEFCT25TSEZVOVVEYXdBSGhaVE5VMnpQYVJTOHg2VnlUTjQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T18:12:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "pubDate": "2026-11-18T18:30:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
+      "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+      "summary": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
+      "pubDate": "2026-11-18T18:28:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
+      "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
+      "summary": "Energy stocks are pretending the war is over. It isn’t.",
+      "pubDate": "2026-11-18T17:23:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "pubDate": "2026-11-18T17:15:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "This Wildly Volatile AI Stock Is Down 80% From Its Peak—and Flashing Warning Signals",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBjVTR5ZDhidksyMUthU1hEWS15OHAtMEVXMENKTm9Gb1p5bTB1djV0VXY1OWJkVjdKYWVrSUZQcE1xT3U5bWNXdDFRWFViTEFZOS1wejNPcWZpa2hFRzJoOFBBQmc1TUVmajAzVVFhRDhUNkFvVTlWNkFBMklucjdHaHJqblU?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T15:18:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "When Is Anthropic’s IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T14:14:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "The name’s bond",
+      "link": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
+      "summary": "Fixed income is so box office right now",
+      "pubDate": "2026-11-18T06:30:06.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T21:46:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+      "pubDate": "2026-11-17T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Why SpaceX Stock Is Down After Its Historic Starship Catch",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWl5bk1QQmFtOGJoU0JMYkx3Njlsa1JzUE45T0JwVUlGejl3blJYeEF1QWpxV3NSMk1palYzZzIzMVBJUk02RDZpcy1xdnFlTzRvdFhKQlJWUFIxd3k4X0JCVUpoLURETTVnbmhGS2tteG5iU2pFOVdGcG1tdUx5YnVoZzFzSG1LWC1QUmRrWEI?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-16T21:11:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+      "summary": "Record revenue and upgraded forecasts don't restore confidence after Jensen Huang drama",
+      "pubDate": "2026-11-18T09:52:59.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
+      "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
+      "summary": "Plus, Nvidia’s earnings tailwind, and Anthropic’s multibillionaires.",
+      "pubDate": "2026-11-18T11:13:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+      "summary": "The company inherits problems from Jensen Huang, and advantages.",
+      "pubDate": "2026-11-18T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "How Everyday Investors Are Playing the Nvidia Drama",
+      "link": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=rss_markets_main",
+      "summary": "Millions of people have a financial stake in the company, so we asked three of them to play stock analyst and share their thoughts.",
+      "pubDate": "2026-11-18T01:12:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Slower Retail Sales Drag on Market",
+      "link": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+      "summary": "Plus, the SEC probes Nvidia and Disney is cutting costs",
+      "pubDate": "2026-11-17T21:49:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+      "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+      "summary": "The financing round is the fast-growing company’s third fundraise in a year.",
+      "pubDate": "2026-11-17T20:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Plans to Raise IPO Price After Strong Demand",
+      "link": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
+      "summary": "The company has pitched investors through market tumult and the shock resignation of Nvidia’s Jensen Huang.",
+      "pubDate": "2026-11-17T17:02:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+      "pubDate": "2026-11-17T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Big Tech Needs to Spread Its Bets on Data Centers",
+      "link": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
+      "summary": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections.",
+      "pubDate": "2026-11-16T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+      "summary": "With luxury demand weak, executives are debating one of the sector’s big taboos.",
+      "pubDate": "2026-11-15T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks oscillate after Nvidia results",
+      "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off",
+      "pubDate": "2026-11-18T17:45:12.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+      "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
+      "summary": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
+      "pubDate": "2026-11-18T16:30:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia imports record volumes of petrol as Ukraine strikes refineries",
+      "link": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1",
+      "summary": "Shipments a ‘remarkable reversal’ from country’s traditional role as fuel exporter",
+      "pubDate": "2026-11-18T09:46:03.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK oil producer quits ‘high-tax’ North Sea",
+      "link": "https://www.ft.com/content/c102961c-de3c-4678-964f-23d591f04d10?syn-25a6b1a6=1",
+      "summary": "EnQuest sells its UK oilfields to rival Neo Next+ in search of better returns",
+      "pubDate": "2026-11-18T09:35:17.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The name’s bond",
+      "link": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
+      "summary": "Fixed income is so box office right now",
+      "pubDate": "2026-11-18T06:30:06.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+      "link": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
+      "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
+      "pubDate": "2026-11-18T06:00:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "When’s the crash? Ask a journalist",
+      "link": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1",
+      "summary": "Because in 170 years of perma-anxiety, stopped clocks are right fairly regularly",
+      "pubDate": "2026-11-18T06:00:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia’s big business in Singapore",
+      "link": "https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a?syn-25a6b1a6=1",
+      "summary": "The chipmaker booked $104bn of revenue through its subsidiary in the city-state last year",
+      "pubDate": "2026-11-18T05:00:26.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+      "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+      "summary": "Group of lesser-known investors on track for bumper returns as AI group prepares to price its shares on Wednesday",
+      "pubDate": "2026-11-18T05:00:26.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street expects corporate earnings growth to halve next year",
+      "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+      "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+      "pubDate": "2026-11-18T05:00:16.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Churn as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+      "summary": "Volatility gripped Wall Street again, with stocks fluctuating as a drop in oil prices offset worries about a renewed selloff in Nvidia Corp.",
+      "pubDate": "2026-11-17T22:07:08.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed’s Barr Says Higher Rates Are Likely ‘Appropriate’",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/fed-s-barr-says-higher-rates-are-likely-appropriate-video",
+      "summary": "Federal Reserve Governor Michael Barr says higher interest rates would likely be appropriate to help tame inflation that continues to squeeze American households. He speaks at the New York Fed's Making Missing Markets event. (Source: Bloomberg)",
+      "pubDate": "2026-11-18T19:00:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes",
+      "summary": "Nearly all Federal Reserve officials agreed in October they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target in a timely manner.",
+      "pubDate": "2026-11-18T19:00:01.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Higher for a Third Day as Oil Prices Slide",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters",
+      "summary": "Benchmark US Treasuries rose for a third day with support from falling commodity prices prices and speculation that most of the Federal Reserve’s upcoming interest-rate hikes are already priced in.",
+      "pubDate": "2026-11-18T05:19:28.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Newsmax Sues to Block Fox From Integrating With Roku",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+      "summary": "Conservative news channel Newsmax Inc. filed a lawsuit seeking to block rival broadcaster Fox Corp. from integrating the TV streaming assets of Roku Inc., arguing the $22 billion merger would hurt competition.",
+      "pubDate": "2026-11-18T16:58:20.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Tech Stocks Advance as Investors Look to Anthropic IPO Test",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+      "summary": "US technology stocks rose in the wake of Nvidia Corp.’s earnings, as traders looked to the mammoth market debut of Anthropic PBC for the next key test for the artificial intelligence trade.",
+      "pubDate": "2026-11-18T12:34:46.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "BOE to Test How Private Credit Could Amplify Shocks",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/boe-to-test-how-private-credit-could-amplify-shocks-video",
+      "summary": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and s",
+      "pubDate": "2026-11-18T18:39:19.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "New York MTA’s Budget Risks $1 Billion Shortfall in 2030",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
+      "summary": "New York City’s transit system is projecting a nearly $1 billion budget gap in 2030 as increasing healthcare and fuel costs outpace its revenue growth.",
+      "pubDate": "2026-11-18T16:10:40.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Weakest Credit Faces More Pain, Hedge Funds Warn",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-18/weakest-credit-faces-more-pain-hedge-funds-warn-video",
+      "summary": "Hedge fund investors warned that stress is building across credit markets, with the weakest CCC borrowers particularly vulnerable as higher rates, loose documentation and deteriorating underwriting raise default risks. They also pointed to emerging strains in private credit and s",
+      "pubDate": "2026-11-18T18:26:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
+      "summary": "Anthropic PBC is preparing to price what could be the biggest IPO of all time, and the numbers are startling. The AI lab is set to challenge SpaceX for the record, which Elon Musk’s rocket and satellite firm claimed in June with a first-time share sale that rocked markets.",
+      "pubDate": "2026-11-18T18:12:22.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWTZpcVdSWi0xNVZ5OXg5X1p2dFlEb3hHWmhMek9DNEprNlU1S3pUVDZuQ1lrNEl6SHc4TXVKTktCTWRCWkphbHgybEJYNUpSa3BsYTV1cTg5TEFCT25TSEZVOVVEYXdBSGhaVE5VMnpQYVJTOHg2VnlUTjQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T18:12:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "CoreWeave and IREN Fall as Nvidia Signals Caution on Financing",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnY2UEtlY1hWdWotVHBfN2VfMHdKU2dZcHdLSWlvcTdnQU5JVVpDcVlNNXpuZmdIOEt5TkhEVnVmYjVCZ0E5VFlkVTJTR0E4OHM3cVpXRE1oNS1sZ2N4N2FWYjJiSGFYSnJhSi1SeURvMllQaU9kS3F3QzFQdFhYLWNVMFE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T16:43:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "This Wildly Volatile AI Stock Is Down 80% From Its Peak—and Flashing Warning Signals",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBjVTR5ZDhidksyMUthU1hEWS15OHAtMEVXMENKTm9Gb1p5bTB1djV0VXY1OWJkVjdKYWVrSUZQcE1xT3U5bWNXdDFRWFViTEFZOS1wejNPcWZpa2hFRzJoOFBBQmc1TUVmajAzVVFhRDhUNkFvVTlWNkFBMklucjdHaHJqblU?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T15:18:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Take-Two, Palo Alto, Applied Optoelectronics, TJX, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMDU0bmtZS3dtbExlY0NFbGkxeUh6azduNml6d3VYTUV5ZmNuVXA2Q1g1NkZsc1NKM3UyT2JCZm95Q1Z5ZDZVdDZSZ1RhQ0NBQk11dHQ5UzNYay05ZWN5aDJ2N0k?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T17:57:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why SpaceX Stock Is Down After Its Historic Starship Catch",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWl5bk1QQmFtOGJoU0JMYkx3Njlsa1JzUE45T0JwVUlGejl3blJYeEF1QWpxV3NSMk1palYzZzIzMVBJUk02RDZpcy1xdnFlTzRvdFhKQlJWUFIxd3k4X0JCVUpoLURETTVnbmhGS2tteG5iU2pFOVdGcG1tdUx5YnVoZzFzSG1LWC1QUmRrWEI?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-16T21:11:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odzFsZEloUVctYWFCU0FXdE9zRnlWdkNjZUs4aTgzYlBsQzh2bXF6MF92RkVETGV4M0MzR0dxQTQ2clJ2cWhKaEhGUkpkNHpOVlR5Zk5tRHFaZUxLNkNVTDJvaWs?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T21:46:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFN5S3RESUVaa0ExaEU4U2tfRDZYQVhhMnJLQW93aGp0WXFJbjl1WDE1WDkwdWxsM2lhNHpZM0Y3WHFEb2JnTlVndGM4c3BqLURseHN6cWtMaW1NaDVJRk40R3R6eGtaR3pzbmdRYlpPYU95MDNRLUhsV0hWY0VRa0FFcHN0SlhqNTgxTk8xZUp6VjA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-16T19:26:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic Could Be the New King of AI. How to Play It Now.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkZvMld6VzM2dVpZSkxwdGZiaEtJMVBOMkd6TUdlNWt3Ym0zUFpISlNMYzdrN2NOR3BjX3ZkQWxEUlMyVXBXRGU2Q09ySTRJVnFhbVdLTXA5Q3dPWjlHdHQ2c1ZwdTdweWdIZHVCNUV5RnVYWDNhNXVsZjNqSGR0SEFldjdPMlRuQTVQZEo4REo5TlVHcG9paTNGVV9RUjJVekJLRC1IaFEtUlE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T10:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "U.S. Moves to Close Chip Loophole After Nvidia Scandal. Watch These Stocks.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90X3FkUWNNckRCQ0d3VElHT1RZSldUYjM2bW1NRnZhWTMxWVpFUDl4OEl1OFFUUEgxWXhnNk54c3BJYzNYZjZJbzhjTEg5LVZWQV9Rel9XcWVIcnFmQmw0UW9hekJSbHNVUWx4SWVUZkxCRGZLZ0JvLQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-16T17:22:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "When Is Anthropic’s IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T14:14:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "pubDate": "2026-11-18T18:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
+      "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+      "summary": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
+      "pubDate": "2026-11-18T18:28:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "pubDate": "2026-11-18T18:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security should be shut down, this Republican senator says",
+      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "summary": "The program’s trust funds are expected to run out of money in the next six years.",
+      "pubDate": "2026-11-18T17:46:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rising healthcare costs push Medicare Part B premiums higher",
+      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+      "pubDate": "2026-11-18T17:28:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
+      "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
+      "summary": "Energy stocks are pretending the war is over. It isn’t.",
+      "pubDate": "2026-11-18T17:23:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad",
+      "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+      "summary": "I’m not telling you to start buying lunch if you don’t already. I’m showing you how to spend less when you do.",
+      "pubDate": "2026-11-18T17:16:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "pubDate": "2026-11-18T17:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
+      "summary": "More builders are cutting prices in spite of rising construction costs that make it more expensive to build new homes.",
+      "pubDate": "2026-11-18T17:14:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "pubDate": "2026-11-18T17:00:00.000Z"
+    }
+  ]
+}
