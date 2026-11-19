@@ -1,0 +1,677 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T19:18:50.118Z",
+  "curated": [
+    {
+      "source": "MarketWatch",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "pubDate": "2026-11-19T17:21:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "WSJ",
+      "title": "The Bond Market’s Surprising Take on the AI Trade",
+      "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+      "summary": "Plus, stocks pop as Anthropic sets a high IPO price.",
+      "pubDate": "2026-11-19T11:26:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "summary": "A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.",
+      "pubDate": "2026-11-18T22:07:41.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+      "summary": "US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.",
+      "pubDate": "2026-11-19T07:09:16.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+      "summary": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of  “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations.\n (Source: Bloomberg)",
+      "pubDate": "2026-11-19T19:11:45.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+      "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+      "summary": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
+      "pubDate": "2026-11-19T18:07:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
+      "summary": "Alphabet Inc. has launched a C$6 billion ($4.2 billion) sale of Canadian bonds, six months after its debut in the market.",
+      "pubDate": "2026-11-19T16:16:50.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "What to Know About Anthropic’s Record-Breaking IPO",
+      "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
+      "summary": "Shares in the maker of the Claude chatbot began trading midday Thursday.",
+      "pubDate": "2026-11-19T18:14:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVzJDLTFPc2lrY2ZPcXR4NElkVklfRGRyUGpQaTM3ZVZMcDY1UExMSjJ6QW5SQmstMFhES0gzMUQwQTZvY0ZJYUR1X2hLMllkSHVjajk0MmtnSko1LVAtcERldVA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T17:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic soars in Wall Street debut",
+      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "summary": "AI giant begins trading after raising $81bn in record IPO",
+      "pubDate": "2026-11-19T16:19:06.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
+      "summary": "Anthropic PBC shares pared earlier gains to trade 17% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.",
+      "pubDate": "2026-11-19T14:52:54.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "More than 100,000 UK retail investors rush to buy Anthropic shares",
+      "link": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
+      "summary": "Nearly two-thirds of investors received their full allocation in the blockbuster flotation",
+      "pubDate": "2026-11-19T12:31:14.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Four Ways Techruptions May Shape the Economy",
+      "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
+      "summary": "Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?",
+      "pubDate": "2026-11-19T10:50:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic IPO Updates: AI Giant's Shares Jump in Largest IPO on Record",
+      "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+      "summary": "Claude maker’s shares rise more than 10% in volatile trading",
+      "pubDate": "2026-11-19T09:34:15.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic raises $81bn in record IPO",
+      "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
+      "pubDate": "2026-11-19T07:04:26.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock: 3 Catalysts Set to Boost the Memory Chip Maker Beyond Nvidia Earnings",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EUkd4T0FNR1lpSjgxY2pQMm5jR1dJYU1WLU9PT0tybjhIcGpFTTBqemF5djRKUFd2T0gzaENGQU9QUXhuQXhpQmdUNmlZcG50Q1RJMjhFSlRIUlhQWmpGZFZKWWVjRm8wcGk0WmFJaUxVeEkwdnQxQXVaX3g?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T19:14:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWTZpcVdSWi0xNVZ5OXg5X1p2dFlEb3hHWmhMek9DNEprNlU1S3pUVDZuQ1lrNEl6SHc4TXVKTktCTWRCWkphbHgybEJYNUpSa3BsYTV1cTg5TEFCT25TSEZVOVVEYXdBSGhaVE5VMnpQYVJTOHg2VnlUTjQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T18:12:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "pubDate": "2026-11-19T19:15:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+      "summary": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
+      "pubDate": "2026-11-19T19:14:11.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+      "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+      "summary": "The main engine of U.S. growth is in overdrive.",
+      "pubDate": "2026-11-19T19:13:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+      "pubDate": "2026-11-19T18:03:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+      "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
+      "pubDate": "2026-11-19T18:00:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Central banks ❤️ US dollars",
+      "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
+      "summary": "A tour of central bank foreign exchange reserve policy, in 248 charts",
+      "pubDate": "2026-11-19T16:50:48.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Alphabet Stock Is Jumping. 2 Reasons the Comeback Starts Now.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10WDdwclZjV3ltY3NHVm9ia044N0huUnBJZGgtN1FkalNkajRpS1R4XzFjYjg3ajRXS0hwWDdvbHdPQ0k5eWxhSHBuOS1Da2x5S285MFJ1QVVwN2Nob2pLQlZmYVlwQ1ljT2VOaXBPMWMzU3dkaE5Wbg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T15:09:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+      "link": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+      "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
+      "pubDate": "2026-11-19T14:39:18.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "The AI Bubble Is ‘About to Burst.’ Sell the S&P 500 and Buy This Instead, Analyst Says.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1adzZRaUVhV2Fvd0lYWFBfUTJxYXVCNm8xLUJWUFUxX0U1MG9GZFlqOVhtY0RPOFpqc3dhNURDZGYxMHE5bXM4eFJqTmRBNDNvM3F6cUtQSWpGQ1V0UW1OYlptaEIzMkFEOXFFaV9oTTdhaG54aWZIMlFnQVE2UQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T13:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
+      "link": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
+      "summary": "Also in today’s newsletter: Trump-Xi-Putin trilateral",
+      "pubDate": "2026-11-19T10:46:35.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "This Wildly Volatile AI Stock Is Down 80% From Its Peak—and Flashing Warning Signals",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBjVTR5ZDhidksyMUthU1hEWS15OHAtMEVXMENKTm9Gb1p5bTB1djV0VXY1OWJkVjdKYWVrSUZQcE1xT3U5bWNXdDFRWFViTEFZOS1wejNPcWZpa2hFRzJoOFBBQmc1TUVmajAzVVFhRDhUNkFvVTlWNkFBMklucjdHaHJqblU?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T15:18:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+      "pubDate": "2026-11-17T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Anthropic IPO Updates: AI Giant's Shares Jump in Largest IPO on Record",
+      "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+      "summary": "Claude maker’s shares rise more than 10% in volatile trading",
+      "pubDate": "2026-11-19T09:34:15.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
+      "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
+      "summary": "The company’s complex structure and funding make for confusing valuation math.",
+      "pubDate": "2026-11-19T18:19:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "What to Know About Anthropic’s Record-Breaking IPO",
+      "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
+      "summary": "Shares in the maker of the Claude chatbot began trading midday Thursday.",
+      "pubDate": "2026-11-19T18:14:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+      "pubDate": "2026-11-19T15:52:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Dodgers Owner Walter Faces Probe From State Regulator That Says It Was ‘Misled’",
+      "link": "https://www.wsj.com/finance/regulation/dodgers-owner-walter-faces-probe-from-state-regulator-that-says-it-was-misled-8f527738?mod=rss_markets_main",
+      "summary": "Delaware’s insurance department has joined federal authorities in investigating loans Walter’s insurers made to entities he also controls.",
+      "pubDate": "2026-11-19T13:40:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Bond Market’s Surprising Take on the AI Trade",
+      "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+      "summary": "Plus, stocks pop as Anthropic sets a high IPO price.",
+      "pubDate": "2026-11-19T11:26:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Four Ways Techruptions May Shape the Economy",
+      "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
+      "summary": "Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?",
+      "pubDate": "2026-11-19T10:50:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+      "summary": "The company inherits problems from Jensen Huang, and advantages.",
+      "pubDate": "2026-11-18T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+      "pubDate": "2026-11-17T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Big Tech Needs to Spread Its Bets on Data Centers",
+      "link": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
+      "summary": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections.",
+      "pubDate": "2026-11-16T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump administration plans further cuts at US audit regulator",
+      "link": "https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e?syn-25a6b1a6=1",
+      "summary": "Watchdog to scale back inspections and enforcement against accounting firms while investing in AI tools",
+      "pubDate": "2026-11-19T16:54:41.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Central banks ❤️ US dollars",
+      "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
+      "summary": "A tour of central bank foreign exchange reserve policy, in 248 charts",
+      "pubDate": "2026-11-19T16:50:48.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic soars in Wall Street debut",
+      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "summary": "AI giant begins trading after raising $81bn in record IPO",
+      "pubDate": "2026-11-19T16:19:06.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+      "link": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+      "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
+      "pubDate": "2026-11-19T14:39:18.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kenya awards prized rare earth deposit to US group",
+      "link": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab?syn-25a6b1a6=1",
+      "summary": "Deal is a win for the Trump administration’s efforts to counter China’s dominance of the metals used for magnets",
+      "pubDate": "2026-11-19T13:53:19.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "More than 100,000 UK retail investors rush to buy Anthropic shares",
+      "link": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
+      "summary": "Nearly two-thirds of investors received their full allocation in the blockbuster flotation",
+      "pubDate": "2026-11-19T12:31:14.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic is a ‘must own’",
+      "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
+      "summary": "Is that good?",
+      "pubDate": "2026-11-19T11:06:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
+      "link": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
+      "summary": "Also in today’s newsletter: Trump-Xi-Putin trilateral",
+      "pubDate": "2026-11-19T10:46:35.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU delays methane emission rules on fossil fuel imports",
+      "link": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
+      "summary": "New rules will not be implemented for at least two years after sustained lobbying by US, Qatar and oil and gas sector",
+      "pubDate": "2026-11-19T09:26:07.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic raises $81bn in record IPO",
+      "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
+      "pubDate": "2026-11-19T07:04:26.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+      "summary": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
+      "pubDate": "2026-11-19T19:14:11.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Tod’s Nears €400 Million Debt Refinancing Backed by Owners",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
+      "summary": "Tod’s SpA is close to securing a €400 million ($439 million) debt refinancing backstopped by the founder’s family that would ease financial pressure on the Italian luxury group, according to people familiar with the matter.",
+      "pubDate": "2026-11-19T15:50:42.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
+      "summary": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of  “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations.\n (Source: Bloomberg)",
+      "pubDate": "2026-11-19T19:11:45.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
+      "summary": "Alphabet Inc. has launched a C$6 billion ($4.2 billion) sale of Canadian bonds, six months after its debut in the market.",
+      "pubDate": "2026-11-19T16:16:50.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Lina Khan’s Economic Playbook Shows in NYC Revenue-Share Deals",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/lina-khan-s-economic-playbook-shows-in-nyc-revenue-share-deals",
+      "summary": "Lina Khan, the former US antitrust enforcer who Mayor Zohran Mamdani tapped for a top economic development role, is putting her stamp on New York City’s approach to stoking growth and hiring.",
+      "pubDate": "2026-11-19T18:54:52.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
+      "summary": "Anthropic PBC shares pared earlier gains to trade 17% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.",
+      "pubDate": "2026-11-19T14:52:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-mwnvjmz2",
+      "summary": "The offshore Chinese yuan declined to the weakest level in more than a month while the dollar rallied as risk appetite shrank.",
+      "pubDate": "2026-11-19T18:19:10.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
+      "summary": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
+      "pubDate": "2026-11-19T00:54:52.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "summary": "A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.",
+      "pubDate": "2026-11-18T22:07:41.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+      "summary": "US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.",
+      "pubDate": "2026-11-19T07:09:16.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The AI Bubble Is ‘About to Burst.’ Sell the S&P 500 and Buy This Instead, Analyst Says.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1adzZRaUVhV2Fvd0lYWFBfUTJxYXVCNm8xLUJWUFUxX0U1MG9GZFlqOVhtY0RPOFpqc3dhNURDZGYxMHE5bXM4eFJqTmRBNDNvM3F6cUtQSWpGQ1V0UW1OYlptaEIzMkFEOXFFaV9oTTdhaG54aWZIMlFnQVE2UQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T13:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Texas Starts Approving Data Centers Again — Including For SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0ZmOElxT0pSMW1rWVpydm1DMExJVzNfQ3FkS3M3VXM5dVNsamI2bTh5RTBhNGtiMnB2Y0VxVXpJdkN2NnJYOTlYOVBIZFJYbWpILWdaX1RZM0luX1IyRVNjR25YSlVieG5qZ3VNR2RlTWhNLWJSZUp0OGV5ejlkaXB3QQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T22:38:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVzJDLTFPc2lrY2ZPcXR4NElkVklfRGRyUGpQaTM3ZVZMcDY1UExMSjJ6QW5SQmstMFhES0gzMUQwQTZvY0ZJYUR1X2hLMllkSHVjajk0MmtnSko1LVAtcERldVA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T17:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock: 3 Catalysts Set to Boost the Memory Chip Maker Beyond Nvidia Earnings",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EUkd4T0FNR1lpSjgxY2pQMm5jR1dJYU1WLU9PT0tybjhIcGpFTTBqemF5djRKUFd2T0gzaENGQU9QUXhuQXhpQmdUNmlZcG50Q1RJMjhFSlRIUlhQWmpGZFZKWWVjRm8wcGk0WmFJaUxVeEkwdnQxQXVaX3g?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T19:14:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "When Is Anthropic’s IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T14:14:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "This Wildly Volatile AI Stock Is Down 80% From Its Peak—and Flashing Warning Signals",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBjVTR5ZDhidksyMUthU1hEWS15OHAtMEVXMENKTm9Gb1p5bTB1djV0VXY1OWJkVjdKYWVrSUZQcE1xT3U5bWNXdDFRWFViTEFZOS1wejNPcWZpa2hFRzJoOFBBQmc1TUVmajAzVVFhRDhUNkFvVTlWNkFBMklucjdHaHJqblU?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-18T15:18:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWTZpcVdSWi0xNVZ5OXg5X1p2dFlEb3hHWmhMek9DNEprNlU1S3pUVDZuQ1lrNEl6SHc4TXVKTktCTWRCWkphbHgybEJYNUpSa3BsYTV1cTg5TEFCT25TSEZVOVVEYXdBSGhaVE5VMnpQYVJTOHg2VnlUTjQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T18:12:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "GM CEO Mary Barra Might Be Leaving. Who Could Replace Her.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5bzZYMUN0OTVnQ2ZtcXNvM2RJR2JHZE4zVThUSjJRSVRlOEpndV96TldxT3dHOFpCXzRmd25aUXVhN0NkT2NKd3JQZkdnUTYtaHpzbnY4SzZCN3dod0o2TjRGc2k4WVlvRldXbVA2RTFtS21vSklzMQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T19:44:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Third-Party Vendor Linked to Eli Lilly Is Hit by Data Breach",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWxrYTB1a3FDOV95T19WOXdlZ2Fid0hUMDFGUV84QTFyXzhvNDVsak1XSHhQVjF1ZW1NZ1ZVaDhDMHE0c0lOMV9BUVktSTRnVllnUm04VHlXV1VMdDRxTXU5Qk9IaUN2OEJEcm95TVhtNVd2MFVDc3ZucUJvX25aUTlB?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-17T20:02:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Alphabet Stock Is Jumping. 2 Reasons the Comeback Starts Now.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10WDdwclZjV3ltY3NHVm9ia044N0huUnBJZGgtN1FkalNkajRpS1R4XzFjYjg3ajRXS0hwWDdvbHdPQ0k5eWxhSHBuOS1Da2x5S285MFJ1QVVwN2Nob2pLQlZmYVlwQ1ljT2VOaXBPMWMzU3dkaE5Wbg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T15:09:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "pubDate": "2026-11-19T19:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+      "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+      "summary": "The main engine of U.S. growth is in overdrive.",
+      "pubDate": "2026-11-19T19:13:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+      "pubDate": "2026-11-19T18:54:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security should be shut down, this Republican senator says",
+      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+      "pubDate": "2026-11-19T18:53:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
+      "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
+      "summary": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
+      "pubDate": "2026-11-19T18:43:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "pubDate": "2026-11-19T18:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+      "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+      "summary": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
+      "pubDate": "2026-11-19T18:07:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+      "pubDate": "2026-11-19T18:03:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+      "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
+      "pubDate": "2026-11-19T18:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "pubDate": "2026-11-19T17:21:00.000Z"
+    }
+  ]
+}
