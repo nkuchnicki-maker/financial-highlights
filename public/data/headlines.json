@@ -1,13 +1,55 @@
 {
-  "generatedAt": "2026-11-19T19:18:50.118Z",
+  "generatedAt": "2026-11-20T18:56:39.061Z",
   "sources": {
     "WSJ": [
       {
         "source": "WSJ",
-        "title": "Anthropic IPO Updates: AI Giant's Shares Jump in Largest IPO on Record",
-        "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
-        "summary": "Claude maker’s shares rise more than 10% in volatile trading",
-        "pubDate": "2026-11-19T09:34:15.000Z"
+        "title": "Stock Market Today: Tech Rout Deepens as Anthropic Stock Slides",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+        "summary": "Nasdaq slides 3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
+        "pubDate": "2026-11-20T10:08:25.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+        "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+        "summary": "The record-keeping blunder, which was related to risk-weighted assets, is a setback for CEO Jane Fraser’s efforts to strengthen internal controls.",
+        "pubDate": "2026-11-20T16:59:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Grabbing Inflation Protection Now Is a No-Brainer",
+        "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+        "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut.",
+        "pubDate": "2026-11-20T11:16:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
+        "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
+        "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
+        "pubDate": "2026-11-20T10:59:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "The Seven Charts That Explain the New Normal for Oil Prices",
+        "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+        "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
+        "pubDate": "2026-11-20T10:56:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+        "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+        "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+        "pubDate": "2026-11-20T10:30:00.000Z"
+      },
+      {
+        "source": "WSJ",
+        "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+        "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+        "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+        "pubDate": "2026-11-20T05:40:00.000Z"
       },
       {
         "source": "WSJ",
@@ -15,41 +57,6 @@
         "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
         "summary": "The company’s complex structure and funding make for confusing valuation math.",
         "pubDate": "2026-11-19T18:19:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "What to Know About Anthropic’s Record-Breaking IPO",
-        "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
-        "summary": "Shares in the maker of the Claude chatbot began trading midday Thursday.",
-        "pubDate": "2026-11-19T18:14:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-        "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
-        "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
-        "pubDate": "2026-11-19T15:52:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Dodgers Owner Walter Faces Probe From State Regulator That Says It Was ‘Misled’",
-        "link": "https://www.wsj.com/finance/regulation/dodgers-owner-walter-faces-probe-from-state-regulator-that-says-it-was-misled-8f527738?mod=rss_markets_main",
-        "summary": "Delaware’s insurance department has joined federal authorities in investigating loans Walter’s insurers made to entities he also controls.",
-        "pubDate": "2026-11-19T13:40:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "The Bond Market’s Surprising Take on the AI Trade",
-        "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
-        "summary": "Plus, stocks pop as Anthropic sets a high IPO price.",
-        "pubDate": "2026-11-19T11:26:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Four Ways Techruptions May Shape the Economy",
-        "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
-        "summary": "Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?",
-        "pubDate": "2026-11-19T10:50:00.000Z"
       },
       {
         "source": "WSJ",
@@ -64,160 +71,174 @@
         "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
         "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
         "pubDate": "2026-11-17T10:30:00.000Z"
-      },
-      {
-        "source": "WSJ",
-        "title": "Big Tech Needs to Spread Its Bets on Data Centers",
-        "link": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
-        "summary": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections.",
-        "pubDate": "2026-11-16T10:30:00.000Z"
       }
     ],
     "Financial Times": [
       {
         "source": "Financial Times",
-        "title": "Trump administration plans further cuts at US audit regulator",
-        "link": "https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e?syn-25a6b1a6=1",
-        "summary": "Watchdog to scale back inspections and enforcement against accounting firms while investing in AI tools",
-        "pubDate": "2026-11-19T16:54:41.000Z"
+        "title": "Anthropic shares slide as tech stocks tumble",
+        "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+        "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+        "pubDate": "2026-11-20T18:03:21.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Central banks ❤️ US dollars",
-        "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
-        "summary": "A tour of central bank foreign exchange reserve policy, in 248 charts",
-        "pubDate": "2026-11-19T16:50:48.000Z"
+        "title": "The AI fever in markets is breaking",
+        "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+        "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+        "pubDate": "2026-11-20T15:23:38.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Anthropic soars in Wall Street debut",
-        "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-        "summary": "AI giant begins trading after raising $81bn in record IPO",
-        "pubDate": "2026-11-19T16:19:06.000Z"
+        "title": "US tech rout deepens as Anthropic shares tumble",
+        "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+        "summary": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
+        "pubDate": "2026-11-20T14:01:58.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Nscale warns of its exposure to suppliers facing US blacklist",
-        "link": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
-        "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
-        "pubDate": "2026-11-19T14:39:18.000Z"
+        "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
+        "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+        "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+        "pubDate": "2026-11-20T12:02:46.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Kenya awards prized rare earth deposit to US group",
-        "link": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab?syn-25a6b1a6=1",
-        "summary": "Deal is a win for the Trump administration’s efforts to counter China’s dominance of the metals used for magnets",
-        "pubDate": "2026-11-19T13:53:19.000Z"
+        "title": "Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms",
+        "link": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
+        "summary": "Taking CO₂ from the air will be needed to reverse warming, scientists say",
+        "pubDate": "2026-11-20T12:00:09.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "More than 100,000 UK retail investors rush to buy Anthropic shares",
-        "link": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1",
-        "summary": "Nearly two-thirds of investors received their full allocation in the blockbuster flotation",
-        "pubDate": "2026-11-19T12:31:14.000Z"
+        "title": "Anthropic market cap in line with Alphaville’s guess",
+        "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
+        "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
+        "pubDate": "2026-11-20T11:57:35.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Anthropic is a ‘must own’",
-        "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
-        "summary": "Is that good?",
-        "pubDate": "2026-11-19T11:06:08.000Z"
+        "title": "Worldline bolstered cash flow through delayed payments and early receipts",
+        "link": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
+        "summary": "French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning",
+        "pubDate": "2026-11-20T11:34:28.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
-        "link": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
-        "summary": "Also in today’s newsletter: Trump-Xi-Putin trilateral",
-        "pubDate": "2026-11-19T10:46:35.000Z"
+        "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+        "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+        "summary": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
+        "pubDate": "2026-11-20T08:52:29.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "EU delays methane emission rules on fossil fuel imports",
-        "link": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
-        "summary": "New rules will not be implemented for at least two years after sustained lobbying by US, Qatar and oil and gas sector",
-        "pubDate": "2026-11-19T09:26:07.000Z"
+        "title": "A bubble in . . . defensive stocks?",
+        "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+        "summary": "Plus, crypto and desperation",
+        "pubDate": "2026-11-20T06:30:06.000Z"
       },
       {
         "source": "Financial Times",
-        "title": "Anthropic raises $81bn in record IPO",
-        "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-        "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
-        "pubDate": "2026-11-19T07:04:26.000Z"
+        "title": "So, Anthropic is finally a public company. What now?",
+        "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+        "summary": "A blockbuster IPO postmortem",
+        "pubDate": "2026-11-20T05:19:35.000Z"
       }
     ],
     "Bloomberg": [
       {
         "source": "Bloomberg",
-        "title": "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
-        "summary": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
-        "pubDate": "2026-11-19T19:14:11.000Z"
+        "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+        "summary": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.",
+        "pubDate": "2026-11-19T22:03:40.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Tod’s Nears €400 Million Debt Refinancing Backed by Owners",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/tod-s-nears-400-million-debt-refinance-backed-by-group-s-owners",
-        "summary": "Tod’s SpA is close to securing a €400 million ($439 million) debt refinancing backstopped by the founder’s family that would ease financial pressure on the Italian luxury group, according to people familiar with the matter.",
-        "pubDate": "2026-11-19T15:50:42.000Z"
+        "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
+        "summary": "Federal Reserve Governor Lisa Cook sees an urgent need for the US central bank to raise interest rates to bring down inflation. Cook said Friday at a conference at Chile’s central bank in Santiago, “Inflation has been above target for more than five and a half years, and every ad",
+        "pubDate": "2026-11-20T18:25:07.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
-        "summary": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of  “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations.\n (Source: Bloomberg)",
-        "pubDate": "2026-11-19T19:11:45.000Z"
+        "title": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+        "summary": "Copper sank to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+        "pubDate": "2026-11-20T03:03:05.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
-        "summary": "Alphabet Inc. has launched a C$6 billion ($4.2 billion) sale of Canadian bonds, six months after its debut in the market.",
-        "pubDate": "2026-11-19T16:16:50.000Z"
+        "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+        "summary": "A global flight from risk is catching Argentina at a vulnerable moment, deepening a bond selloff fueled by anxiety over next year’s election and pushing its debt into distressed territory for the first time in two years.",
+        "pubDate": "2026-11-20T18:12:35.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Lina Khan’s Economic Playbook Shows in NYC Revenue-Share Deals",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/lina-khan-s-economic-playbook-shows-in-nyc-revenue-share-deals",
-        "summary": "Lina Khan, the former US antitrust enforcer who Mayor Zohran Mamdani tapped for a top economic development role, is putting her stamp on New York City’s approach to stoking growth and hiring.",
-        "pubDate": "2026-11-19T18:54:52.000Z"
+        "title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
+        "summary": "The Australian dollar will stand out among developed-market currencies next year as it will reap the benefits of the artificial intelligence buildout, weathering the recent stock selloff, according to Andrew Watrous at Morgan Stanley.",
+        "pubDate": "2026-11-20T18:06:59.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
-        "summary": "Anthropic PBC shares pared earlier gains to trade 17% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.",
-        "pubDate": "2026-11-19T14:52:54.000Z"
+        "title": "SEC’s Daly on a Rapidly Evolving ETF Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
+        "summary": "Brian Daly, Director of the Division of Investment Management at the SEC, joins Bloomberg's Isabelle Lee at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Daly discusses the rapid evolution of the ETF market, the SEC’s approach to novel products and why ",
+        "pubDate": "2026-11-20T18:00:02.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/offshore-chinese-yuan-drops-to-weakest-level-in-over-a-month-mwnvjmz2",
-        "summary": "The offshore Chinese yuan declined to the weakest level in more than a month while the dollar rallied as risk appetite shrank.",
-        "pubDate": "2026-11-19T18:19:10.000Z"
+        "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+        "summary": "Robinhood Markets Chief Brokerage Officer Steve Quirk joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Quirk discusses how younger investors are trading th",
+        "pubDate": "2026-11-20T17:54:57.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-        "summary": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
-        "pubDate": "2026-11-19T00:54:52.000Z"
+        "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
+        "summary": "Claudia Sahm, Chief Economist at New Century Advisors, joined Bloomberg's Paul Sweeney and Scarlet Fu to discuss her latest column, \"AI Is Coming for the Economists in the White House.\" \nThe AI debate, which economists have been having for years in various contexts, has come for ",
+        "pubDate": "2026-11-20T17:48:42.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-        "summary": "A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.",
-        "pubDate": "2026-11-18T22:07:41.000Z"
+        "title": "BI Survey: Budgetary Constraints for 2027 Travel",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
+        "summary": "Jody Lurie, Bloomberg Intelligence Credit Analyst, discussed her recent Bloomberg Survey covering budgetary constraints for 2027 travel. Lurie spoke with Bloomberg's Paul Sweeney and Scarlet Fu.on her recent BI surveys.\nUS vacationers appear poised to spend more in 2027, but infl",
+        "pubDate": "2026-11-20T17:48:32.000Z"
       },
       {
         "source": "Bloomberg",
-        "title": "US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
-        "summary": "US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.",
-        "pubDate": "2026-11-19T07:09:16.000Z"
+        "title": "Latest Oil Market News and Analysis for Nov. 20",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+        "summary": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample crude supplies.",
+        "pubDate": "2026-11-19T23:05:51.000Z"
       }
     ],
     "Barron's": [
+      {
+        "source": "Barron's",
+        "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-20T18:18:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Sandisk Stock Looked Like It Fell 87%. Here’s What Really Happened.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdzZXbzZ2NzJwT09lYXQ5aHBVdVhsd1cxeV82TXJwVXZrd2FsYmwzN1g1MHdybmdfLWw3ekk1anpjSEM1d2pId19GenJGUTVnMU1paUFBdDNsbnJRbjBnV0ZzR3A2NWdVaDBIMU9RRXRHLUxBOEdORHE1Y1hDZkE?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-20T17:02:00.000Z"
+      },
+      {
+        "source": "Barron's",
+        "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldhalBiZklRZ3ExMXViMU1CTWExTFh5SHhRSEVaSWJ0UmVlQS1lQnNsRVIwTDNtVHFuYVFXcGpnbkJ4V0ZDNmg4Y2dMSzBFV1BMNEJRSkRwTVd1bFRIZTlnOFhDdFhsakh0dlpkNml5aVU4TVJzSXFQNjUzNmY1ZXRZQjlpNnEtQVE?oc=5",
+        "summary": "",
+        "pubDate": "2026-11-20T16:31:00.000Z"
+      },
       {
         "source": "Barron's",
         "title": "The AI Bubble Is ‘About to Burst.’ Sell the S&P 500 and Buy This Instead, Analyst Says.",
@@ -227,138 +248,117 @@
       },
       {
         "source": "Barron's",
-        "title": "Texas Starts Approving Data Centers Again — Including For SpaceX",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0ZmOElxT0pSMW1rWVpydm1DMExJVzNfQ3FkS3M3VXM5dVNsamI2bTh5RTBhNGtiMnB2Y0VxVXpJdkN2NnJYOTlYOVBIZFJYbWpILWdaX1RZM0luX1IyRVNjR25YSlVieG5qZ3VNR2RlTWhNLWJSZUp0OGV5ejlkaXB3QQ?oc=5",
+        "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today’s Market",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcGZSWnVMVkQ3b251M19WRk1UaENsQklYWmc5d3ZBTnQzQXowY1hoSTAyWlZCWFdBZVRBbV91Y0syanZNc0tWV2ZEeFVqX05pMW51cXhCd3U0X0NicXZXaDhGdjg?oc=5",
         "summary": "",
-        "pubDate": "2026-11-18T22:38:00.000Z"
+        "pubDate": "2026-11-20T15:59:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVzJDLTFPc2lrY2ZPcXR4NElkVklfRGRyUGpQaTM3ZVZMcDY1UExMSjJ6QW5SQmstMFhES0gzMUQwQTZvY0ZJYUR1X2hLMllkSHVjajk0MmtnSko1LVAtcERldVA?oc=5",
+        "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakp6anlCQUZVSFA1UndCNy1vOHZya0pKUjNDSmJvQnZfYXlBRHlnbXo1djUxTXJ3VzNrdnRuYUdENElkLVVkTkxucVBBU0l6OVpKYk82VVBSVl9TSXFtckpUX2txOWIyNnByb3pFUjVzTFZYcFk4R25LYkdkWFVaNEtB?oc=5",
         "summary": "",
-        "pubDate": "2026-11-19T17:30:00.000Z"
+        "pubDate": "2026-11-20T11:59:56.000Z"
       },
       {
         "source": "Barron's",
-        "title": "Micron Stock: 3 Catalysts Set to Boost the Memory Chip Maker Beyond Nvidia Earnings",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EUkd4T0FNR1lpSjgxY2pQMm5jR1dJYU1WLU9PT0tybjhIcGpFTTBqemF5djRKUFd2T0gzaENGQU9QUXhuQXhpQmdUNmlZcG50Q1RJMjhFSlRIUlhQWmpGZFZKWWVjRm8wcGk0WmFJaUxVeEkwdnQxQXVaX3g?oc=5",
+        "title": "Three Ways SpaceX Stock Can Buck the AI Slump",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CbGJVWF9leFZ3ckdaRUE0cGF6VldrOFJQTUd3eHpaOFVfNG14SzdXOUVIaHFmd2ZUZXkta2xVOUp2dlFDZks2cFphdzdRYU5sOEd3R3pveVpIYzlXTDFkcFI1c2RfczVtSHBBTUpEZVZoRm9sdGlVTA?oc=5",
         "summary": "",
-        "pubDate": "2026-11-18T19:14:00.000Z"
+        "pubDate": "2026-11-20T11:55:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "When Is Anthropic’s IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kc3h1V3VzbFFTNWxwbkdxeGpWY2Y0TkNZb21YWFF6WXJQd0h4R21yTENBb25OX3R0LUR1bE9JeXJDclE4enVCRHByQ0E5Q1VwVk5Na3RjWmxrZHpkRHB3ZXBhMW9vOUptcEhEZG04azRVREpfemxXSQ?oc=5",
+        "title": "Don’t Sell Tesla Stock. A Merger Is Coming.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tcWZUMmlkYmtfMXFMWVc5Q2FBYzlKUURFRzhBeGh1aHFhU09lZU1uVzktVUQwTks3N00xd3lIR3dVOHI1VXdyRU1lcE4wVEtHNmJ3MXJpQ3h5Mjhza1ZuZ0RULTZUNjJDeG1uT3VNTi00S04tbGc?oc=5",
         "summary": "",
-        "pubDate": "2026-11-18T14:14:00.000Z"
+        "pubDate": "2026-11-20T15:24:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "This Wildly Volatile AI Stock Is Down 80% From Its Peak—and Flashing Warning Signals",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBjVTR5ZDhidksyMUthU1hEWS15OHAtMEVXMENKTm9Gb1p5bTB1djV0VXY1OWJkVjdKYWVrSUZQcE1xT3U5bWNXdDFRWFViTEFZOS1wejNPcWZpa2hFRzJoOFBBQmc1TUVmajAzVVFhRDhUNkFvVTlWNkFBMklucjdHaHJqblU?oc=5",
+        "title": "This Top AI Energy Supply Stock Is Down for a 7th Day. Why Fortune Favors the Bold.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUjV3TUlsZzFtZ0FsQllmbEEwY3p5YlhXYlh2QXlIMncza3ViazFIVmduclU4T2ZLcE0yYU16emE2Tmlhc3Q1U2RJVnNkRTAxSlEwQnBsQlltOG5JU3N6SDlsZXA0ZXVGSjFFd0NUaWxRWFpLbG50Yg?oc=5",
         "summary": "",
-        "pubDate": "2026-11-18T15:18:00.000Z"
+        "pubDate": "2026-11-20T18:23:00.000Z"
       },
       {
         "source": "Barron's",
-        "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FWTZpcVdSWi0xNVZ5OXg5X1p2dFlEb3hHWmhMek9DNEprNlU1S3pUVDZuQ1lrNEl6SHc4TXVKTktCTWRCWkphbHgybEJYNUpSa3BsYTV1cTg5TEFCT25TSEZVOVVEYXdBSGhaVE5VMnpQYVJTOHg2VnlUTjQ?oc=5",
+        "title": "The Stock Market Has Problems Even Anthropic Can’t Solve",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
         "summary": "",
-        "pubDate": "2026-11-17T18:12:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "GM CEO Mary Barra Might Be Leaving. Who Could Replace Her.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5bzZYMUN0OTVnQ2ZtcXNvM2RJR2JHZE4zVThUSjJRSVRlOEpndV96TldxT3dHOFpCXzRmd25aUXVhN0NkT2NKd3JQZkdnUTYtaHpzbnY4SzZCN3dod0o2TjRGc2k4WVlvRldXbVA2RTFtS21vSklzMQ?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-17T19:44:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Third-Party Vendor Linked to Eli Lilly Is Hit by Data Breach",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWxrYTB1a3FDOV95T19WOXdlZ2Fid0hUMDFGUV84QTFyXzhvNDVsak1XSHhQVjF1ZW1NZ1ZVaDhDMHE0c0lOMV9BUVktSTRnVllnUm04VHlXV1VMdDRxTXU5Qk9IaUN2OEJEcm95TVhtNVd2MFVDc3ZucUJvX25aUTlB?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-17T20:02:00.000Z"
-      },
-      {
-        "source": "Barron's",
-        "title": "Alphabet Stock Is Jumping. 2 Reasons the Comeback Starts Now.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10WDdwclZjV3ltY3NHVm9ia044N0huUnBJZGgtN1FkalNkajRpS1R4XzFjYjg3ajRXS0hwWDdvbHdPQ0k5eWxhSHBuOS1Da2x5S285MFJ1QVVwN2Nob2pLQlZmYVlwQ1ljT2VOaXBPMWMzU3dkaE5Wbg?oc=5",
-        "summary": "",
-        "pubDate": "2026-11-19T15:09:00.000Z"
+        "pubDate": "2026-11-20T15:46:00.000Z"
       }
     ],
     "MarketWatch": [
       {
         "source": "MarketWatch",
-        "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-        "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-        "pubDate": "2026-11-19T19:15:00.000Z"
+        "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+        "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+        "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+        "pubDate": "2026-11-20T18:15:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
-        "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
-        "summary": "The main engine of U.S. growth is in overdrive.",
-        "pubDate": "2026-11-19T19:13:00.000Z"
+        "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+        "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+        "pubDate": "2026-11-20T18:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+        "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+        "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+        "pubDate": "2026-11-20T17:49:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+        "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+        "pubDate": "2026-11-20T17:47:00.000Z"
       },
       {
         "source": "MarketWatch",
         "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
         "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
         "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
-        "pubDate": "2026-11-19T18:54:00.000Z"
+        "pubDate": "2026-11-20T17:15:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Social Security should be shut down, this Republican senator says",
-        "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-        "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
-        "pubDate": "2026-11-19T18:53:00.000Z"
+        "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+        "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+        "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+        "pubDate": "2026-11-20T17:15:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
-        "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
-        "summary": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
-        "pubDate": "2026-11-19T18:43:00.000Z"
+        "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+        "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+        "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+        "pubDate": "2026-11-20T17:05:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
-        "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-        "summary": "“Hotel rooms can cost as much as $400 per night.”",
-        "pubDate": "2026-11-19T18:15:00.000Z"
+        "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+        "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+        "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+        "pubDate": "2026-11-20T16:37:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
-        "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
-        "summary": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
-        "pubDate": "2026-11-19T18:07:00.000Z"
+        "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+        "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+        "pubDate": "2026-11-20T16:19:00.000Z"
       },
       {
         "source": "MarketWatch",
-        "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-        "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-        "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
-        "pubDate": "2026-11-19T18:03:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
-        "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
-        "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
-        "pubDate": "2026-11-19T18:00:00.000Z"
-      },
-      {
-        "source": "MarketWatch",
-        "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-        "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-        "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-        "pubDate": "2026-11-19T17:21:00.000Z"
+        "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
+        "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+        "summary": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a new Medicare for All proposal",
+        "pubDate": "2026-11-20T15:53:00.000Z"
       }
     ]
   }

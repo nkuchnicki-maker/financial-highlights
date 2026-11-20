@@ -1,0 +1,688 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T18:56:39.061Z",
+  "curated": [
+    {
+      "source": "Bloomberg",
+      "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+      "summary": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.",
+      "pubDate": "2026-11-19T22:03:40.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 8
+    },
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Rout Deepens as Anthropic Stock Slides",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Nasdaq slides 3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
+      "pubDate": "2026-11-20T10:08:25.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
+      "summary": "Federal Reserve Governor Lisa Cook sees an urgent need for the US central bank to raise interest rates to bring down inflation. Cook said Friday at a conference at Chile’s central bank in Santiago, “Inflation has been above target for more than five and a half years, and every ad",
+      "pubDate": "2026-11-20T18:25:07.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+      "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+      "pubDate": "2026-11-20T17:49:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "The AI fever in markets is breaking",
+      "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+      "pubDate": "2026-11-20T15:23:38.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "pubDate": "2026-11-20T12:02:46.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+      "summary": "Copper sank to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+      "pubDate": "2026-11-20T03:03:05.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+      "summary": "A global flight from risk is catching Argentina at a vulnerable moment, deepening a bond selloff fueled by anxiety over next year’s election and pushing its debt into distressed territory for the first time in two years.",
+      "pubDate": "2026-11-20T18:12:35.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
+      "summary": "The Australian dollar will stand out among developed-market currencies next year as it will reap the benefits of the artificial intelligence buildout, weathering the recent stock selloff, according to Andrew Watrous at Morgan Stanley.",
+      "pubDate": "2026-11-20T18:06:59.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+      "pubDate": "2026-11-20T18:03:21.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+      "summary": "Robinhood Markets Chief Brokerage Officer Steve Quirk joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Quirk discusses how younger investors are trading th",
+      "pubDate": "2026-11-20T17:54:57.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
+      "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+      "summary": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a new Medicare for All proposal",
+      "pubDate": "2026-11-20T15:53:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "The Stock Market Has Problems Even Anthropic Can’t Solve",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T15:46:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech rout deepens as Anthropic shares tumble",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
+      "pubDate": "2026-11-20T14:01:58.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic market cap in line with Alphaville’s guess",
+      "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
+      "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
+      "pubDate": "2026-11-20T11:57:35.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+      "pubDate": "2026-11-20T05:40:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+      "pubDate": "2026-11-20T17:47:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+      "pubDate": "2026-11-20T16:19:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcGZSWnVMVkQ3b251M19WRk1UaENsQklYWmc5d3ZBTnQzQXowY1hoSTAyWlZCWFdBZVRBbV91Y0syanZNc0tWV2ZEeFVqX05pMW51cXhCd3U0X0NicXZXaDhGdjg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T15:59:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+      "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
+      "pubDate": "2026-11-20T10:56:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "This Top AI Energy Supply Stock Is Down for a 7th Day. Why Fortune Favors the Bold.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUjV3TUlsZzFtZ0FsQllmbEEwY3p5YlhXYlh2QXlIMncza3ViazFIVmduclU4T2ZLcE0yYU16emE2Tmlhc3Q1U2RJVnNkRTAxSlEwQnBsQlltOG5JU3N6SDlsZXA0ZXVGSjFFd0NUaWxRWFpLbG50Yg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T18:23:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T18:18:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "pubDate": "2026-11-20T17:05:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Sandisk Stock Looked Like It Fell 87%. Here’s What Really Happened.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdzZXbzZ2NzJwT09lYXQ5aHBVdVhsd1cxeV82TXJwVXZrd2FsYmwzN1g1MHdybmdfLWw3ekk1anpjSEM1d2pId19GenJGUTVnMU1paUFBdDNsbnJRbjBnV0ZzR3A2NWdVaDBIMU9RRXRHLUxBOEdORHE1Y1hDZkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T17:02:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "pubDate": "2026-11-20T16:37:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldhalBiZklRZ3ExMXViMU1CTWExTFh5SHhRSEVaSWJ0UmVlQS1lQnNsRVIwTDNtVHFuYVFXcGpnbkJ4V0ZDNmg4Y2dMSzBFV1BMNEJRSkRwTVd1bFRIZTlnOFhDdFhsakh0dlpkNml5aVU4TVJzSXFQNjUzNmY1ZXRZQjlpNnEtQVE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T16:31:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Grabbing Inflation Protection Now Is a No-Brainer",
+      "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+      "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut.",
+      "pubDate": "2026-11-20T11:16:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
+      "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
+      "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
+      "pubDate": "2026-11-20T10:59:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+      "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+      "pubDate": "2026-11-20T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "A bubble in . . . defensive stocks?",
+      "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+      "summary": "Plus, crypto and desperation",
+      "pubDate": "2026-11-20T06:30:06.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Tech Rout Deepens as Anthropic Stock Slides",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Nasdaq slides 3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
+      "pubDate": "2026-11-20T10:08:25.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+      "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+      "summary": "The record-keeping blunder, which was related to risk-weighted assets, is a setback for CEO Jane Fraser’s efforts to strengthen internal controls.",
+      "pubDate": "2026-11-20T16:59:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Grabbing Inflation Protection Now Is a No-Brainer",
+      "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+      "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut.",
+      "pubDate": "2026-11-20T11:16:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
+      "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
+      "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
+      "pubDate": "2026-11-20T10:59:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+      "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
+      "pubDate": "2026-11-20T10:56:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+      "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+      "pubDate": "2026-11-20T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+      "pubDate": "2026-11-20T05:40:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
+      "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
+      "summary": "The company’s complex structure and funding make for confusing valuation math.",
+      "pubDate": "2026-11-19T18:19:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+      "summary": "The company inherits problems from Jensen Huang, and advantages.",
+      "pubDate": "2026-11-18T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "summary": "Deep-pocketed landlords like Brookfield may be the most willing to cut their losses on troubled properties.",
+      "pubDate": "2026-11-17T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+      "pubDate": "2026-11-20T18:03:21.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The AI fever in markets is breaking",
+      "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+      "pubDate": "2026-11-20T15:23:38.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech rout deepens as Anthropic shares tumble",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
+      "pubDate": "2026-11-20T14:01:58.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "pubDate": "2026-11-20T12:02:46.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms",
+      "link": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
+      "summary": "Taking CO₂ from the air will be needed to reverse warming, scientists say",
+      "pubDate": "2026-11-20T12:00:09.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic market cap in line with Alphaville’s guess",
+      "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
+      "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
+      "pubDate": "2026-11-20T11:57:35.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Worldline bolstered cash flow through delayed payments and early receipts",
+      "link": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
+      "summary": "French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning",
+      "pubDate": "2026-11-20T11:34:28.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+      "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+      "summary": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
+      "pubDate": "2026-11-20T08:52:29.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "A bubble in . . . defensive stocks?",
+      "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+      "summary": "Plus, crypto and desperation",
+      "pubDate": "2026-11-20T06:30:06.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "So, Anthropic is finally a public company. What now?",
+      "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+      "summary": "A blockbuster IPO postmortem",
+      "pubDate": "2026-11-20T05:19:35.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+      "summary": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.",
+      "pubDate": "2026-11-19T22:03:40.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
+      "summary": "Federal Reserve Governor Lisa Cook sees an urgent need for the US central bank to raise interest rates to bring down inflation. Cook said Friday at a conference at Chile’s central bank in Santiago, “Inflation has been above target for more than five and a half years, and every ad",
+      "pubDate": "2026-11-20T18:25:07.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+      "summary": "Copper sank to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+      "pubDate": "2026-11-20T03:03:05.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+      "summary": "A global flight from risk is catching Argentina at a vulnerable moment, deepening a bond selloff fueled by anxiety over next year’s election and pushing its debt into distressed territory for the first time in two years.",
+      "pubDate": "2026-11-20T18:12:35.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
+      "summary": "The Australian dollar will stand out among developed-market currencies next year as it will reap the benefits of the artificial intelligence buildout, weathering the recent stock selloff, according to Andrew Watrous at Morgan Stanley.",
+      "pubDate": "2026-11-20T18:06:59.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "SEC’s Daly on a Rapidly Evolving ETF Market",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
+      "summary": "Brian Daly, Director of the Division of Investment Management at the SEC, joins Bloomberg's Isabelle Lee at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Daly discusses the rapid evolution of the ETF market, the SEC’s approach to novel products and why ",
+      "pubDate": "2026-11-20T18:00:02.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
+      "summary": "Robinhood Markets Chief Brokerage Officer Steve Quirk joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Quirk discusses how younger investors are trading th",
+      "pubDate": "2026-11-20T17:54:57.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
+      "summary": "Claudia Sahm, Chief Economist at New Century Advisors, joined Bloomberg's Paul Sweeney and Scarlet Fu to discuss her latest column, \"AI Is Coming for the Economists in the White House.\" \nThe AI debate, which economists have been having for years in various contexts, has come for ",
+      "pubDate": "2026-11-20T17:48:42.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "BI Survey: Budgetary Constraints for 2027 Travel",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
+      "summary": "Jody Lurie, Bloomberg Intelligence Credit Analyst, discussed her recent Bloomberg Survey covering budgetary constraints for 2027 travel. Lurie spoke with Bloomberg's Paul Sweeney and Scarlet Fu.on her recent BI surveys.\nUS vacationers appear poised to spend more in 2027, but infl",
+      "pubDate": "2026-11-20T17:48:32.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Nov. 20",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+      "summary": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample crude supplies.",
+      "pubDate": "2026-11-19T23:05:51.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T18:18:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Sandisk Stock Looked Like It Fell 87%. Here’s What Really Happened.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdzZXbzZ2NzJwT09lYXQ5aHBVdVhsd1cxeV82TXJwVXZrd2FsYmwzN1g1MHdybmdfLWw3ekk1anpjSEM1d2pId19GenJGUTVnMU1paUFBdDNsbnJRbjBnV0ZzR3A2NWdVaDBIMU9RRXRHLUxBOEdORHE1Y1hDZkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T17:02:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNldhalBiZklRZ3ExMXViMU1CTWExTFh5SHhRSEVaSWJ0UmVlQS1lQnNsRVIwTDNtVHFuYVFXcGpnbkJ4V0ZDNmg4Y2dMSzBFV1BMNEJRSkRwTVd1bFRIZTlnOFhDdFhsakh0dlpkNml5aVU4TVJzSXFQNjUzNmY1ZXRZQjlpNnEtQVE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T16:31:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The AI Bubble Is ‘About to Burst.’ Sell the S&P 500 and Buy This Instead, Analyst Says.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1adzZRaUVhV2Fvd0lYWFBfUTJxYXVCNm8xLUJWUFUxX0U1MG9GZFlqOVhtY0RPOFpqc3dhNURDZGYxMHE5bXM4eFJqTmRBNDNvM3F6cUtQSWpGQ1V0UW1OYlptaEIzMkFEOXFFaV9oTTdhaG54aWZIMlFnQVE2UQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-19T13:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcGZSWnVMVkQ3b251M19WRk1UaENsQklYWmc5d3ZBTnQzQXowY1hoSTAyWlZCWFdBZVRBbV91Y0syanZNc0tWV2ZEeFVqX05pMW51cXhCd3U0X0NicXZXaDhGdjg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T15:59:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakp6anlCQUZVSFA1UndCNy1vOHZya0pKUjNDSmJvQnZfYXlBRHlnbXo1djUxTXJ3VzNrdnRuYUdENElkLVVkTkxucVBBU0l6OVpKYk82VVBSVl9TSXFtckpUX2txOWIyNnByb3pFUjVzTFZYcFk4R25LYkdkWFVaNEtB?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T11:59:56.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Three Ways SpaceX Stock Can Buck the AI Slump",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CbGJVWF9leFZ3ckdaRUE0cGF6VldrOFJQTUd3eHpaOFVfNG14SzdXOUVIaHFmd2ZUZXkta2xVOUp2dlFDZks2cFphdzdRYU5sOEd3R3pveVpIYzlXTDFkcFI1c2RfczVtSHBBTUpEZVZoRm9sdGlVTA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T11:55:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Don’t Sell Tesla Stock. A Merger Is Coming.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tcWZUMmlkYmtfMXFMWVc5Q2FBYzlKUURFRzhBeGh1aHFhU09lZU1uVzktVUQwTks3N00xd3lIR3dVOHI1VXdyRU1lcE4wVEtHNmJ3MXJpQ3h5Mjhza1ZuZ0RULTZUNjJDeG1uT3VNTi00S04tbGc?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T15:24:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "This Top AI Energy Supply Stock Is Down for a 7th Day. Why Fortune Favors the Bold.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUjV3TUlsZzFtZ0FsQllmbEEwY3p5YlhXYlh2QXlIMncza3ViazFIVmduclU4T2ZLcE0yYU16emE2Tmlhc3Q1U2RJVnNkRTAxSlEwQnBsQlltOG5JU3N6SDlsZXA0ZXVGSjFFd0NUaWxRWFpLbG50Yg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T18:23:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The Stock Market Has Problems Even Anthropic Can’t Solve",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T15:46:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "pubDate": "2026-11-20T18:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "pubDate": "2026-11-20T18:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+      "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+      "pubDate": "2026-11-20T17:49:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+      "pubDate": "2026-11-20T17:47:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+      "pubDate": "2026-11-20T17:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+      "pubDate": "2026-11-20T17:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "pubDate": "2026-11-20T17:05:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "pubDate": "2026-11-20T16:37:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+      "pubDate": "2026-11-20T16:19:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
+      "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+      "summary": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a new Medicare for All proposal",
+      "pubDate": "2026-11-20T15:53:00.000Z"
+    }
+  ]
+}
