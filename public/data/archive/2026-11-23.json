@@ -1,0 +1,690 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T22:24:59.725Z",
+  "curated": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+      "summary": "Nasdaq rebounds 6.5% after Friday’s bloodbath",
+      "pubDate": "2026-11-23T09:52:53.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "WSJ",
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
+      "pubDate": "2026-11-23T21:45:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+      "summary": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
+      "pubDate": "2026-11-23T17:36:34.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+      "pubDate": "2026-11-23T22:04:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Wall Street Storms Back as AI Trade Rebounds With Huang’s Return",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "summary": "US stocks staged a stunning rally on Monday, bouncing back from last week’s brutal technology-led selloff as the surprise return of Jensen Huang to lead Nvidia Corp. propelled Wall Street to its best day since April 2025.",
+      "pubDate": "2026-11-23T21:42:36.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
+      "summary": "In the heat of Friday’s meltdown, Wall Street wondered what could stop the bleeding in the artificial intelligence trade that had been powering the stock market for years but was suddenly on the ropes.",
+      "pubDate": "2026-11-23T21:29:12.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+      "pubDate": "2026-11-23T21:51:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+      "pubDate": "2026-11-23T21:45:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+      "pubDate": "2026-11-23T21:19:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
+      "pubDate": "2026-11-23T21:12:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "The Stock Market Rebound Is Here for a Good Time, Not a Long Time",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2xrTE1GVmFMbXM5VHhqX01PN1A4OHJhLTktcmswbm9RTHBnUXBmbmFneGw5b0ZXUGZoSDFrakFOZG1MbXRzQUkzcDhfaEJicGItMVNEaDhBWlRvYVlMNEZJLVoycjNKaHl2SGhkUkM2eVZ2Q2dQM01nUWhkTmZfRA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T15:51:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+      "pubDate": "2026-11-23T12:21:55.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Wall Street set to rebound after AI stock sell-off",
+      "link": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+      "summary": "Also in today’s newsletter: Democrats win House seat in North Carolina and how China is winning the car war",
+      "pubDate": "2026-11-23T10:58:12.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Asian regulators rush to support sagging markets as AI trade falters",
+      "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+      "pubDate": "2026-11-23T06:07:01.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nasdaq jumps 7% as Nvidia shares soar",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%",
+      "pubDate": "2026-11-23T22:01:02.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:27:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+      "pubDate": "2026-11-23T21:24:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nvidia Soars 31% as Jensen Huang Returns, Sparking $3 Trillion Rally | Closing Bell",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "pubDate": "2026-11-23T21:22:15.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOGZLdkZ3eG5sMjNFekMxWEI4QTNUWC1QcmRWblNXSGVUMkxiVUo2RU85c05sM2RENlJ3elFvZ1htRWV6V0lYM3Nhc1FpV3BwRVZoU19hZmtJRjBRUjNHVkZQMmM1cGNxSjB4RllEY2JlOGhlLVppcjVsdUFCM1U?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T19:58:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Jumps 18%. Why the Rally Has Legs.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVnhuVHFCalhhbUd5aXFSeHNMa2MxOUJJMDlQQWRHWnhNR3Q1U29OX3duQjVZYlhHY002QzhvUmJ4aWNpM1RpY2FiWjlGQ2J3X2VxZ21NNC1JVnczR3NsZi1OVkNlNmZQN2ZYX09KMDQ2bHlLZGJNY293YU5hdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T18:52:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "What happens when bubbles burst",
+      "link": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+      "summary": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall",
+      "pubDate": "2026-11-23T16:00:11.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "summary": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
+      "pubDate": "2026-11-23T14:20:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Federal Reserve’s balance sheet yo-yo",
+      "link": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+      "summary": "Recent money market stress is likely to prompt the Fed to expand its balance sheet before action next year to shrink it",
+      "pubDate": "2026-11-23T05:30:02.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "summary": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+      "pubDate": "2026-11-23T00:28:03.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Nov. 23",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+      "summary": "Oil fell, as investors unwound hedges against a weekend escalation by US forces in Iran amid signs Washington is taking a more dovish stance for now.",
+      "pubDate": "2026-11-22T23:06:06.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Stock Futures Are Rebounding After Last Week’s Bloodbath",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VWxtM0ZWSE4tdFNiQTdEcEw1S1N6c256cjQ3YUZxb0YwV29RUEttYWNRZGdOQjRmSzhLU0dfa3JGZGpRSFgtZElWVnFOb2h3RkhpUU05U3I2LTF1ZjNjZUViV1daME1McDRhR1h3RnBaTkgyQU9JQk1n?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-22T23:04:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+      "pubDate": "2026-11-23T21:36:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Jensen Huang Is Back at Nvidia. The Stock Is Surging, but the Problems Remain.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN3hxWUc4RGwweVk4bk9Kak9VT21rd0czY1V3bzQ4anFGUERTYlJNRzk5eUozQ2dPU0oxMzk4Xzk0akJrQU8ya2w5clZWYnlFNHJ1amhkenU1QUt5T3BseGlueHZBNHVFTjNkajJzQnpwTkk?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:13:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
+      "pubDate": "2026-11-23T14:44:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+      "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+      "pubDate": "2026-11-22T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+      "summary": "Nasdaq rebounds 6.5% after Friday’s bloodbath",
+      "pubDate": "2026-11-23T09:52:53.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
+      "pubDate": "2026-11-23T21:45:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
+      "pubDate": "2026-11-23T21:12:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
+      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
+      "summary": "The Nvidia CEO’s return is bad on multiple levels, and doesn’t remove serious challenges facing the AI ecosystem in general or the company in particular.",
+      "pubDate": "2026-11-23T18:32:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
+      "pubDate": "2026-11-23T14:44:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "summary": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
+      "pubDate": "2026-11-23T14:20:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Pouncing on Anthropic Won’t Make You Rich",
+      "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
+      "summary": "Plus, tech rises from the ashes.",
+      "pubDate": "2026-11-23T11:28:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+      "pubDate": "2026-11-23T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+      "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+      "pubDate": "2026-11-22T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+      "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+      "pubDate": "2026-11-20T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nasdaq jumps 7% as Nvidia shares soar",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%",
+      "pubDate": "2026-11-23T22:01:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The leveraged short Nvidia ETFs have just blown up",
+      "link": "https://www.ft.com/content/6a18ca6e-e85a-4f07-b8ff-08344b982609",
+      "summary": "You love to see it",
+      "pubDate": "2026-11-23T17:44:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "SpaceX’s big bad Black Friday bond hangover",
+      "link": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
+      "summary": "🪐 🚀",
+      "pubDate": "2026-11-23T16:41:40.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "DR Congo reimposes cobalt export ban to shore up prices",
+      "link": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
+      "summary": "Move marks second time in two years that the world’s top producer of the metal has cut off supply to try to gain leverage over market",
+      "pubDate": "2026-11-23T16:13:19.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "What happens when bubbles burst",
+      "link": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+      "summary": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall",
+      "pubDate": "2026-11-23T16:00:11.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+      "pubDate": "2026-11-23T12:21:55.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Wall Street set to rebound after AI stock sell-off",
+      "link": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+      "summary": "Also in today’s newsletter: Democrats win House seat in North Carolina and how China is winning the car war",
+      "pubDate": "2026-11-23T10:58:12.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "From rotation to contagion",
+      "link": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+      "summary": "Plus, chips are not cheap",
+      "pubDate": "2026-11-23T06:30:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Asian regulators rush to support sagging markets as AI trade falters",
+      "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+      "pubDate": "2026-11-23T06:07:01.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Federal Reserve’s balance sheet yo-yo",
+      "link": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+      "summary": "Recent money market stress is likely to prompt the Fed to expand its balance sheet before action next year to shrink it",
+      "pubDate": "2026-11-23T05:30:02.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Nov. 23",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+      "summary": "Oil fell, as investors unwound hedges against a weekend escalation by US forces in Iran amid signs Washington is taking a more dovish stance for now.",
+      "pubDate": "2026-11-22T23:06:06.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Jensen Huang Returns to Nvidia Offices",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-23/jensen-huang-returns-to-nvidia-offices-video",
+      "summary": "Jensen Huang returned to the company’s Santa Clara, California, offices on Monday to applause and cheers from employees who shared videos. He spoke with them briefly at one of the entrances (Source: Bloomberg)",
+      "pubDate": "2026-11-23T21:46:13.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Wall Street Storms Back as AI Trade Rebounds With Huang’s Return",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "summary": "US stocks staged a stunning rally on Monday, bouncing back from last week’s brutal technology-led selloff as the surprise return of Jensen Huang to lead Nvidia Corp. propelled Wall Street to its best day since April 2025.",
+      "pubDate": "2026-11-23T21:42:36.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+      "summary": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
+      "pubDate": "2026-11-23T17:36:34.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
+      "summary": "In the heat of Friday’s meltdown, Wall Street wondered what could stop the bleeding in the artificial intelligence trade that had been powering the stock market for years but was suddenly on the ropes.",
+      "pubDate": "2026-11-23T21:29:12.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Jensen Huang’s Return, Nvidia ETFs Surge",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-23/etf-iq-11-23-2026-video",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Roundhill Investments Chief Investment Strategist Drew Pettit, Proshares Executive Director Tactical Products I",
+      "pubDate": "2026-11-23T21:22:58.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nvidia Soars 31% as Jensen Huang Returns, Sparking $3 Trillion Rally | Closing Bell",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-soars-on-jensen-huang-return-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "pubDate": "2026-11-23T21:22:15.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US-Backed Firm to Ink Venezuela Dredging Deal to Aid Oil Exports",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-backed-firm-to-ink-venezuela-dredging-deal-to-aid-oil-exports",
+      "summary": "The US-backed firm working to help revive Venezuela’s oil production plans to sign a dredging deal to make it easier to export from a lake in the heart of the nation’s oldest oilfields.",
+      "pubDate": "2026-11-23T21:17:54.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/ex-volkswagen-engineer-admits-to-insider-trading-on-rivian-deal",
+      "summary": "A former Volkswagen AG engineer admitted trading on secret information about the German carmaker’s planned $5 billion joint venture with electric-vehicle maker Rivian Automotive Inc.",
+      "pubDate": "2026-11-23T21:17:09.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "summary": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+      "pubDate": "2026-11-23T00:28:03.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Jensen Huang Is Back at Nvidia. The Stock Is Surging, but the Problems Remain.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN3hxWUc4RGwweVk4bk9Kak9VT21rd0czY1V3bzQ4anFGUERTYlJNRzk5eUozQ2dPU0oxMzk4Xzk0akJrQU8ya2w5clZWYnlFNHJ1amhkenU1QUt5T3BseGlueHZBNHVFTjNkajJzQnpwTkk?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:13:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Stock Futures Are Rebounding After Last Week’s Bloodbath",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VWxtM0ZWSE4tdFNiQTdEcEw1S1N6c256cjQ3YUZxb0YwV29RUEttYWNRZGdOQjRmSzhLU0dfa3JGZGpRSFgtZElWVnFOb2h3RkhpUU05U3I2LTF1ZjNjZUViV1daME1McDRhR1h3RnBaTkgyQU9JQk1n?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-22T23:04:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:27:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Jensen Huang’s Shameless Return Is a New Low for the Era of Impunity",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51c0FQdUhES05VeVFsa3NMemZ6cjZERWlJSW54M0xnZkZnWEJud3U4aDFMT3dtQ0hIMjdha1NSVEgtZkZWNEZoTGMxZDhQaUl6V1JfVXdUN3hiN1NxNzdVbEFEdmlPUkZRdm5IdjNwTmNIUXM?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:00:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOGZLdkZ3eG5sMjNFekMxWEI4QTNUWC1QcmRWblNXSGVUMkxiVUo2RU85c05sM2RENlJ3elFvZ1htRWV6V0lYM3Nhc1FpV3BwRVZoU19hZmtJRjBRUjNHVkZQMmM1cGNxSjB4RllEY2JlOGhlLVppcjVsdUFCM1U?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T19:58:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Surges as Trump Calls for Huang Return. Is the Selling Finally Over?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1otYkdwei10RG1YQjhIQTI1emxlUFVjZENJczhqbnJybVkyWWVGSGgxMVRySk00RlgwVU1rclMtRUNmRHJHYWR5eE5mZTk5c0s5M0lOQTlzSW1FSVp5RkhKSi1ncmlmQXBTQ3dNTHY4UkdCS2dPVW4xcEJ4b1RoZkRpWFRSZw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T13:13:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Jumps 18%. Why the Rally Has Legs.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVnhuVHFCalhhbUd5aXFSeHNMa2MxOUJJMDlQQWRHWnhNR3Q1U29OX3duQjVZYlhHY002QzhvUmJ4aWNpM1RpY2FiWjlGQ2J3X2VxZ21NNC1JVnczR3NsZi1OVkNlNmZQN2ZYX09KMDQ2bHlLZGJNY293YU5hdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T18:52:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The Stock Market Rebound Is Here for a Good Time, Not a Long Time",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2xrTE1GVmFMbXM5VHhqX01PN1A4OHJhLTktcmswbm9RTHBnUXBmbmFneGw5b0ZXUGZoSDFrakFOZG1MbXRzQUkzcDhfaEJicGItMVNEaDhBWlRvYVlMNEZJLVoycjNKaHl2SGhkUkM2eVZ2Q2dQM01nUWhkTmZfRA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T15:51:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The Case for Buying Nvidia Stock Now",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3Vhb2ViR3ZfTnNDbjNWZzhIODQtWldkVWhHMWNaSWFaVU16bW5DMlI2empuV1hoVGtKUHZHWW9FdUQyV0drSGt0cUlMeDczc2xDLWc1SERKT3hPQ2h6UnBBZDJRRnpQaS1Wb1B6cnpST0pKdFd2R21XSHB2dEtadGtiYlk?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T23:15:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVVTTzc5d2l6WUZONEdsbXBod1RldnRDc3FzcnljZHRyQmpsQVh5eGdoeEsyRmRBU0xYeVV4VkRnUF9BbXhFQ3RTU05wMUwtLUo4WENKNjhyNy1kVGN3NnU1MEx4LTV6TWd5SmxXNFFUOXhiV2dfVFJkeEZVM0xqbzdB?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-20T11:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+      "pubDate": "2026-11-23T22:04:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+      "pubDate": "2026-11-23T21:51:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+      "pubDate": "2026-11-23T21:45:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+      "pubDate": "2026-11-23T21:36:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+      "pubDate": "2026-11-23T21:33:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "pubDate": "2026-11-23T21:28:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+      "pubDate": "2026-11-23T21:24:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+      "pubDate": "2026-11-23T21:19:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "pubDate": "2026-11-23T21:15:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "pubDate": "2026-11-23T21:00:00.000Z"
+    }
+  ]
+}
