@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T20:58:22.732Z",
+  "curated": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic drops sharply, sinking below its IPO price",
+      "pubDate": "2026-11-24T09:53:51.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 8
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Sinks as AI Rout Fuels Gains in Bonds: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "summary": "Wall Street’s doubts about the durability of the artificial-intelligence trade spurred losses in technology stocks while driving investors to the safety of bonds.",
+      "pubDate": "2026-11-23T22:06:46.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 8
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Advance as Stocks Fall, Reviving Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+      "summary": "Treasuries rose on haven demand as US stocks surrendered a portion of Monday’s steep gains, suggesting investors remain uneasy about the potential for technology investment to continue to drive economic growth.",
+      "pubDate": "2026-11-24T04:42:33.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "WSJ",
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
+      "pubDate": "2026-11-23T21:45:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "summary": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
+      "pubDate": "2026-11-24T19:31:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+      "summary": "Trend-chasing quant funds are trimming their long-held short positions in US Treasuries, fueling a bond rally as an equity selloff revives haven demand for government debt.",
+      "pubDate": "2026-11-24T19:08:17.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
+      "summary": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.",
+      "pubDate": "2026-11-24T09:45:27.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "pubDate": "2026-11-24T20:07:51.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "These Technical Measures Warned of Stock Market Whiplash",
+      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+      "summary": "Plus, the Trillion Dollar Man",
+      "pubDate": "2026-11-24T11:10:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
+      "pubDate": "2026-11-23T21:12:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "MarketWatch",
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "summary": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
+      "pubDate": "2026-11-24T19:48:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG8xbE9VS2k4WFBkbmRUcFNPa2tkOTFzVVBnLWJfaERmNllLa0ItdVYtR1hmbDFUcnI5ZGlDN0IteFAzem9XclBheHd0VmFzSGZucEVzdmxhT283dTF5M2FRVVRvVHpicFVNT05TQzJRR2p6U01fMTNqWFh6emdvQkxsaW8yUQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T19:17:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "pubDate": "2026-11-24T16:01:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock Got a New Buy Rating—Sort Of. Why Shares Can Soar 90%.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GU0lWNWRrMHN4clJjZ2V0MlVuUXJpdG9EekVKM2JudkJxclZ6VjJpdE1SbWtGTU1VdE1JWVMtUl9NRjFLZHZqbDh1TktmT0NxUExmT1pvSkI0LVZjREtkcmNPU1o5bE83cGZSbnU0MWhhajg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T14:57:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dealing with an energy market both tight and loose",
+      "link": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
+      "summary": "Inflationary pressures remain in diesel and jet fuel prices despite a glut of gasoline",
+      "pubDate": "2026-11-24T12:30:04.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Jumps 19%. Why the Rally Has Legs.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVnhuVHFCalhhbUd5aXFSeHNMa2MxOUJJMDlQQWRHWnhNR3Q1U29OX3duQjVZYlhHY002QzhvUmJ4aWNpM1RpY2FiWjlGQ2J3X2VxZ21NNC1JVnczR3NsZi1OVkNlNmZQN2ZYX09KMDQ2bHlLZGJNY293YU5hdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T22:17:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:27:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOGZLdkZ3eG5sMjNFekMxWEI4QTNUWC1QcmRWblNXSGVUMkxiVUo2RU85c05sM2RENlJ3elFvZ1htRWV6V0lYM3Nhc1FpV3BwRVZoU19hZmtJRjBRUjNHVkZQMmM1cGNxSjB4RllEY2JlOGhlLVppcjVsdUFCM1U?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T19:58:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
+      "summary": "Netflix Inc. announced it’s buying Radford Studio Center, the historic Los Angeles lot where Seinfeld was filmed, for $380 million after Goldman Sachs Group Inc. took control of the property.",
+      "pubDate": "2026-11-24T20:15:34.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+      "summary": "The Canadian dollar is headed for its biggest gain in more than three months after the head of the Bank of Canada warned higher oil costs will further drive up consumer prices, compounding persistent inflation.",
+      "pubDate": "2026-11-24T19:31:25.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "pubDate": "2026-11-24T18:33:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T18:16:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "CrowdStrike bucks Silicon Valley’s invincible-founder trend",
+      "link": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
+      "summary": "The cyber security company’s share fall after its merger with peer Zscaler shows the limits of investor patience with charismatic leaders",
+      "pubDate": "2026-11-24T12:49:55.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "BlackRock wants to launch private market ETFs. Because of course it does",
+      "link": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
+      "summary": "A sudden ETIFany",
+      "pubDate": "2026-11-24T12:23:52.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ousted BP chair Albert Manifold to join Aggreko board after IPO",
+      "link": "https://www.ft.com/content/99b832dc-dd09-4eac-8121-dacc246a306e?syn-25a6b1a6=1",
+      "summary": "Manifold responds to bullying allegations levelled against him and calls them ‘lies’",
+      "pubDate": "2026-11-24T10:12:31.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "WSJ",
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "summary": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "pubDate": "2026-11-23T22:25:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market Today: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic drops sharply, sinking below its IPO price",
+      "pubDate": "2026-11-24T09:53:51.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "pubDate": "2026-11-24T16:01:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "These Technical Measures Warned of Stock Market Whiplash",
+      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+      "summary": "Plus, the Trillion Dollar Man",
+      "pubDate": "2026-11-24T11:10:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+      "pubDate": "2026-11-24T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "summary": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "pubDate": "2026-11-23T22:25:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
+      "pubDate": "2026-11-23T21:45:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
+      "pubDate": "2026-11-23T21:12:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+      "pubDate": "2026-11-23T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+      "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+      "pubDate": "2026-11-22T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+      "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+      "pubDate": "2026-11-20T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "pubDate": "2026-11-24T20:07:51.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ex-Petrofac executives accused of paying millions to win $3.4bn of contracts",
+      "link": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba?syn-25a6b1a6=1",
+      "summary": "Marwan Chedid and George Salibi are on trial for involvement in alleged bribery for UAE oil and gas deals between 2012 and 2018",
+      "pubDate": "2026-11-24T17:01:25.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Banks regain some ground in the private credit tug of war",
+      "link": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
+      "summary": "For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity",
+      "pubDate": "2026-11-24T14:46:28.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Is the SEC cutting red tape or torching safeguards?",
+      "link": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
+      "summary": "The slimmed-down proposal will please corporate executives, but what about shareholders?",
+      "pubDate": "2026-11-24T14:12:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "CrowdStrike bucks Silicon Valley’s invincible-founder trend",
+      "link": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
+      "summary": "The cyber security company’s share fall after its merger with peer Zscaler shows the limits of investor patience with charismatic leaders",
+      "pubDate": "2026-11-24T12:49:55.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dealing with an energy market both tight and loose",
+      "link": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
+      "summary": "Inflationary pressures remain in diesel and jet fuel prices despite a glut of gasoline",
+      "pubDate": "2026-11-24T12:30:04.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "BlackRock wants to launch private market ETFs. Because of course it does",
+      "link": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
+      "summary": "A sudden ETIFany",
+      "pubDate": "2026-11-24T12:23:52.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "COP31’s fossil fuels fight and the limits of carbon capture",
+      "link": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
+      "summary": "Also in today’s newsletter, China’s dream of hydrogen-powered transport falters",
+      "pubDate": "2026-11-24T12:00:05.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "China extends pause in controls on critical mineral exports to US",
+      "link": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
+      "summary": "Beijing’s dominance of supply chains has given it leverage against Washington",
+      "pubDate": "2026-11-24T10:21:16.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ousted BP chair Albert Manifold to join Aggreko board after IPO",
+      "link": "https://www.ft.com/content/99b832dc-dd09-4eac-8121-dacc246a306e?syn-25a6b1a6=1",
+      "summary": "Manifold responds to bullying allegations levelled against him and calls them ‘lies’",
+      "pubDate": "2026-11-24T10:12:31.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Advance as Stocks Fall, Reviving Haven Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+      "summary": "Treasuries rose on haven demand as US stocks surrendered a portion of Monday’s steep gains, suggesting investors remain uneasy about the potential for technology investment to continue to drive economic growth.",
+      "pubDate": "2026-11-24T04:42:33.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
+      "summary": "Netflix Inc. announced it’s buying Radford Studio Center, the historic Los Angeles lot where Seinfeld was filmed, for $380 million after Goldman Sachs Group Inc. took control of the property.",
+      "pubDate": "2026-11-24T20:15:34.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Nov. 24",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+      "summary": "Oil edged higher in thin trading as reports of further tanker attacks overshadowed the latest diplomatic efforts to resolve the US-Iran war.",
+      "pubDate": "2026-11-23T23:04:12.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Sinks as AI Rout Fuels Gains in Bonds: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "summary": "Wall Street’s doubts about the durability of the artificial-intelligence trade spurred losses in technology stocks while driving investors to the safety of bonds.",
+      "pubDate": "2026-11-23T22:06:46.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
+      "summary": "Advent is considering a bid to acquire French testing firm Bureau Veritas SA, people with knowledge of the matter said, in what would be one of the largest buyouts of a European company this year.",
+      "pubDate": "2026-11-24T19:58:23.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
+      "summary": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.",
+      "pubDate": "2026-11-24T09:45:27.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+      "summary": "The Canadian dollar is headed for its biggest gain in more than three months after the head of the Bank of Canada warned higher oil costs will further drive up consumer prices, compounding persistent inflation.",
+      "pubDate": "2026-11-24T19:31:25.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+      "summary": "The Brazilian real rallied by the most in nearly two months on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the currency down since his surprise re-election.",
+      "pubDate": "2026-11-24T15:12:01.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+      "summary": "Trend-chasing quant funds are trimming their long-held short positions in US Treasuries, fueling a bond rally as an equity selloff revives haven demand for government debt.",
+      "pubDate": "2026-11-24T19:08:17.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "FHFA Clears FICO 10T Scores for Fannie Mae and Freddie Mac",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/fhfa-clears-fico-10t-scores-for-fannie-mae-and-freddie-mac",
+      "summary": "Fannie Mae and Freddie Mac will allow FICO 10T credit scores, the Federal Housing Finance Agency announced Tuesday.",
+      "pubDate": "2026-11-24T18:48:49.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZ3dObUpYUENEWWp5NG43UDdpMlI0ZVdPRUp5clkzTXg1UlhCYVFlem9wYzU2eEV2UENYSXRHZjhTb1kxRlI5MXpvRFJ0dTJ3eElCeU01OGJWRUFvdHM5LV9GZkJiWnlOYW9IMFIxRQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T18:12:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T18:16:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock Got a New Buy Rating—Sort Of. Why Shares Can Soar 90%.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GU0lWNWRrMHN4clJjZ2V0MlVuUXJpdG9EekVKM2JudkJxclZ6VjJpdE1SbWtGTU1VdE1JWVMtUl9NRjFLZHZqbDh1TktmT0NxUExmT1pvSkI0LVZjREtkcmNPU1o5bE83cGZSbnU0MWhhajg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T14:57:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "E-Commerce Is Unstoppable. But Brick and Mortar May Still Have a Bright Future.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1otZTJjRWtSX1ZXUUV0a0NzTm5UaExWSGxlbjVnUVlpOXRPYkhnSndIU1NsQ1lOSzFEN3EzMklyNmhfZ1Q4bjY4bEFhMkc0UmRtR3htVEZ6R0JBUE1xYktiTXE5OUxCTzFKekVic0Q0UERhengteGtyVTlEYWh2dWtjSnMwV2pPWlRPVjRka0piWUdvS0F4TFBIRTE1NlJ4alVNOGV0UXRhSHpveEpIMjMxT2QzbFhkWE1ELQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T17:47:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG8xbE9VS2k4WFBkbmRUcFNPa2tkOTFzVVBnLWJfaERmNllLa0ItdVYtR1hmbDFUcnI5ZGlDN0IteFAzem9XclBheHd0VmFzSGZucEVzdmxhT283dTF5M2FRVVRvVHpicFVNT05TQzJRR2p6U01fMTNqWFh6emdvQkxsaW8yUQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T19:17:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Jumps 19%. Why the Rally Has Legs.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVnhuVHFCalhhbUd5aXFSeHNMa2MxOUJJMDlQQWRHWnhNR3Q1U29OX3duQjVZYlhHY002QzhvUmJ4aWNpM1RpY2FiWjlGQ2J3X2VxZ21NNC1JVnczR3NsZi1OVkNlNmZQN2ZYX09KMDQ2bHlLZGJNY293YU5hdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T22:17:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOGZLdkZ3eG5sMjNFekMxWEI4QTNUWC1QcmRWblNXSGVUMkxiVUo2RU85c05sM2RENlJ3elFvZ1htRWV6V0lYM3Nhc1FpV3BwRVZoU19hZmtJRjBRUjNHVkZQMmM1cGNxSjB4RllEY2JlOGhlLVppcjVsdUFCM1U?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T19:58:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T21:27:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Jensen Huang’s Shameless Return Is a New Low for the Era of Impunity",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51c0FQdUhES05VeVFsa3NMemZ6cjZERWlJSW54M0xnZkZnWEJud3U4aDFMT3dtQ0hIMjdha1NSVEgtZkZWNEZoTGMxZDhQaUl6V1JfVXdUN3hiN1NxNzdVbEFEdmlPUkZRdm5IdjNwTmNIUXM?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-23T18:03:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Why Analog Devices Stock Is Taking Its Worst Beating Since 2020",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRks3bXJRd1FTYlNkY2tlaVFzTkxFVzNtQjVlQ1BCcnVGMmhPMFJIS1hGWVZSTW9xVEphSHBXVGdpNTRPS1hlTDQta2xSZ1VKTmdqd2RCSVluSGF3OGlkR0ZZOWRadmxaQTBxV3VnUDlISDFuaVE0R1Q4bU83c1ZTU3JRdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T15:13:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
+      "link": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+      "summary": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
+      "pubDate": "2026-11-24T20:42:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "pubDate": "2026-11-24T20:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "pubDate": "2026-11-24T20:16:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "summary": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
+      "pubDate": "2026-11-24T19:48:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "summary": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
+      "pubDate": "2026-11-24T19:31:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
+      "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+      "summary": "Picking your retirement date should include factors beyond finances.",
+      "pubDate": "2026-11-24T19:21:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+      "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "summary": "A “silent epidemic”:  Doctors are rethinking how to diagnose iron deficiency. Here’s what you should know about the science of ferritin.",
+      "pubDate": "2026-11-24T19:02:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+      "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "summary": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
+      "pubDate": "2026-11-24T18:48:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "pubDate": "2026-11-24T18:33:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+      "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+      "summary": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
+      "pubDate": "2026-11-24T18:28:00.000Z"
+    }
+  ]
+}
