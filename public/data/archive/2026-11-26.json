@@ -1,0 +1,626 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T19:57:13.891Z",
+  "curated": [
+    {
+      "source": "Bloomberg",
+      "title": "Gold Hovers Near 15-Month Low as Traders Eye Fed Path, AI Stocks",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "summary": "Gold hovered near the lowest level in about 15 months on Thursday, as investors weighed the prospect of further Federal Reserve rate hikes against a relief rally in wider markets amid a comeback in technology shares.",
+      "pubDate": "2026-11-26T00:18:09.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 10
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+      "pubDate": "2026-11-26T14:58:45.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks rose as investors in Europe and Asia took their cue from a comeback in technology shares on Wall Street after days of sharp swings.",
+      "pubDate": "2026-11-25T22:10:42.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
+      "pubDate": "2026-11-26T13:41:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Copper Rebounds as Tech Rally Lifts Battered Industrial Metals",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+      "summary": "Copper recovered from an 11-month low on Thursday alongside gains in other commodities and technology stocks, as investors returned to riskier assets following days of sharp losses.",
+      "pubDate": "2026-11-26T02:01:10.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "WSJ",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
+      "pubDate": "2026-11-25T09:56:46.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+      "summary": "Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring.",
+      "pubDate": "2026-11-26T19:31:46.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Software stocks spared in tech rout as AI narrative shifts",
+      "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "pubDate": "2026-11-26T05:00:29.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "Oracle Bonds Yield a Towering 9% on Debt and Data-Center Concerns. Are They a Buy?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzk4T3NyQWdORGpJSmNzbkwzZlVCTTEzb2V5VEM1T0VvN0FaaXFxalE5UkdGcFVzTUMzR21kbW1nQTM5SjhzYkNCWEE4UFU3YURTODY2X05fUXpVRzc0NjAta2NZVjZuLWh5aEZBMDdpcEFKdElTQ1hZUFZseTRrTklSRGNTc2Ix?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T21:46:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Financial Times",
+      "title": "Global stocks climb after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "summary": "Tech shares hit this month by fears over whether boom can be sustained",
+      "pubDate": "2026-11-26T16:49:54.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Stock Futures Rise as Dow’s Rebound Goes Global. It Bodes Well for Black Friday Trading.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UmtKSWxxaXFlWk9sdlFzUTZCazZiUzZtNGd5U2lFVXF4T2FpdXdIVlBMVmZFTGNaM3B3OTVMOVhubF80a1Zfd1pzSl9Ic1djOG1PTzRrZEdOaGRJaFZzMUUzbnVmYkpvMTVmT2l0MjBpMGhVQ2Vn?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-26T15:58:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "link": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+      "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
+      "pubDate": "2026-11-26T01:04:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Looking for Bargains? These S&P 500 Companies Are Aggressively Buying Back Stock.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDZhcV9hX2pQRzdycUk5b3lXbldLcHEwVGVwY3ZGVll0UWxVNC1lS1lGQi1IWW1ZM05fVWE4eWJuVXFIcUg5dTdIaWlxbUxocjFTejJVNHdjZ3lOUDVQYzlrRmU2ekJIMGROVGtuRldHSXFWMzJaV3EwTUt2RXAtakNSb05rMlM1UGszUnV1ZUU4RzdGZ0JUclR4Q1IzQWlvUjdwSlhISHl1Mklxa1hXbVpMSFYzMDdP?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T22:16:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "summary": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
+      "pubDate": "2026-11-25T21:48:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Stocks Finish Lower After Wild Session",
+      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+      "summary": "Plus, tariffs are back on the agenda and Nvidia gets a warning",
+      "pubDate": "2026-11-25T21:23:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
+      "link": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
+      "summary": "The billionaire told investors that Third Point overhauled its process for investing in late-stage private companies.",
+      "pubDate": "2026-11-25T19:33:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "summary": "The sharp correction to power stocks creates an opportunity for investors.",
+      "pubDate": "2026-11-25T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Bill Ackman Thinks Investors Are Wrong on Alcon and Intercontinental Exchange Stocks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjU0cF8yZDFLcklhbExqS0tGeDRFN1UtYkZ3WkNMQUczR0Y5a3ZnTXRMVjBOcWFWdk5GNDFBM3BKM1drNm81YTNQUTRDT1hDSzdNcGZJLXhNMzdjU1k0UTZ1dGNVYW5ndHhxNy0tenIybnNUcXB3T1hHV19IQ1hSd3NnUE9weFV0Mk1EWHZsbS1WekdHVHhRUTFoNmVUd3NaQkR3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T20:02:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+      "summary": "Kazakhstan has encouraged domestic banks to lend more than $1 billion to construction tycoon Shakhmurat Mutalip and revised financing regulations to help him buy gold miner AK Altynalmas JSC, according to people familiar with the matter.",
+      "pubDate": "2026-11-26T17:35:40.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Halts Server Shipments to Southeast Asia, Says Report. The Stock Can’t Catch a Break.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZwTC1tbVoyVFBCQVY5MlpGa296SzNNUGpXT195Z19tamNhMGx5RFk0OHhKcEVpa0RGTnFWYjd2UWIwUFZOY295RUhaWkNrMUNET1I5cUUxLW4zejJRUjE2TkNma1ZjcnpucDJFeHNXNkp6S2E4VGFRNzl3WXBWZUVFNG1kcy1k?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-26T13:59:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "summary": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the biggest UK acquisitions in a decade.",
+      "pubDate": "2026-11-26T13:08:53.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "VC investors dump old funds at steep discounts to chase AI riches",
+      "link": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+      "summary": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
+      "pubDate": "2026-11-26T11:00:06.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "It’s an earnings bubble, not a valuation bubble",
+      "link": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+      "summary": "The difference matters",
+      "pubDate": "2026-11-26T07:30:10.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Gold Has Plunged 36%. What’s the Point of Owning It?",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hZ2VBQVBkNEwxYVR0WW1jalFHUTFOMFVSRks3YTR6OThWbzluQ2E2bVZMODFYMU51ZFFyUzhDUUlaNzRlQjRsWWdNbGhKZ2xldkoyMi1XMkhJaXB6M3J3aUd3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T18:21:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
+      "pubDate": "2026-11-25T09:56:46.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
+      "summary": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
+      "pubDate": "2026-11-26T02:00:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "link": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+      "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
+      "pubDate": "2026-11-26T01:04:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "summary": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "pubDate": "2026-11-25T22:27:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "summary": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
+      "pubDate": "2026-11-25T21:48:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Stocks Finish Lower After Wild Session",
+      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+      "summary": "Plus, tariffs are back on the agenda and Nvidia gets a warning",
+      "pubDate": "2026-11-25T21:23:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
+      "link": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
+      "summary": "The billionaire told investors that Third Point overhauled its process for investing in late-stage private companies.",
+      "pubDate": "2026-11-25T19:33:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "summary": "The sharp correction to power stocks creates an opportunity for investors.",
+      "pubDate": "2026-11-25T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+      "pubDate": "2026-11-24T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+      "pubDate": "2026-11-23T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+      "pubDate": "2026-11-26T17:13:40.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Global stocks climb after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "summary": "Tech shares hit this month by fears over whether boom can be sustained",
+      "pubDate": "2026-11-26T16:49:54.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+      "pubDate": "2026-11-26T14:58:45.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "British and European banks have taken on a lot of France risk",
+      "link": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+      "summary": "Toulouse or not Toulouse",
+      "pubDate": "2026-11-26T13:32:02.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trafigura calls for greater European metals support after zinc shutdown",
+      "link": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
+      "summary": "The trading house will close Dutch zinc operations after calling for greater government help with power costs",
+      "pubDate": "2026-11-26T12:00:09.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "VC investors dump old funds at steep discounts to chase AI riches",
+      "link": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+      "summary": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
+      "pubDate": "2026-11-26T11:00:06.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "FCA admits miscalculating compensation in £9bn car mis-selling redress scheme",
+      "link": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+      "summary": "UK financial regulator’s error risks further delays to payments for millions of consumers",
+      "pubDate": "2026-11-26T08:40:24.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "It’s an earnings bubble, not a valuation bubble",
+      "link": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+      "summary": "The difference matters",
+      "pubDate": "2026-11-26T07:30:10.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "The debtlike deals beating buyouts",
+      "link": "https://www.ft.com/content/0d0a770d-39d6-45cd-89e4-7877d2448cf1?syn-25a6b1a6=1",
+      "summary": "Hybrid capital has become one of private equity’s most talked-about asset classes",
+      "pubDate": "2026-11-26T05:00:29.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Software stocks spared in tech rout as AI narrative shifts",
+      "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "pubDate": "2026-11-26T05:00:29.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+      "summary": "Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring.",
+      "pubDate": "2026-11-26T19:31:46.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Copper Rebounds as Tech Rally Lifts Battered Industrial Metals",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+      "summary": "Copper recovered from an 11-month low on Thursday alongside gains in other commodities and technology stocks, as investors returned to riskier assets following days of sharp losses.",
+      "pubDate": "2026-11-26T02:01:10.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks rose as investors in Europe and Asia took their cue from a comeback in technology shares on Wall Street after days of sharp swings.",
+      "pubDate": "2026-11-25T22:10:42.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "New Zealand Poised to Learn Who Can Form Its Next Government",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
+      "summary": "New Zealand will learn Friday who is in a position to form its next government, three weeks after an election that was too close to call.",
+      "pubDate": "2026-11-26T18:00:00.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+      "summary": "Banks have lined up €550 million ($603.5 million) of loans to back KKR & Co.’s acquisition of packaging company Logoplaste, according to people familiar with the situation.",
+      "pubDate": "2026-11-26T17:47:30.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+      "summary": "Kazakhstan has encouraged domestic banks to lend more than $1 billion to construction tycoon Shakhmurat Mutalip and revised financing regulations to help him buy gold miner AK Altynalmas JSC, according to people familiar with the matter.",
+      "pubDate": "2026-11-26T17:35:40.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "summary": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the biggest UK acquisitions in a decade.",
+      "pubDate": "2026-11-26T13:08:53.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Hovers Near 15-Month Low as Traders Eye Fed Path, AI Stocks",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "summary": "Gold hovered near the lowest level in about 15 months on Thursday, as investors weighed the prospect of further Federal Reserve rate hikes against a relief rally in wider markets amid a comeback in technology shares.",
+      "pubDate": "2026-11-26T00:18:09.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Latest Oil Market News and Analysis for Nov. 26",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+      "summary": "Oil rose after fluctuating in thin trading during the US holiday as an attack on Saudi refinery threatened to undermine a recovery in the region’s crude exports.",
+      "pubDate": "2026-11-25T23:03:15.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
+      "summary": "Stellantis NV is planning further plant stoppages in Europe in the coming weeks as the carmaker grapples with mounting competition, high costs and weak demand for some models.",
+      "pubDate": "2026-11-26T16:49:16.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Looking for Bargains? These S&P 500 Companies Are Aggressively Buying Back Stock.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDZhcV9hX2pQRzdycUk5b3lXbldLcHEwVGVwY3ZGVll0UWxVNC1lS1lGQi1IWW1ZM05fVWE4eWJuVXFIcUg5dTdIaWlxbUxocjFTejJVNHdjZ3lOUDVQYzlrRmU2ekJIMGROVGtuRldHSXFWMzJaV3EwTUt2RXAtakNSb05rMlM1UGszUnV1ZUU4RzdGZ0JUclR4Q1IzQWlvUjdwSlhISHl1Mklxa1hXbVpMSFYzMDdP?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T22:16:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Keeps Falling. It’s Obvious Jensen Huang Wasn’t the Only Problem.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE95d05EdUt4VmhtanBHWXZjaEZhUktJLXRZaUNqejRZWk1lRW5lRUdUbFhMOGM5OUZBVUNYOVAwZTk0LURzQ3RSZHJTU29QT3dGdWhyTjdaMzJUcUdFaUFMMktvUkx3aWE4LTRvUnYtN3NYZHU0TTJR?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T17:50:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Oracle Bonds Yield a Towering 9% on Debt and Data-Center Concerns. Are They a Buy?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzk4T3NyQWdORGpJSmNzbkwzZlVCTTEzb2V5VEM1T0VvN0FaaXFxalE5UkdGcFVzTUMzR21kbW1nQTM5SjhzYkNCWEE4UFU3YURTODY2X05fUXpVRzc0NjAta2NZVjZuLWh5aEZBMDdpcEFKdElTQ1hZUFZseTRrTklSRGNTc2Ix?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T21:46:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5DdzVueDRtNjAta2lfWkxCZFZNNjhUUlhqU0FucEJhQWN2ZzdGWVhUeFhNUXFkT0haSUhDLS1jaWRJbUdNREloNlk1U0xMY2NGMUJTalUtN1Y3ZUVsMW15STVZUjNaQlY0OUpCcFlTa2FhV3F0dEMtNGpxbHRvUW5NVzdLWHBpU1BuTW96aw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T16:33:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Colette Kress Scored a Win Worth Millions From Huang’s Return to Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWTlkaUJDb25mOGs1NDdvMGlHU3ZFZUZqNDhuQ2I1VGxuU0lPQlNGcV9FV21LUWZHU3VSbW1IXzFqTkpMZ1c5Xy05dDVIU3F0cWRnWmpHc1NPRGlpbzhFU1J0NzkxMmt6R1paWU92UW9HMUI3UFhwSE1oMFhwalRFMWpNWWVWOVJrZ2ctNFVsUXVXRGFoclBoSmVJdw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T17:43:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Bill Ackman Thinks Investors Are Wrong on Alcon and Intercontinental Exchange Stocks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjU0cF8yZDFLcklhbExqS0tGeDRFN1UtYkZ3WkNMQUczR0Y5a3ZnTXRMVjBOcWFWdk5GNDFBM3BKM1drNm81YTNQUTRDT1hDSzdNcGZJLXhNMzdjU1k0UTZ1dGNVYW5ndHhxNy0tenIybnNUcXB3T1hHV19IQ1hSd3NnUE9weFV0Mk1EWHZsbS1WekdHVHhRUTFoNmVUd3NaQkR3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T20:02:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Halts Server Shipments to Southeast Asia, Says Report. The Stock Can’t Catch a Break.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZwTC1tbVoyVFBCQVY5MlpGa296SzNNUGpXT195Z19tamNhMGx5RFk0OHhKcEVpa0RGTnFWYjd2UWIwUFZOY295RUhaWkNrMUNET1I5cUUxLW4zejJRUjE2TkNma1ZjcnpucDJFeHNXNkp6S2E4VGFRNzl3WXBWZUVFNG1kcy1k?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-26T13:59:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Gold Has Plunged 36%. What’s the Point of Owning It?",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hZ2VBQVBkNEwxYVR0WW1jalFHUTFOMFVSRks3YTR6OThWbzluQ2E2bVZMODFYMU51ZFFyUzhDUUlaNzRlQjRsWWdNbGhKZ2xldkoyMi1XMkhJaXB6M3J3aUd3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T18:21:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Stock Futures Rise as Dow’s Rebound Goes Global. It Bodes Well for Black Friday Trading.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UmtKSWxxaXFlWk9sdlFzUTZCazZiUzZtNGd5U2lFVXF4T2FpdXdIVlBMVmZFTGNaM3B3OTVMOVhubF80a1Zfd1pzSl9Ic1djOG1PTzRrZEdOaGRJaFZzMUUzbnVmYkpvMTVmT2l0MjBpMGhVQ2Vn?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-26T15:58:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWnpuMjczNDRkNmZZNlFLVFM1YkZNUXlUcEY4YndVcTNvOWVGc2hwV2M2QWxaamxLc0g4QWdtY2gxZ0xxYTZqMnVmN1B6RVB4VTRRQXc2VzNKTFVTLXBfMUQzbEtZYlcwaDU4UVZoQkZrVXJ6NmZVNA?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T17:46:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "pubDate": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "pubDate": "2026-11-26T18:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "pubDate": "2026-11-26T16:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "pubDate": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "pubDate": "2026-11-26T15:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "pubDate": "2026-11-26T15:13:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "pubDate": "2026-11-26T14:35:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
+      "pubDate": "2026-11-26T14:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
+      "pubDate": "2026-11-26T13:41:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+      "summary": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+      "pubDate": "2026-11-26T13:24:00.000Z"
+    }
+  ]
+}
