@@ -1,0 +1,658 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T19:46:26.094Z",
+  "curated": [
+    {
+      "source": "Bloomberg",
+      "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "summary": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
+      "pubDate": "2026-11-26T21:59:57.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 7
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "summary": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
+      "pubDate": "2026-11-27T02:43:08.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 6
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+      "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
+      "pubDate": "2026-11-27T07:56:20.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Brazil Markets Rally as Trabuco Pick Soothes Fiscal Fears",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "summary": "Brazilian markets rallied after President Luiz Inácio Lula da Silva picked one of the nation’s most prominent bankers to be his finance minister, easing the worries about his economic policies that triggered a deep selloff after his surprise re-election last month.",
+      "pubDate": "2026-11-27T01:08:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 5
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The warnings behind this week’s stock-market rally",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "pubDate": "2026-11-27T18:40:00.000Z",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks rise in latest market swing",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "pubDate": "2026-11-27T17:27:23.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "WSJ",
+      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "summary": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized.",
+      "pubDate": "2026-11-27T05:53:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "WSJ",
+      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+      "summary": "An ironworkers’ retirement plan is now fully funded, thanks largely to the U.S. stock market’s yearslong rally.",
+      "pubDate": "2026-11-26T19:55:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 4
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s Nvidia intervention has a cost for US stocks",
+      "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+      "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+      "pubDate": "2026-11-27T18:26:25.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "summary": "The Nasdaq finished its best week since April, with all three major indexes ending the week strong.",
+      "pubDate": "2026-11-27T18:09:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+      "summary": "Anthropic PBC shares climbed above their $83 initial public offering price as the artificial intelligence lab finished its first calendar week on the Nasdaq after its record-setting debut on a positive note.",
+      "pubDate": "2026-11-27T16:49:08.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+      "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+      "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S.",
+      "pubDate": "2026-11-27T15:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "WSJ",
+      "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
+      "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "pubDate": "2026-11-27T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
+      "pubDate": "2026-11-26T23:53:35.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "Oracle Bonds Yield a Towering 9% on Debt and Data-Center Concerns. Are They a Buy?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzk4T3NyQWdORGpJSmNzbkwzZlVCTTEzb2V5VEM1T0VvN0FaaXFxalE5UkdGcFVzTUMzR21kbW1nQTM5SjhzYkNCWEE4UFU3YURTODY2X05fUXpVRzc0NjAta2NZVjZuLWh5aEZBMDdpcEFKdElTQ1hZUFZseTRrTklSRGNTc2Ix?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T21:46:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 3
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock Jumps Thanks to AI Rally. Why It Should Be Rising Even More.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZFgxODI4YVZ5dndQbExVcWtOM291QjdHT0FTbHJGckp3ckE3RE9hbUtTSFVZSVNpQzFhMndsY0FBYXFxLXJLSFF6WUp1MUpGRkFYR0w2SVF5WU1EdnhjMWVNVlo0MlpkLXoybzlLcnI?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T14:52:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Financial Times",
+      "title": "First principles to cling to when markets convulse",
+      "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+      "summary": "If you haven’t a clue what to do right now, stick to the investment basics",
+      "pubDate": "2026-11-27T12:32:08.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "WSJ",
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "summary": "The sharp correction to power stocks creates an opportunity for investors.",
+      "pubDate": "2026-11-25T10:30:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "Barron's",
+      "title": "Bill Ackman Thinks Investors Are Wrong on Alcon and Intercontinental Exchange Stocks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjU0cF8yZDFLcklhbExqS0tGeDRFN1UtYkZ3WkNMQUczR0Y5a3ZnTXRMVjBOcWFWdk5GNDFBM3BKM1drNm81YTNQUTRDT1hDSzdNcGZJLXhNMzdjU1k0UTZ1dGNVYW5ndHhxNy0tenIybnNUcXB3T1hHV19IQ1hSd3NnUE9weFV0Mk1EWHZsbS1WekdHVHhRUTFoNmVUd3NaQkR3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T20:02:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 2
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "pubDate": "2026-11-27T18:53:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic Stock Jumps to Reveal Its True Place in the AI Trade",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mbEc0WGNCdmFyMHpucHVpbS05ZjVTNWxaRHdvM1BrMXNFaWJJYUlpYTR5VkhQLXloS1kxWmZ2TTVfQnpUbWYweVhjN2dXS20zVHVmS016WWtBZERIU2hnVUthUmxmOXJfTWFWOXM5Q1V2b044?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T15:32:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T15:26:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate.",
+      "pubDate": "2026-11-27T15:01:00.000Z",
+      "tags": [
+        "macro"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Is Jumping but There’s Bad News on Memory Prices",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03a3R5bkdkT2gwM2wxcVVqVFgzaVEwUmF6bXUyNk9xSGxJRGFaV1lWRE5KT1BDVlpQMHVnaU95c3ljeUdsbE9IdVVKTnZiZ2V1eHphdnBHd2ZTS0VZUkZnSU50cWs5UHRZMENNNzEtZDEwQjNBYXc?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T14:58:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+      "pubDate": "2026-11-27T14:56:00.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia arrests three over alleged ‘deep fried’ market manipulation",
+      "link": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+      "summary": "Move follows MSCI’s threat to downgrade country to standalone market status",
+      "pubDate": "2026-11-27T10:54:42.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chinese shares soar after Beijing signals more support",
+      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "summary": "Biggest one-day rise for CSI 300 index in two years following months of weakness",
+      "pubDate": "2026-11-27T08:32:35.000Z",
+      "tags": [
+        "markets"
+      ],
+      "relevance": 1
+    }
+  ],
+  "all": [
+    {
+      "source": "WSJ",
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "summary": "The Nasdaq finished its best week since April, with all three major indexes ending the week strong.",
+      "pubDate": "2026-11-27T18:09:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+      "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+      "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S.",
+      "pubDate": "2026-11-27T15:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+      "summary": "The multiday outage has left customers struggling to reach the insurer during one of the year’s busiest travel weeks.",
+      "pubDate": "2026-11-27T12:48:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
+      "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "pubDate": "2026-11-27T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "summary": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized.",
+      "pubDate": "2026-11-27T05:53:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+      "summary": "An ironworkers’ retirement plan is now fully funded, thanks largely to the U.S. stock market’s yearslong rally.",
+      "pubDate": "2026-11-26T19:55:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "summary": "The sharp correction to power stocks creates an opportunity for investors.",
+      "pubDate": "2026-11-25T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+      "pubDate": "2026-11-24T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+      "pubDate": "2026-11-23T10:30:00.000Z"
+    },
+    {
+      "source": "WSJ",
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+      "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+      "pubDate": "2026-11-22T10:30:00.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s Nvidia intervention has a cost for US stocks",
+      "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+      "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+      "pubDate": "2026-11-27T18:26:25.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI and the decryption nightmare",
+      "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+      "summary": "New breakthroughs call for faster upgrades to security, not panic",
+      "pubDate": "2026-11-27T18:18:27.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can AI crack encryption?",
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "pubDate": "2026-11-27T18:16:51.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "US tech stocks rise in latest market swing",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "pubDate": "2026-11-27T17:27:23.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU weighs tighter export controls to prevent battery waste going to China",
+      "link": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "summary": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+      "pubDate": "2026-11-27T13:26:26.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "First principles to cling to when markets convulse",
+      "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+      "summary": "If you haven’t a clue what to do right now, stick to the investment basics",
+      "pubDate": "2026-11-27T12:32:08.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia arrests three over alleged ‘deep fried’ market manipulation",
+      "link": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+      "summary": "Move follows MSCI’s threat to downgrade country to standalone market status",
+      "pubDate": "2026-11-27T10:54:42.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+      "link": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+      "summary": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
+      "pubDate": "2026-11-27T10:21:13.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ladbrokes owner to settle Australia money laundering case",
+      "link": "https://www.ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+      "summary": "Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing",
+      "pubDate": "2026-11-27T09:51:44.000Z"
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chinese shares soar after Beijing signals more support",
+      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "summary": "Biggest one-day rise for CSI 300 index in two years following months of weakness",
+      "pubDate": "2026-11-27T08:32:35.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+      "summary": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
+      "pubDate": "2026-11-26T23:44:27.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
+      "pubDate": "2026-11-26T23:53:35.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "summary": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
+      "pubDate": "2026-11-27T02:43:08.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "summary": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
+      "pubDate": "2026-11-26T21:59:57.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+      "summary": "Copper climbed the most since April, extending its rebound from an 11-month low earlier this week, as risk appetite returned after a rout fueled by concerns over the artificial intelligence trade.",
+      "pubDate": "2026-11-27T03:33:07.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+      "summary": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "pubDate": "2026-11-27T18:43:36.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+      "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
+      "pubDate": "2026-11-27T07:56:20.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Power Outages, Flood Risks Linger as Storm Leaves East Coast",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+      "summary": "More than 400,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in Queens and Manhattan and inundated commuter rail lines in New Jersey on Thanksgiving Day.",
+      "pubDate": "2026-11-27T14:20:06.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Anthropic Shares Jump After Volatile First Week Since IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+      "summary": "Anthropic PBC shares climbed above their $83 initial public offering price as the artificial intelligence lab finished its first calendar week on the Nasdaq after its record-setting debut on a positive note.",
+      "pubDate": "2026-11-27T16:49:08.000Z"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Brazil Markets Rally as Trabuco Pick Soothes Fiscal Fears",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "summary": "Brazilian markets rallied after President Luiz Inácio Lula da Silva picked one of the nation’s most prominent bankers to be his finance minister, easing the worries about his economic policies that triggered a deep selloff after his surprise re-election last month.",
+      "pubDate": "2026-11-27T01:08:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Micron Stock Is Jumping but There’s Bad News on Memory Prices",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03a3R5bkdkT2gwM2wxcVVqVFgzaVEwUmF6bXUyNk9xSGxJRGFaV1lWRE5KT1BDVlpQMHVnaU95c3ljeUdsbE9IdVVKTnZiZ2V1eHphdnBHd2ZTS0VZUkZnSU50cWs5UHRZMENNNzEtZDEwQjNBYXc?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T14:58:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "This Christmas, the Rich Are Skipping the Stuff and Buying These Gifts Instead",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnB4R3lOVG9BbmkxOTFEWEg5N2l2bzNfMWJIdkhPV2ExX2pSMzJ0T05ORGFhRWJnaURkdG1HMnY5NWhaNmt3R3pnT0IwaHNSMndBNkY5Uy1fYTJRYXZHV25Rc1BWNlZiSUpRYXpIVEJuTTB0Ui1TWW5rRU1VVVZoQjBYYlQ?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T10:30:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Anthropic Stock Jumps to Reveal Its True Place in the AI Trade",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mbEc0WGNCdmFyMHpucHVpbS05ZjVTNWxaRHdvM1BrMXNFaWJJYUlpYTR5VkhQLXloS1kxWmZ2TTVfQnpUbWYweVhjN2dXS20zVHVmS016WWtBZERIU2hnVUthUmxmOXJfTWFWOXM5Q1V2b044?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T15:32:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Keeps Falling. It’s Obvious Jensen Huang Wasn’t the Only Problem.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE95d05EdUt4VmhtanBHWXZjaEZhUktJLXRZaUNqejRZWk1lRW5lRUdUbFhMOGM5OUZBVUNYOVAwZTk0LURzQ3RSZHJTU29QT3dGdWhyTjdaMzJUcUdFaUFMMktvUkx3aWE4LTRvUnYtN3NYZHU0TTJR?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T17:50:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Stock Gains. It’s Still Finding Its Floor With Huang 2.0.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVUI0cGtEYUtyUERNQk1nMElsa0dsZzBGOUJoM0Z3SGFpZE1saHJ3QTVBM0N5M29ISzJhc3RhaUw4cmkwa2Q4UHBoV3V1TzA3LTlHU3dpMEF3d0dJd0YxVDIzWXM5eWhUY24xSVkxeEFkR25R?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T15:26:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Nvidia Halts Server Shipments to Southeast Asia, Says Report. The Stock Can’t Catch a Break.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZwTC1tbVoyVFBCQVY5MlpGa296SzNNUGpXT195Z19tamNhMGx5RFk0OHhKcEVpa0RGTnFWYjd2UWIwUFZOY295RUhaWkNrMUNET1I5cUUxLW4zejJRUjE2TkNma1ZjcnpucDJFeHNXNkp6S2E4VGFRNzl3WXBWZUVFNG1kcy1k?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-26T13:59:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "SpaceX Stock Jumps Thanks to AI Rally. Why It Should Be Rising Even More.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZFgxODI4YVZ5dndQbExVcWtOM291QjdHT0FTbHJGckp3ckE3RE9hbUtTSFVZSVNpQzFhMndsY0FBYXFxLXJLSFF6WUp1MUpGRkFYR0w2SVF5WU1EdnhjMWVNVlo0MlpkLXoybzlLcnI?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-27T14:52:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Bill Ackman Thinks Investors Are Wrong on Alcon and Intercontinental Exchange Stocks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjU0cF8yZDFLcklhbExqS0tGeDRFN1UtYkZ3WkNMQUczR0Y5a3ZnTXRMVjBOcWFWdk5GNDFBM3BKM1drNm81YTNQUTRDT1hDSzdNcGZJLXhNMzdjU1k0UTZ1dGNVYW5ndHhxNy0tenIybnNUcXB3T1hHV19IQ1hSd3NnUE9weFV0Mk1EWHZsbS1WekdHVHhRUTFoNmVUd3NaQkR3?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-24T20:02:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "Oracle Bonds Yield a Towering 9% on Debt and Data-Center Concerns. Are They a Buy?",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzk4T3NyQWdORGpJSmNzbkwzZlVCTTEzb2V5VEM1T0VvN0FaaXFxalE5UkdGcFVzTUMzR21kbW1nQTM5SjhzYkNCWEE4UFU3YURTODY2X05fUXpVRzc0NjAta2NZVjZuLWh5aEZBMDdpcEFKdElTQ1hZUFZseTRrTklSRGNTc2Ix?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T21:46:00.000Z"
+    },
+    {
+      "source": "Barron's",
+      "title": "How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5DdzVueDRtNjAta2lfWkxCZFZNNjhUUlhqU0FucEJhQWN2ZzdGWVhUeFhNUXFkT0haSUhDLS1jaWRJbUdNREloNlk1U0xMY2NGMUJTalUtN1Y3ZUVsMW15STVZUjNaQlY0OUpCcFlTa2FhV3F0dEMtNGpxbHRvUW5NVzdLWHBpU1BuTW96aw?oc=5",
+      "summary": "",
+      "pubDate": "2026-11-25T16:33:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "pubDate": "2026-11-27T18:53:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The warnings behind this week’s stock-market rally",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "pubDate": "2026-11-27T18:40:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "pubDate": "2026-11-27T17:31:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "pubDate": "2026-11-27T17:04:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "pubDate": "2026-11-27T16:00:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "pubDate": "2026-11-27T15:45:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "pubDate": "2026-11-27T15:30:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+      "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+      "summary": "‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’",
+      "pubDate": "2026-11-27T15:04:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate.",
+      "pubDate": "2026-11-27T15:01:00.000Z"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+      "pubDate": "2026-11-27T14:56:00.000Z"
+    }
+  ]
+}
